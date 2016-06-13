@@ -1,24 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-05-15 18:44:35
+title:  "MODULO I"
+date:   2016-06-14 18:44:35
 categories: jekyll update
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+# MODULO I
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+## What is R?
+- Does it deserve its fame?/ Why is R getting so popular? (A community of developers, people are actually spending time FOR FREE)
+- You have three whishes: Applications or R/ How woul you find all....? (Obj: realization of the efficiency of R)
+- It is not one or the other: R vs STATA/ The beauty and the beast/ Barcelona vs Real Madrid/ Titants battle/ 
+- There is such thing as a free lunch/ No pain, no gain
+-  So....who takes the challenge? (instruction to join!!! Get in our e-mail account, feel in the survey)
 
 [jekyll-gh]: https://github.com/mojombo/jekyll
 [jekyll]:    http://jekyllrb.com
