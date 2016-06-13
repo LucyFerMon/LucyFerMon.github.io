@@ -1,14 +1,9 @@
 ---
 layout: default
 ---
-<div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
-</div>
+<article class="color3 module">
+  <a href="{{ page.url }}"><h2>{{ page.title }}</h2></a>
+  <hr>
+  <time>{{ page.date| date: "%m/%d/%Y" }}</time>
+  {{ content }}
+</article>

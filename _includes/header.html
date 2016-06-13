@@ -1,18 +1,18 @@
-<div class="site-header">
-
-    <nav class="site-nav">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
-    </nav>
-
-    <h1>
-     <span>
-      <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-     </span>
-    </h1>
-
-
-</div>
+<aside class="main-header">
+  <header class="module">
+    <h1><a href="/">{{ site.title }}</a></h1>
+  </header>
+  <div class="module color2">
+    {{ site.description }}
+  </div>
+  <nav class="module color4">
+    <a href="/">Home</a>
+    <a href="/about/">About</a>
+    <a href="/contact/">Contact</a>
+  </nav>
+  <div class="module color3">
+    github/{{ site.github }}
+    <br>twitter/{{ site.twitter }}
+    <br>{{ site.email }}
+  </div>
+</aside>

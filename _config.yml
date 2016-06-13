@@ -1,15 +1,15 @@
 # Site settings
-title: R CISM
-email: 
-description: Aprendizagem de R no CISM
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://github.com" # the base hostname & protocol for your site
-# twitter_username: username
-github_username: joebrew
+title:        "block-Log"
+description:  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor"
+baseurl:      "" # the subpath of your site, e.g. /blog/
+url:          "http://yourdomain.com" # the base hostname & protocol for your site
+permalink:    /:year/:title
+github:       "yourusername"
+twitter:      "yourusername"
+email:        "mail@example.com"
+disqus-id:    "example" #leave blank if you dont want comments.
 
 # Build settings
-markdown: redcarpet
-markdown_ext:  markdown,mkdown,mkdn,mkd,md
-
-redcarpet:
-  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "fenced_code_blocks"]
+markdown:     kramdown
+sass:
+    style: :compressed
