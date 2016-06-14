@@ -1,13 +1,13 @@
 # Site settings
 title:        "R no CISM"
-description:  "aprendizagem de R no CISM"
+description:  "aprendizagem de R no CISM para iniciantes"
 baseurl:      "" # the subpath of your site, e.g. /blog/
 url:          "lucyfermon.github.io" # the base hostname & protocol for your site
 permalink:    /:year/:title
-github:       "joebrew"
-twitter:      "bcndata"
-email:        "joebrew@gmail.com"
-# disqus-id:    "example" #leave blank if you dont want comments.
+github:       "https://github.com/LucyFerMon/"
+twitter:      “LucyFerMon”
+email:        “lucia.fmontoya@gmail.com"
+disqus-id:    "" #leave blank if you dont want comments.
 
 # Build settings
 markdown:     kramdown
