@@ -1,396 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>block-Log</title>
-    <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolor</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Jun 2016 20:22:57 +0200</pubDate>
-    <lastBuildDate>Mon, 13 Jun 2016 20:22:57 +0200</lastBuildDate>
+    <title>R no CISM</title>
+    <description>aprendizagem de R no CISM</description>
+    <link>lucyfermon.github.io/</link>
+    <atom:link href="lucyfermon.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 14 Jun 2016 11:18:12 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Jun 2016 11:18:12 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Lorem ipsum dolor sit amet..</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
+        <title>Módulo 3</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;Querying, filtering, summarizing, mutating&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Fri, 17 Jul 2015 14:36:09 +0200</pubDate>
-        <link>http://yourdomain.com/2015/lorem-ipsum</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/lorem-ipsum</guid>
+        <pubDate>Tue, 14 Jun 2016 05:00:00 +0200</pubDate>
+        <link>lucyfermon.github.io/2016/modulo-3</link>
+        <guid isPermaLink="true">lucyfermon.github.io/2016/modulo-3</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
       <item>
-        <title>More random text</title>
-        <description>&lt;p&gt;OK, so images can get quite complicated as we have a few variables to work with! For example the image below has had a caption entered in the WordPress image upload dialog box, this creates a [caption] shortcode which then in turn wraps the whole thing in a &lt;code&gt;div&lt;/code&gt; with inline styling! Maybe one day they'll be able to use the &lt;code&gt;figure&lt;/code&gt; and &lt;code&gt;figcaption&lt;/code&gt; elements for all this. Additionally, images can be wrapped in links which, if you're using anything other than &lt;code&gt;color&lt;/code&gt; or &lt;code&gt;text-decoration&lt;/code&gt; to style your links can be problematic.&lt;/p&gt;
-&lt;div id=&quot;attachment_28&quot; class=&quot;wp-caption alignnone&quot; style=&quot;width: 510px&quot;&gt;&lt;a href=&quot;#&quot;&gt;&lt;img src=&quot;http://www.wpfill.me.s3-website-us-east-1.amazonaws.com/img/img_large.png&quot; alt=&quot;Your Alt Tag&quot; title=&quot;bmxisbest&quot; width=&quot;500&quot; height=&quot;300&quot; class=&quot;size-large wp-image-28&quot; /&gt;&lt;/a&gt;&lt;p class=&quot;wp-caption-text&quot;&gt;This is the optional caption.&lt;/p&gt;&lt;/div&gt;
-&lt;p&gt;The next issue we face is image alignment, users get the option of &lt;em&gt;None&lt;/em&gt;, &lt;em&gt;Left&lt;/em&gt;, &lt;em&gt;Right&lt;/em&gt; &amp;amp; &lt;em&gt;Center&lt;/em&gt;. On top of this, they also get the options of &lt;em&gt;Thumbnail&lt;/em&gt;, &lt;em&gt;Medium&lt;/em&gt;, &lt;em&gt;Large&lt;/em&gt; &amp;amp; &lt;em&gt;Fullsize&lt;/em&gt;. You'll probably want to add floats to style the image position so important to remember to clear these to stop images popping below the bottom of your articles.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;http://www.wpfill.me.s3-website-us-east-1.amazonaws.com/img/img_medium.png&quot; alt=&quot;Your Alt Title&quot; title=&quot;Your Title&quot; width=&quot;300&quot; height=&quot;200&quot; class=&quot;alignright size-medium wp-image-28&quot; /&gt;
-&lt;img src=&quot;http://www.wpfill.me.s3-website-us-east-1.amazonaws.com/img/img_thumb.png&quot; alt=&quot;Your Alt Title&quot; title=&quot;Your Title&quot; width=&quot;150&quot; height=&quot;150&quot; class=&quot;alignleft size-thumbnail wp-image-28&quot; /&gt;
-&lt;img class=&quot;aligncenter size-medium wp-image-28&quot; title=&quot;Your Title&quot; src=&quot;http://www.wpfill.me.s3-website-us-east-1.amazonaws.com/img/img_medium.png&quot; alt=&quot;Your Alt Title&quot; width=&quot;300&quot; height=&quot;200&quot; /&gt;
-&lt;img src=&quot;http://www.wpfill.me.s3-website-us-east-1.amazonaws.com/img/img_full.png&quot; alt=&quot;Your Alt Title&quot; title=&quot;Your Title&quot; width=&quot;840&quot; height=&quot;300&quot; class=&quot;alignnone size-full wp-image-28&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Additionally, to add further confusion, images can be wrapped inside paragraph content, lets test some examples here.&lt;img src=&quot;http://www.wpfill.me.s3-website-us-east-1.amazonaws.com/img/img_medium.png&quot; alt=&quot;Your Alt Title&quot; title=&quot;Your Title&quot; width=&quot;300&quot; height=&quot;200&quot; class=&quot;alignright size-medium wp-image-28&quot; /&gt;
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur.&lt;img src=&quot;http://www.wpfill.me.s3-website-us-east-1.amazonaws.com/img/img_thumb.png&quot; alt=&quot;Your Alt Title&quot; title=&quot;Your Title&quot; width=&quot;150&quot; height=&quot;150&quot; class=&quot;alignleft size-thumbnail wp-image-28&quot; /&gt;Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur.&lt;img src=&quot;http://www.wpfill.me.s3-website-us-east-1.amazonaws.com/img/img_thumb.png&quot; alt=&quot;Your Alt Title&quot; title=&quot;Your Title&quot; width=&quot;150&quot; height=&quot;150&quot; class=&quot;aligncenter size-thumbnail wp-image-28&quot; /&gt;Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
-&lt;p&gt;And then... Finally, users can insert a WordPress [gallery], which is kinda ugly and comes with some CSS stuck into the page to style it (which doesn't actually validate, nor does the markup for the gallery). The amount of columns in the gallery is also changable by the user, but the default is three so we'll work with that for our example with an added fouth image to test verticle spacing.&lt;/p&gt;
-&lt;style type=&quot;text/css&quot;&gt;#gallery-1{margin:auto;}#gallery-1 .gallery-item{float:left;margin-top:10px;text-align:center;width:33%;}#gallery-1 img{border:2px solid #cfcfcf;}#gallery-1 .gallery-caption{margin-left:0;}&lt;/style&gt;
-
-&lt;div id=&quot;gallery-1&quot; class=&quot;gallery galleryid-1 gallery-columns-3 gallery-size-thumbnail&quot;&gt;&lt;dl class=&quot;gallery-item&quot;&gt;
-&lt;dt class=&quot;gallery-icon&quot;&gt;
-&lt;a href=&quot;#&quot; title=&quot;Your Title&quot;&gt;&lt;img width=&quot;150&quot; height=&quot;150&quot; src=&quot;http://www.wpfill.me.s3-website-us-east-1.amazonaws.com/img/img_thumb.png&quot; class=&quot;attachment-thumbnail&quot; alt=&quot;Your Alt Title&quot; title=&quot;Your Title&quot; /&gt;&lt;/a&gt;
-&lt;/dt&gt;&lt;/dl&gt;&lt;dl class=&quot;gallery-item&quot;&gt;
-&lt;dt class=&quot;gallery-icon&quot;&gt;
-&lt;a href=&quot;#&quot; title=&quot;Your Title&quot;&gt;&lt;img width=&quot;150&quot; height=&quot;150&quot; src=&quot;http://www.wpfill.me.s3-website-us-east-1.amazonaws.com/img/img_thumb.png&quot; class=&quot;attachment-thumbnail&quot; alt=&quot;Your Alt Title&quot; title=&quot;Your Title&quot; /&gt;&lt;/a&gt;
-&lt;/dt&gt;&lt;/dl&gt;&lt;dl class=&quot;gallery-item&quot;&gt;
-&lt;dt class=&quot;gallery-icon&quot;&gt;
-&lt;a href=&quot;#&quot; title=&quot;Your Title&quot;&gt;&lt;img width=&quot;150&quot; height=&quot;150&quot; src=&quot;http://www.wpfill.me.s3-website-us-east-1.amazonaws.com/img/img_thumb.png&quot; class=&quot;attachment-thumbnail&quot; alt=&quot;Your Alt Title&quot; title=&quot;Your Title&quot; /&gt;&lt;/a&gt;
-&lt;/dt&gt;&lt;/dl&gt;&lt;br style=&quot;clear: both&quot; /&gt;&lt;dl class=&quot;gallery-item&quot;&gt;
-&lt;dt class=&quot;gallery-icon&quot;&gt;
-&lt;a href=&quot;#&quot; title=&quot;Your Title&quot;&gt;&lt;img width=&quot;150&quot; height=&quot;150&quot; src=&quot;http://www.wpfill.me.s3-website-us-east-1.amazonaws.com/img/img_thumb.png&quot; class=&quot;attachment-thumbnail&quot; alt=&quot;Your Alt Title&quot; title=&quot;Your Title&quot; /&gt;&lt;/a&gt;
-&lt;/dt&gt;&lt;/dl&gt;
-&lt;br style=&quot;clear: both;&quot; /&gt;
-&lt;/div&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Table Head Column One&lt;/th&gt;
-&lt;th&gt;Table Head Column Two&lt;/th&gt;
-&lt;th&gt;Table Head Column Three&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tfoot&gt;
-&lt;tr&gt;
-&lt;td&gt;Table Footer Column One&lt;/td&gt;
-&lt;td&gt;Table Footer Column Two&lt;/td&gt;
-&lt;td&gt;Table Footer Column Three&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tfoot&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Table Row Column One&lt;/td&gt;
-&lt;td&gt;Short Text&lt;/td&gt;
-&lt;td&gt;Testing a table cell with a longer amount of text to see what happens, you're not using tables for site layouts are you?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Table Row Column One&lt;/td&gt;
-&lt;td&gt;Table Row Column Two&lt;/td&gt;
-&lt;td&gt;Table Row Column Three&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Table Row Column One&lt;/td&gt;
-&lt;td&gt;Table Row Column Two&lt;/td&gt;
-&lt;td&gt;Table Row Column Three&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Table Row Column One&lt;/td&gt;
-&lt;td&gt;Table Row Column Two&lt;/td&gt;
-&lt;td&gt;Table Row Column Three&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Table Row Column One&lt;/td&gt;
-&lt;td&gt;Table Row Column Two&lt;/td&gt;
-&lt;td&gt;Table Row Column Three&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Ordered list item one.&lt;/li&gt;
-&lt;li&gt;Ordered list item two.&lt;/li&gt;
-&lt;li&gt;Ordered list item three.&lt;/li&gt;
-&lt;li&gt;Ordered list item four.&lt;/li&gt;
-&lt;li&gt;By the way, Wordpress does not let you create nested lists through the visual editor.&lt;/li&gt;
-&lt;/ol&gt;
+        <title>Módulo 2</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;How to read your data in?  (csv, excel, .data, other formats)&lt;/li&gt;
+  &lt;li&gt;How to perform basic operations: sum, count, min, max, summary,&lt;/li&gt;
+  &lt;li&gt;Avoiding headaches: data structure&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 14 Jun 2016 04:00:00 +0200</pubDate>
+        <link>lucyfermon.github.io/2016/modulo-2</link>
+        <guid isPermaLink="true">lucyfermon.github.io/2016/modulo-2</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Módulo 1</title>
+        <description>&lt;h1 id=&quot;the-power-of-r&quot;&gt;The power of R&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Unordered list item one.&lt;/li&gt;
-&lt;li&gt;Unordered list item two.&lt;/li&gt;
-&lt;li&gt;Unordered list item three.&lt;/li&gt;
-&lt;li&gt;Unordered list item four.&lt;/li&gt;
-&lt;li&gt;By the way, Wordpress does not let you create nested lists through the visual editor.&lt;/li&gt;
+  &lt;li&gt;What is R&lt;/li&gt;
+  &lt;li&gt;Why is R getting so popular?&lt;/li&gt;
+  &lt;li&gt;Applications of R&lt;/li&gt;
+  &lt;li&gt;Compared to SPSS, Stata, SAS, etc…&lt;/li&gt;
+  &lt;li&gt;There is such thing as a free lunch&lt;/li&gt;
+  &lt;li&gt;Who is in? Go &lt;a href=&quot;http://goo.gl/forms/PfAncjOa11uMePO53&quot;&gt;HERE&lt;/a&gt; and fill out a survey&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;blockquote&gt;
-Currently WordPress blockquotes are just wrapped in blockquote tags and have no clear way for the user to define a source. Maybe one day they'll be more semantic (and easier to style) like the version below.
-&lt;/blockquote&gt;
-&lt;blockquote cite=&quot;http://html5doctor.com/blockquote-q-cite/&quot;&gt;
-&lt;p&gt;HTML5 comes to our rescue with the footer element, allowing us to add semantically separate information about the quote.&lt;/p&gt;
-&lt;footer&gt;
-&lt;cite&gt;
-&lt;a href=&quot;http://html5doctor.com/blockquote-q-cite/&quot;&gt;Oli Studholme, HTML5doctor.com&lt;/a&gt;
-&lt;/cite&gt;
-&lt;/footer&gt;
-&lt;/blockquote&gt;
+&lt;h1 id=&quot;setting-up&quot;&gt;Setting up&lt;/h1&gt;
 
-&lt;h1&gt;Level One Heading&lt;/h1&gt;
-&lt;h2&gt;Level Two Heading&lt;/h2&gt;
-&lt;h3&gt;Level Three Heading&lt;/h3&gt;
-&lt;h4&gt;Level Four Heading&lt;/h4&gt;
-&lt;h5&gt;Level Five Heading&lt;/h5&gt;
-&lt;h6&gt;Level Six Heading&lt;/h6&gt;
-
-&lt;p&gt;This is a standard paragraph created using the WordPress TinyMCE text editor. It has a &lt;strong&gt;strong tag&lt;/strong&gt;, an &lt;em&gt;em tag&lt;/em&gt; and a &lt;del&gt;strikethrough&lt;/del&gt; which is actually just the del element. There are a few more inline elements which are not in the WordPress admin but we should check for incase your users get busy with the copy and paste. These include &lt;cite&gt;citations&lt;/cite&gt;, &lt;abbr title=&quot;abbreviation&quot;&gt;abbr&lt;/abbr&gt;, bits of &lt;code&gt;code&lt;/code&gt; and &lt;var&gt;variables&lt;/var&gt;, &lt;q&gt;inline quotations&lt;/q&gt;, &lt;ins datetime=&quot;2011-12-08T20:19:53+00:00&quot;&gt;inserted text&lt;/ins&gt;, text that is &lt;s&gt;no longer accurate&lt;/s&gt; or something &lt;mark&gt;so important&lt;/mark&gt; you might want to mark it. We can also style subscript and superscript characters like C0&lt;sub&gt;2&lt;/sub&gt;, here is our 2&lt;sup&gt;nd&lt;/sup&gt; example. If they are feeling non-semantic they might even use &lt;b&gt;bold&lt;/b&gt;, &lt;i&gt;italic&lt;/i&gt;, &lt;big&gt;big&lt;/big&gt; or &lt;small&gt;small&lt;/small&gt; elements too.&amp;nbsp;Incidentally, these HTML4.01 tags have been given new life and semantic meaning in HTML5, you may be interested in reading this &lt;a title=&quot;HTML5 Semantics&quot; href=&quot;http://csswizardry.com/2011/01/html5-and-text-level-semantics&quot;&gt;article by Harry Roberts&lt;/a&gt; which gives a nice excuse to test a link.&amp;nbsp;&amp;nbsp;It is also worth noting in the &quot;kitchen sink&quot; view you can also add &lt;span style=&quot;text-decoration: underline;&quot;&gt;underline&lt;/span&gt;&amp;nbsp;styling and set &lt;span style=&quot;color: #ff0000;&quot;&gt;text color&lt;/span&gt; with pesky inline CSS.&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;Additionally, WordPress also sets text alignment with inline styles, like this left aligned paragraph.&amp;nbsp;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
-&lt;p style=&quot;text-align: right;&quot;&gt;This is a right aligned paragraph.&amp;nbsp;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;This is a justified paragraph.&amp;nbsp;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
-&lt;p style=&quot;padding-left: 30px;&quot;&gt;Finally, you also have the option of an indented paragraph.&amp;nbsp;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
-&lt;p&gt;And last, and by no means least, users can also apply the &lt;code&gt;Address&lt;/code&gt; tag to text like this:&lt;/p&gt;
-&lt;address&gt;123 Example Street,
-Testville,
-West Madeupsburg,
-CSSland,
-1234&lt;/address&gt;
-&lt;p&gt;...so there you have it, all our text elements&lt;/p&gt;
-</description>
-        <pubDate>Fri, 15 May 2015 20:44:35 +0200</pubDate>
-        <link>http://yourdomain.com/2015/more-random-text</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/more-random-text</guid>
-        
-        
-        <category>random</category>
-        
-        <category>text</category>
-        
-      </item>
-    
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 15 May 2014 20:44:35 +0200</pubDate>
-        <link>http://yourdomain.com/2014/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/welcome-to-jekyll</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>HTML</title>
-        <description>&lt;div class=&quot;entry-content&quot;&gt;
-		&lt;p&gt;What HTML tags would you like to see?&lt;/p&gt;
-&lt;p&gt;Let’s start with an unordered list:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;One&lt;/li&gt;
-&lt;li&gt;Two&lt;/li&gt;
-&lt;li&gt;Three&lt;/li&gt;
-&lt;li&gt;Four&lt;/li&gt;
+  &lt;li&gt;Download R from
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/bin/windows/base/&quot;&gt;Windows&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/bin/macosx/&quot;&gt;Mac&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Download RStudio from
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://download1.rstudio.org/RStudio-0.99.902.exe&quot;&gt;Windows&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://download1.rstudio.org/RStudio-0.99.902.dmg&quot;&gt;Mac&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Open RStudio&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;And then move on to a more interesting ordered list:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;one, two
-&lt;ol&gt;
-&lt;li&gt;buckle my shoe&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;three, four
-&lt;ol&gt;
-&lt;li&gt;knock at the door&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Five, six
-&lt;ol&gt;
-&lt;li&gt;pick up sticks&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Seven, eight, lay them straight
-&lt;ol&gt;
-&lt;li&gt;Nine, ten, a big fat hen&lt;/li&gt;
-&lt;li&gt;Eleven, twelve, dig and delve&lt;/li&gt;
-&lt;li&gt;Thirteen, fourteen, maids a’courting&lt;/li&gt;
-&lt;li&gt;Fifteen, sixteen, maids in the kitchen&lt;/li&gt;
-&lt;li&gt;Seventeen, eighteen, maids a’waiting&lt;/li&gt;
-&lt;li&gt;Nineteen, twenty, my platter’s empty …&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-	&lt;/div&gt;
-</description>
-        <pubDate>Thu, 01 May 2014 22:46:47 +0200</pubDate>
-        <link>http://yourdomain.com/2014/html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Elements</title>
-        <description>&lt;div class=&quot;entry-content&quot;&gt;
-		&lt;p&gt;&lt;!-- Sample Content to Plugin to Template --&gt;&lt;/p&gt;
-&lt;p&gt;The purpose of this HTML is to help determine what default settings are with CSS and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h1&gt;Heading 1&lt;/h1&gt;
-&lt;h2&gt;Heading 2&lt;/h2&gt;
-&lt;h3&gt;Heading 3&lt;/h3&gt;
-&lt;h4&gt;Heading 4&lt;/h4&gt;
-&lt;h5&gt;Heading 5&lt;/h5&gt;
-&lt;h6&gt;Heading 6&lt;/h6&gt;
-&lt;p&gt;&lt;small&gt;&lt;a href=&quot;#wrapper&quot;&gt;[top]&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&quot;paragraph&quot;&gt;Paragraph&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, &lt;a href=&quot;#&quot; title=&quot;test link&quot;&gt;test link&lt;/a&gt; adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, &lt;em&gt;emphasis&lt;/em&gt; consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
-&lt;p&gt;&lt;small&gt;&lt;a href=&quot;#wrapper&quot;&gt;[top]&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&quot;list_types&quot;&gt;List Types&lt;/h2&gt;
-&lt;h3&gt;Definition List&lt;/h3&gt;
-&lt;dl&gt;
-&lt;dt&gt;Definition List Title&lt;/dt&gt;
-&lt;dd&gt;This is a definition list division.&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;h3&gt;Ordered List&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;List Item 1&lt;/li&gt;
-&lt;li&gt;List Item 2&lt;/li&gt;
-&lt;li&gt;List Item 3&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3&gt;Unordered List&lt;/h3&gt;
+
+&lt;h1 id=&quot;understanding-rstudio&quot;&gt;Understanding RStudio&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/rstudio.png&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;understanding-packages&quot;&gt;Understanding “packages”&lt;/h1&gt;
+
+&lt;p&gt;A few good packages to install now:&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;List Item 1&lt;/li&gt;
-&lt;li&gt;List Item 2&lt;/li&gt;
-&lt;li&gt;List Item 3&lt;/li&gt;
+  &lt;li&gt;maps&lt;/li&gt;
+  &lt;li&gt;leaflet&lt;/li&gt;
+  &lt;li&gt;gapminder&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;small&gt;&lt;a href=&quot;#wrapper&quot;&gt;[top]&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&quot;form_elements&quot;&gt;Forms&lt;/h2&gt;
-&lt;fieldset&gt;
-&lt;legend&gt;Legend&lt;/legend&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.&lt;/p&gt;
-&lt;form&gt;
-&lt;h2&gt;Form Element&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.&lt;/p&gt;
-&lt;p&gt;&lt;label for=&quot;text_field&quot;&gt;Text Field:&lt;/label&gt;&lt;br /&gt;
-		&lt;input id=&quot;text_field&quot; type=&quot;text&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;label for=&quot;text_area&quot;&gt;Text Area:&lt;/label&gt;&lt;br /&gt;
-		&lt;textarea id=&quot;text_area&quot;&gt;&lt;/textarea&gt;&lt;/p&gt;
-&lt;p&gt;&lt;label for=&quot;select_element&quot;&gt;Select Element:&lt;/label&gt;&lt;br /&gt;
-			&lt;select name=&quot;select_element&quot;&gt;
-			&lt;optgroup label=&quot;Option Group 1&quot;&gt;
-				&lt;option value=&quot;1&quot;&gt;Option 1&lt;/option&gt;
-				&lt;option value=&quot;2&quot;&gt;Option 2&lt;/option&gt;
-				&lt;option value=&quot;3&quot;&gt;Option 3&lt;/option&gt;
-			&lt;/optgroup&gt;
-			&lt;optgroup label=&quot;Option Group 2&quot;&gt;
-				&lt;option value=&quot;1&quot;&gt;Option 1&lt;/option&gt;
-				&lt;option value=&quot;2&quot;&gt;Option 2&lt;/option&gt;
-				&lt;option value=&quot;3&quot;&gt;Option 3&lt;/option&gt;
-			&lt;/optgroup&gt;
-		&lt;/select&gt;&lt;/p&gt;
-&lt;p&gt;&lt;label for=&quot;radio_buttons&quot;&gt;Radio Buttons:&lt;/label&gt;&lt;/p&gt;
-&lt;p&gt;			&lt;input class=&quot;radio&quot; name=&quot;radio_button&quot; value=&quot;radio_1&quot; type=&quot;radio&quot; /&gt; Radio 1&lt;br /&gt;&lt;br /&gt;
-				&lt;input class=&quot;radio&quot; name=&quot;radio_button&quot; value=&quot;radio_2&quot; type=&quot;radio&quot; /&gt; Radio 2&lt;br /&gt;&lt;br /&gt;
-				&lt;input class=&quot;radio&quot; name=&quot;radio_button&quot; value=&quot;radio_3&quot; type=&quot;radio&quot; /&gt; Radio 3&lt;br /&gt;
-		&lt;/p&gt;
-&lt;p&gt;&lt;label for=&quot;checkboxes&quot;&gt;Checkboxes:&lt;/label&gt;&lt;/p&gt;
-&lt;p&gt;			&lt;input class=&quot;checkbox&quot; name=&quot;checkboxes&quot; value=&quot;check_1&quot; type=&quot;checkbox&quot; /&gt; Radio 1&lt;br /&gt;&lt;br /&gt;
-				&lt;input class=&quot;checkbox&quot; name=&quot;checkboxes&quot; value=&quot;check_2&quot; type=&quot;checkbox&quot; /&gt; Radio 2&lt;br /&gt;&lt;br /&gt;
-				&lt;input class=&quot;checkbox&quot; name=&quot;checkboxes&quot; value=&quot;check_3&quot; type=&quot;checkbox&quot; /&gt; Radio 3&lt;br /&gt;
-		&lt;/p&gt;
-&lt;p&gt;&lt;label for=&quot;password&quot;&gt;Password:&lt;/label&gt;&lt;/p&gt;
-&lt;p&gt;			&lt;input class=&quot;password&quot; name=&quot;password&quot; type=&quot;password&quot; /&gt;
-		&lt;/p&gt;
-&lt;p&gt;&lt;label for=&quot;file&quot;&gt;File Input:&lt;/label&gt;&lt;br /&gt;
-			&lt;input class=&quot;file&quot; name=&quot;file&quot; type=&quot;file&quot; /&gt;
-		&lt;/p&gt;
-&lt;p&gt;&lt;input class=&quot;button&quot; value=&quot;Clear&quot; type=&quot;reset&quot; /&gt; &lt;input class=&quot;button&quot; value=&quot;Submit&quot; type=&quot;submit&quot; /&gt;
-		&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;/form&gt;
-&lt;/fieldset&gt;
-&lt;p&gt;&lt;small&gt;&lt;a href=&quot;#wrapper&quot;&gt;[top]&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
-&lt;table cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;th&gt;Table Header 1&lt;/th&gt;
-&lt;th&gt;Table Header 2&lt;/th&gt;
-&lt;th&gt;Table Header 3&lt;/th&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr class=&quot;even&quot;&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Division 1&lt;/td&gt;
-&lt;td&gt;Division 2&lt;/td&gt;
-&lt;td&gt;Division 3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;p&gt;&lt;small&gt;&lt;a href=&quot;#wrapper&quot;&gt;[top]&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&quot;misc&quot;&gt;Misc Stuff – abbr, acronym, pre, code, sub, sup, etc.&lt;/h2&gt;
-&lt;p&gt;Lorem &lt;sup&gt;superscript&lt;/sup&gt; dolor &lt;sub&gt;subscript&lt;/sub&gt; amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. &lt;cite&gt;cite&lt;/cite&gt;. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. &lt;acronym title=&quot;National Basketball Association&quot;&gt;NBA&lt;/acronym&gt; Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.  &lt;abbr title=&quot;Avenue&quot;&gt;AVE&lt;/abbr&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;p&gt;
-Lorem ipsum dolor sit amet,
- consectetuer adipiscing elit.
- Nullam dignissim convallis est.
- Quisque aliquam. Donec faucibus.
-Nunc iaculis suscipit dui.
-Nam sit amet sem.
-Aliquam libero nisi, imperdiet at,
- tincidunt nec, gravida vehicula,
- nisl.
-Praesent mattis, massa quis
-luctus fermentum, turpis mi
-volutpat justo, eu volutpat
-enim diam eget metus.
-Maecenas ornare tortor.
-Donec sed tellus eget sapien
- fringilla nonummy.
-&lt;acronym title=&quot;National Basketball Association&quot;&gt;NBA&lt;/acronym&gt;
-Mauris a ante. Suspendisse
- quam sem, consequat at,
-commodo vitae, feugiat in,
-nunc. Morbi imperdiet augue
- quis tellus.  
-&lt;abbr title=&quot;Avenue&quot;&gt;AVE&lt;/abbr&gt;&lt;/p&gt;&lt;/pre&gt;
-&lt;blockquote&gt;&lt;p&gt;
-	“This stylesheet is going to help so freaking much.” &lt;br /&gt;-Blockquote
-&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;small&gt;&lt;a href=&quot;#wrapper&quot;&gt;[top]&lt;/a&gt;&lt;/small&gt;&lt;br /&gt;
-&lt;!-- End of Sample Content --&gt;&lt;/p&gt;
-	&lt;/div&gt;
+
+&lt;p&gt;A few others to install later:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;dplyr&lt;/li&gt;
+  &lt;li&gt;ggplot2&lt;/li&gt;
+  &lt;li&gt;ggmap&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;your-first-code&quot;&gt;Your first code&lt;/h1&gt;
+
+&lt;p&gt;Let’s make a pretty map.&lt;/p&gt;
+
+&lt;pre&gt;
+library(maps)
+map('world')
+&lt;/pre&gt;
+
+&lt;p&gt;Let’s make a map of Mozambique&lt;/p&gt;
+
+&lt;pre&gt;
+map('world', 'moz')
+&lt;/pre&gt;
+
+&lt;p&gt;Let’s make a prettier map of Mozambique&lt;/p&gt;
+
+&lt;pre&gt;
+addMarkers(addTiles(leaflet()),
+  lng=32.808352, lat=-25.407195, popup=&quot;Here we are&quot;)
+&lt;/pre&gt;
+
+&lt;h2 id=&quot;now-lets-go-more-into-detail&quot;&gt;Now let’s go more into detail&lt;/h2&gt;
+
+&lt;p&gt;Objects&lt;/p&gt;
+
+&lt;pre&gt;
+a &amp;lt;- 3
+b &amp;lt;- 10
+&lt;/pre&gt;
+
+&lt;p&gt;Objects of multiple length&lt;/p&gt;
+
+&lt;pre&gt;
+d &amp;lt;- c(1, 3, 5, 13, 25)
+f &amp;lt;- c(8000, 3000, 21, 3915, 2501)
+&lt;/pre&gt;
+
+&lt;p&gt;Meaningful objects&lt;/p&gt;
+
+&lt;pre&gt;
+people
+ages
+countries
+sex
+money (in pocket, right now)
+kids
+&lt;/pre&gt;
+
+&lt;p&gt;Making a dataframe from objects&lt;/p&gt;
+
+&lt;p&gt;Making plots&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;histogram&lt;/li&gt;
+  &lt;li&gt;barplot&lt;/li&gt;
+  &lt;li&gt;scatterplot&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Thu, 01 May 2014 22:46:47 +0200</pubDate>
-        <link>http://yourdomain.com/2014/elements</link>
-        <guid isPermaLink="true">http://yourdomain.com/2014/elements</guid>
+        <pubDate>Tue, 14 Jun 2016 03:00:00 +0200</pubDate>
+        <link>lucyfermon.github.io/2016/modulo-1</link>
+        <guid isPermaLink="true">lucyfermon.github.io/2016/modulo-1</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
