@@ -5,8 +5,8 @@
     <description>aprendizagem de R no CISM para iniciantes</description>
     <link>lucyfermon.github.io/</link>
     <atom:link href="lucyfermon.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Jun 2016 11:43:39 +0200</pubDate>
-    <lastBuildDate>Tue, 14 Jun 2016 11:43:39 +0200</lastBuildDate>
+    <pubDate>Tue, 14 Jun 2016 12:50:48 +0200</pubDate>
+    <lastBuildDate>Tue, 14 Jun 2016 12:50:48 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -48,7 +48,7 @@
 &lt;ul&gt;
   &lt;li&gt;What is R&lt;/li&gt;
   &lt;li&gt;Why is R getting so popular?&lt;/li&gt;
-  &lt;li&gt;Applications of R&lt;/li&gt;
+  &lt;li&gt;Applications of R (data cleaning, reading, visualizing, web apps, etc.)&lt;/li&gt;
   &lt;li&gt;Compared to SPSS, Stata, SAS, etc…&lt;/li&gt;
   &lt;li&gt;There is such thing as a free lunch&lt;/li&gt;
   &lt;li&gt;Who is in? Go &lt;a href=&quot;http://goo.gl/forms/PfAncjOa11uMePO53&quot;&gt;HERE&lt;/a&gt; and fill out a survey&lt;/li&gt;
@@ -77,6 +77,8 @@
 &lt;p&gt;&lt;img src=&quot;/images/rstudio.png&quot; alt=&quot;GitHub Logo&quot; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;understanding-packages&quot;&gt;Understanding “packages”&lt;/h1&gt;
+
+&lt;p&gt;de8a1e+0&lt;/p&gt;
 
 &lt;p&gt;A few good packages to install now:&lt;/p&gt;
 
@@ -152,6 +154,14 @@ kids
   &lt;li&gt;barplot&lt;/li&gt;
   &lt;li&gt;scatterplot&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Using a real dataset&lt;/p&gt;
+
+&lt;pre&gt;
+library(gapminder)
+library(dplyr)
+gm &amp;lt;- gapminder
+&lt;/pre&gt;
 </description>
         <pubDate>Tue, 14 Jun 2016 03:00:00 +0200</pubDate>
         <link>lucyfermon.github.io/2016/modulo-1</link>
