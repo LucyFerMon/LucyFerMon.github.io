@@ -5,17 +5,20 @@
     <description>aprendizagem de R no CISM para iniciantes</description>
     <link>lucyfermon.github.io/</link>
     <atom:link href="lucyfermon.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 15 Jun 2016 14:33:46 +0200</pubDate>
-    <lastBuildDate>Wed, 15 Jun 2016 14:33:46 +0200</lastBuildDate>
+    <pubDate>Wed, 15 Jun 2016 14:50:32 +0200</pubDate>
+    <lastBuildDate>Wed, 15 Jun 2016 14:50:32 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Módulo 1</title>
-        <description>&lt;h1 id=&quot;the-power-of-r&quot;&gt;The power of R&lt;/h1&gt;
+        <description>&lt;p&gt;2016-06-14 13:00-15:00&lt;/p&gt;
+
+&lt;h1 id=&quot;the-power-of-r&quot;&gt;The power of R&lt;/h1&gt;
+
+&lt;p&gt;R is one of the most sophisticated programming languages for statistics.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;What is R&lt;/li&gt;
-  &lt;li&gt;Why is R getting so popular?&lt;/li&gt;
+  &lt;li&gt;What is R and why is R getting so popular?&lt;/li&gt;
   &lt;li&gt;Applications of R (data cleaning, reading, visualizing, web apps, etc.)&lt;/li&gt;
   &lt;li&gt;Compared to SPSS, Stata, SAS, etc…&lt;/li&gt;
   &lt;li&gt;There is such thing as a free lunch&lt;/li&gt;
@@ -147,7 +150,11 @@ all_money &amp;lt;- c(150, 1000, 120, 500, 100, 100, 50, 200, 25, 100, 2000, 100
     
       <item>
         <title>Módulo 2</title>
-        <description>&lt;h1 id=&quot;working-with-datasets&quot;&gt;Working with datasets&lt;/h1&gt;
+        <description>&lt;p&gt;2016-06-21 13:00-15:00&lt;/p&gt;
+
+&lt;h1 id=&quot;working-with-datasets&quot;&gt;Working with datasets&lt;/h1&gt;
+
+&lt;p&gt;How to use R with YOUR data, and how to use it with ANY data.&lt;/p&gt;
 
 &lt;h2 id=&quot;how-to-read-data-into-r&quot;&gt;How to read data into R&lt;/h2&gt;
 
@@ -192,7 +199,11 @@ all_money &amp;lt;- c(150, 1000, 120, 500, 100, 100, 50, 200, 25, 100, 2000, 100
     
       <item>
         <title>Módulo 3</title>
-        <description>&lt;h1 id=&quot;manipulating-data&quot;&gt;Manipulating data&lt;/h1&gt;
+        <description>&lt;p&gt;2016-06-22 13:00-15:00&lt;/p&gt;
+
+&lt;h1 id=&quot;manipulating-data&quot;&gt;Manipulating data&lt;/h1&gt;
+
+&lt;p&gt;There are some good packages for manipulating data in R.&lt;/p&gt;
 
 &lt;h2 id=&quot;dplyr&quot;&gt;dplyr&lt;/h2&gt;
 
@@ -209,7 +220,11 @@ all_money &amp;lt;- c(150, 1000, 120, 500, 100, 100, 50, 200, 25, 100, 2000, 100
     
       <item>
         <title>Módulo 4</title>
-        <description>&lt;h1 id=&quot;visualizing-data&quot;&gt;Visualizing data&lt;/h1&gt;
+        <description>&lt;p&gt;2016-06-28 13:00-15:00&lt;/p&gt;
+
+&lt;h1 id=&quot;visualizing-data&quot;&gt;Visualizing data&lt;/h1&gt;
+
+&lt;p&gt;Some tools for making beautiful charts following the “grammar of graphics”&lt;/p&gt;
 
 &lt;h2 id=&quot;ggplot2-and-the-grammar-of-graphics&quot;&gt;ggplot2 and the grammar of graphics&lt;/h2&gt;
 
@@ -222,6 +237,10 @@ all_money &amp;lt;- c(150, 1000, 120, 500, 100, 100, 50, 200, 25, 100, 2000, 100
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;ggmap&quot;&gt;ggmap&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How to make information-rich and beautiful maps&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Tue, 14 Jun 2016 22:00:00 +0200</pubDate>
         <link>lucyfermon.github.io/2016/modulo-4</link>
@@ -232,7 +251,9 @@ all_money &amp;lt;- c(150, 1000, 120, 500, 100, 100, 50, 200, 25, 100, 2000, 100
     
       <item>
         <title>Módulo 5</title>
-        <description>&lt;h1 id=&quot;putting-it-all-together&quot;&gt;Putting it all together&lt;/h1&gt;
+        <description>&lt;p&gt;2016-06-29 13:00-15:00&lt;/p&gt;
+
+&lt;h1 id=&quot;putting-it-all-together&quot;&gt;Putting it all together&lt;/h1&gt;
 
 &lt;h2 id=&quot;a-review-of-lessons-learned&quot;&gt;A review of lessons learned&lt;/h2&gt;
 
@@ -240,7 +261,7 @@ all_money &amp;lt;- c(150, 1000, 120, 500, 100, 100, 50, 200, 25, 100, 2000, 100
   &lt;li&gt;Exercise combining all new skills&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;a-few-advanced-tools-for-further-exploration&quot;&gt;A few advanced tools for further exploration&lt;/h2&gt;
+&lt;h2 id=&quot;advanced-tools&quot;&gt;Advanced tools&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;leaflet, pplotly, rcharts, shiny&lt;/li&gt;
@@ -251,6 +272,8 @@ all_money &amp;lt;- c(150, 1000, 120, 500, 100, 100, 50, 200, 25, 100, 2000, 100
 &lt;ul&gt;
   &lt;li&gt;books and webpages for learning on your own&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;end&lt;/p&gt;
 </description>
         <pubDate>Tue, 14 Jun 2016 21:00:00 +0200</pubDate>
         <link>lucyfermon.github.io/2016/modulo-5</link>

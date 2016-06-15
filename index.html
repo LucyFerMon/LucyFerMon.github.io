@@ -9,7 +9,7 @@ layout: default
     </h2>
     <time>{{ post.date| date: "%m/%d/%Y" }}</time>
     <p>
-      {{ post.content | truncate: 250 }}
+      {{ post.content | truncate: 150 }}
     </p>
   </article>
 {% endfor %}
@@ -23,6 +23,6 @@ layout: default
 </article>
 {% endfor %} -->
 
-<section class="module color3">
+<!-- <section class="module color3">
   <a href="{{ 'archives' | prepend: site.baseurl }}">More Posts &rarr;</a>
-</section>
+</section> -->
