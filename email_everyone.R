@@ -2,7 +2,8 @@
 # a) create a credentials yaml file in the following format
 # email: youremail@gmail.com
 # password: yourpassword
-# b) go here and enable access for less secure apps
+# b) go here and enable access for less secure apps:
+# https://www.google.com/settings/security/lesssecureapps
 
 library(mailR)
 library(dplyr)
@@ -17,11 +18,6 @@ url <- paste0('https://docs.google.com/spreadsheets/d/',
               '1m1FJynnXdqTjq1qi3MoCq0gygWSbhuupEg58Jd',
               'CI7fo/edit?usp=sharing')
 people <- suppressMessages(gsheet2tbl(url))
-
-# Test email: only send to Lucia
-people <- 
-  people %>%
-  filter(Nome == 'Lucia Fernandez')
 
 # Loop through each person, emailing once every 10 seconds
 for (i in 1:nrow(people)){
