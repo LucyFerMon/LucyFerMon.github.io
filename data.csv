@@ -1,0 +1,1310 @@
+name,sex,age,city,money,altura,peso,class,resultado
+"Allen, Miss. Elisabeth Walton",female,29,"St Louis, MO",450.778927163221,151.057835233519,51.6292387678725,pobre,vivo
+"Allison, Master. Hudson Trevor",male,0.9167,"Montreal, PQ / Chesterville, ON",17.1910625756718,55.1868115369114,6.75517615934894,pobre,vivo
+"Allison, Miss. Helen Loraine",female,2,"Montreal, PQ / Chesterville, ON",71.879328999389,72.1306774884478,13.0127427409086,pobre,morto
+"Allison, Mr. Hudson Joshua Creighton",male,30,"Montreal, PQ / Chesterville, ON",2701.78191101365,222.669988263274,105.101244619443,pobre,morto
+"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25,"Montreal, PQ / Chesterville, ON",1016.8823146401,143.809329367889,45.668884552749,pobre,morto
+"Anderson, Mr. Harry",male,48,"New York, NY",1524.33655178268,181.605293875918,68.7551163778413,pobre,vivo
+"Andrews, Miss. Kornelia Theodosia",female,63,"Hudson, NY",925.154397835024,115.439392675565,33.187129622767,pobre,vivo
+"Andrews, Mr. Thomas Jr",male,39,"Belfast, NI",1438.84212848078,186.430232394901,84.3219120873475,pobre,morto
+"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53,"Bayside, Queens, NY",1172.69085165393,151.225348812777,48.4453593408375,pobre,vivo
+"Artagaveytia, Mr. Ramon",male,71,"Montevideo, Uruguay",30.1168431630358,171.076928151002,60.5534954901918,pobre,morto
+"Astor, Col. John Jacob",male,47,"New York, NY",2815.91453647614,183.819299687601,72.9779132304784,pobre,morto
+"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18,"New York, NY",198.564241950586,125.112193231755,31.8350495571351,pobre,vivo
+"Aubart, Mme. Leontine Pauline",female,24,"Paris, France",1502.36376530025,151.312323894034,44.1269345265388,pobre,vivo
+"Barber, Miss. Ellen ""Nellie""",female,26,NA,2035.05362748262,139.120390007617,39.0884166425565,pobre,vivo
+"Barkworth, Mr. Algernon Henry Wilson",male,80,"Hessle, Yorks",2820.59031874593,192.416984010757,78.3845283108983,pobre,vivo
+"Baumann, Mr. John D",male,NA,"New York, NY",NA,NA,NA,pobre,morto
+"Baxter, Mr. Quigg Edmond",male,24,"Montreal, PQ",2607.07614449412,149.310570939334,51.6503005998164,pobre,morto
+"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50,"Montreal, PQ",2403.83440044243,144.916490846425,45.0856045111858,pobre,vivo
+"Bazzani, Miss. Albina",female,32,NA,1714.26017493568,157.477327780859,47.4035168814403,pobre,vivo
+"Beattie, Mr. Thomson",male,36,"Winnipeg, MN",1980.66176030785,150.302315829668,48.7107839641403,pobre,morto
+"Beckwith, Mr. Richard Leonard",male,37,"New York, NY",475.943775197491,163.003509836984,67.6646937123941,pobre,vivo
+"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47,"New York, NY",1199.72439881042,162.087385581115,55.7276385652581,pobre,vivo
+"Behr, Mr. Karl Howell",male,26,"New York, NY",237.193274072371,140.329759322471,41.7020584594671,pobre,vivo
+"Bidois, Miss. Rosalie",female,42,NA,1407.65300303511,156.755900649433,58.3779750869709,pobre,vivo
+"Bird, Miss. Ellen",female,29,NA,238.02051427681,153.924100269873,58.0811727300423,pobre,vivo
+"Birnbaum, Mr. Jakob",male,25,"San Francisco, CA",2064.19206341822,164.751156913126,67.561120339935,pobre,morto
+"Bishop, Mr. Dickinson H",male,25,"Dowagiac, MI",2525.11546840612,195.503183032083,85.8827588729468,pobre,vivo
+"Bishop, Mrs. Dickinson H (Helen Walton)",female,19,"Dowagiac, MI",492.247372638993,143.889859699817,44.3954909489163,pobre,vivo
+"Bissette, Miss. Amelia",female,35,NA,1858.06050015986,146.280640664942,48.221120762251,pobre,vivo
+"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28,"Stockholm, Sweden / Washington, DC",865.888431985863,168.279139192356,65.5495501574982,pobre,vivo
+"Blackwell, Mr. Stephen Weart",male,45,"Trenton, NJ",2274.57979638968,165.947987243068,57.309117404167,pobre,morto
+"Blank, Mr. Henry",male,40,"Glen Ridge, NJ",2400.04099475406,162.965535962432,49.4561286362783,pobre,vivo
+"Bonnell, Miss. Caroline",female,30,"Youngstown, OH",2702.85071398783,150.835112465862,52.9826810067536,pobre,vivo
+"Bonnell, Miss. Elizabeth",female,58,"Birkdale, England Cleveland, Ohio",784.586506342515,169.677266193731,63.2181889722889,pobre,vivo
+"Borebank, Mr. John James",male,42,"London / Winnipeg, MB",1084.41178649571,149.180412090997,53.6129031119263,pobre,morto
+"Bowen, Miss. Grace Scott",female,45,"Cooperstown, NY",301.029182720929,155.97963121524,57.4988445619278,pobre,vivo
+"Bowerman, Miss. Elsie Edith",female,22,"St Leonards-on-Sea, England Ohio",2304.26198461186,136.689884757337,40.2743765942595,pobre,vivo
+"Bradley, Mr. George (""George Arthur Brayton"")",male,NA,"Los Angeles, CA",NA,NA,NA,pobre,vivo
+"Brady, Mr. John Bertram",male,41,"Pomeroy, WA",2127.87346898206,155.938471571043,51.4129902634488,pobre,morto
+"Brandeis, Mr. Emil",male,48,"Omaha, NE",1804.66578480508,160.302378097158,56.3727911248166,pobre,morto
+"Brewe, Dr. Arthur Jackson",male,NA,"Philadelphia, PA",NA,NA,NA,pobre,morto
+"Brown, Mrs. James Joseph (Margaret Tobin)",female,44,"Denver, CO",1075.85582870711,158.683708567126,52.2014340552468,pobre,vivo
+"Brown, Mrs. John Murray (Caroline Lane Lamson)",female,59,"Belmont, MA",1383.95121728629,150.49465806667,56.1116502099547,pobre,vivo
+"Bucknell, Mrs. William Robert (Emma Eliza Ward)",female,60,"Philadelphia, PA",424.672778693028,136.581412906582,43.4755768232831,pobre,vivo
+"Burns, Miss. Elizabeth Margaret",female,41,NA,2705.26025716681,142.162282061658,41.1755230569521,pobre,vivo
+"Butt, Major. Archibald Willingham",male,45,"Washington, DC",866.95886339061,172.926803454589,63.8260746595067,pobre,morto
+"Cairns, Mr. Alexander",male,NA,NA,NA,NA,NA,pobre,morto
+"Calderhead, Mr. Edward Pennington",male,42,"New York, NY",2435.69917254802,158.414867223898,52.452707516272,pobre,vivo
+"Candee, Mrs. Edward (Helen Churchill Hungerford)",female,53,"Washington, DC",1745.51809123345,143.85625392749,42.9831822621383,pobre,vivo
+"Cardeza, Mr. Thomas Drake Martinez",male,36,"Austria-Hungary / Germantown, Philadelphia, PA",515.739318860695,188.548100879686,61.9018933838588,pobre,vivo
+"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",female,58,"Germantown, Philadelphia, PA",839.968522514217,160.317514643018,57.0083843328763,pobre,vivo
+"Carlsson, Mr. Frans Olof",male,33,"New York, NY",1620.77511445619,154.573207995141,55.6010292141818,pobre,morto
+"Carrau, Mr. Francisco M",male,28,"Montevideo, Uruguay",1861.4607855482,185.795919494082,83.9722175788197,pobre,morto
+"Carrau, Mr. Jose Pedro",male,17,"Montevideo, Uruguay",113.423180237599,170.593405749372,77.5477968879626,pobre,morto
+"Carter, Master. William Thornton II",male,11,"Bryn Mawr, PA",105.101712314598,164.410021379505,54.9638229400122,pobre,vivo
+"Carter, Miss. Lucile Polk",female,14,"Bryn Mawr, PA",115.555040177191,107.0505582827,25.9313018031805,pobre,vivo
+"Carter, Mr. William Ernest",male,36,"Bryn Mawr, PA",718.284931224771,162.531265905386,61.239472024604,pobre,vivo
+"Carter, Mrs. William Ernest (Lucile Polk)",female,36,"Bryn Mawr, PA",2432.72963580675,128.18887349919,32.2627372665894,pobre,vivo
+"Case, Mr. Howard Brown",male,49,"Ascot, Berkshire / Rochester, NY",2519.75315343216,191.068315082587,79.5157687185369,pobre,morto
+"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",female,NA,"New York, NY",NA,NA,NA,pobre,vivo
+"Cavendish, Mr. Tyrell William",male,36,"Little Onn Hall, Staffs",2907.75960982405,179.47955696142,67.7901408972326,pobre,morto
+"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",female,76,"Little Onn Hall, Staffs",26.9334706552327,151.07046816948,47.6796405653732,pobre,vivo
+"Chaffee, Mr. Herbert Fuller",male,46,"Amenia, ND",2819.57973941881,164.554598859183,59.6033038249383,pobre,morto
+"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",female,47,"Amenia, ND",2493.89073212631,152.61029362451,54.2036484032162,pobre,vivo
+"Chambers, Mr. Norman Campbell",male,27,"New York, NY / Ithaca, NY",2638.26164338924,167.970593994914,58.3997553762135,pobre,vivo
+"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33,"New York, NY / Ithaca, NY",722.97035770677,142.195594189511,43.8499306555627,pobre,vivo
+"Chaudanson, Miss. Victorine",female,36,NA,753.518925807439,176.895401684691,83.9313967121178,pobre,vivo
+"Cherry, Miss. Gladys",female,30,"London, England",1255.40082094911,171.692011764707,59.5852436105306,pobre,vivo
+"Chevre, Mr. Paul Romaine",male,45,"Paris, France",2189.22866619844,181.226806668705,72.0451432221829,pobre,vivo
+"Chibnall, Mrs. (Edith Martha Bowerman)",female,NA,"St Leonards-on-Sea, England Ohio",NA,NA,NA,pobre,vivo
+"Chisholm, Mr. Roderick Robert Crispin",male,NA,"Liverpool, England / Belfast",NA,NA,NA,pobre,morto
+"Clark, Mr. Walter Miller",male,27,"Los Angeles, CA",2761.0589345824,173.844524994878,66.9466473452767,pobre,morto
+"Clark, Mrs. Walter Miller (Virginia McDowell)",female,26,"Los Angeles, CA",88.2173137301579,170.931975705812,74.0268699027774,pobre,vivo
+"Cleaver, Miss. Alice",female,22,NA,2878.26217601728,152.922772939846,64.4995922305887,pobre,vivo
+"Clifford, Mr. George Quincy",male,NA,"Stoughton, MA",NA,NA,NA,pobre,morto
+"Colley, Mr. Edward Pomeroy",male,47,"Victoria, BC",1412.52928883303,172.156578788682,59.8933919432191,pobre,morto
+"Compton, Miss. Sara Rebecca",female,39,"Lakewood, NJ",2815.9525525365,144.259428021655,43.2198902247694,pobre,vivo
+"Compton, Mr. Alexander Taylor Jr",male,37,"Lakewood, NJ",690.499456794932,133.674134609555,42.0867695205306,pobre,morto
+"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",female,64,"Lakewood, NJ",2965.12957553566,149.525538559706,43.9043805378696,pobre,vivo
+"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",female,55,"New York, NY",2159.01966080256,123.448386817941,28.9761537688171,pobre,vivo
+"Crafton, Mr. John Bertram",male,NA,"Roachdale, IN",NA,NA,NA,pobre,morto
+"Crosby, Capt. Edward Gifford",male,70,"Milwaukee, WI",2584.71641221549,156.989630382613,55.9184935190637,pobre,morto
+"Crosby, Miss. Harriet R",female,36,"Milwaukee, WI",1019.32833897974,150.834783841189,43.0798372135515,pobre,vivo
+"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",female,64,"Milwaukee, WI",1979.85728755128,151.342433044488,43.575920397232,pobre,vivo
+"Cumings, Mr. John Bradley",male,39,"New York, NY",1884.72469417099,164.316573219079,59.6121365173798,pobre,morto
+"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38,"New York, NY",1464.18225629535,119.485107755972,32.6142986876425,pobre,vivo
+"Daly, Mr. Peter Denis",male,51,"Lima, Peru",32.4400220252573,198.256514253822,85.0367837263438,pobre,vivo
+"Daniel, Mr. Robert Williams",male,27,"Philadelphia, PA",1584.36435897555,172.983508129939,67.4791875432672,pobre,vivo
+"Daniels, Miss. Sarah",female,33,NA,2549.44774829596,138.325784759321,43.1429629619891,pobre,vivo
+"Davidson, Mr. Thornton",male,31,"Montreal, PQ",2034.08717810735,178.586175244597,73.6267639781503,pobre,morto
+"Davidson, Mrs. Thornton (Orian Hays)",female,27,"Montreal, PQ",2487.07887092885,138.73911711702,44.6967635646364,pobre,vivo
+"Dick, Mr. Albert Adrian",male,31,"Calgary, AB",1440.0704828985,178.642383430474,76.6435999773988,pobre,vivo
+"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17,"Calgary, AB",187.037246646546,123.494513195926,33.4810673977466,pobre,vivo
+"Dodge, Dr. Washington",male,53,"San Francisco, CA",899.244136825204,170.456658244906,70.4067086673901,pobre,vivo
+"Dodge, Master. Washington",male,4,"San Francisco, CA",9.9592019924894,132.660911964762,37.8800651854389,pobre,vivo
+"Dodge, Mrs. Washington (Ruth Vidaver)",female,54,"San Francisco, CA",1680.69924276788,152.510033416585,51.748704311244,pobre,vivo
+"Douglas, Mr. Walter Donald",male,50,"Deephaven, MN / Cedar Rapids, IA",2702.64369767345,162.242643554875,60.9307521627018,pobre,morto
+"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",female,27,"Montreal, PQ",1766.27033047657,141.725597444008,43.1966877215873,pobre,vivo
+"Douglas, Mrs. Walter Donald (Mahala Dutton)",female,48,"Deephaven, MN / Cedar Rapids, IA",894.480724372901,162.317093275969,57.513641055131,pobre,vivo
+"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48,London / Paris,962.906173205003,145.345152544843,43.8148498670355,pobre,vivo
+"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49,London / Paris,2584.32300969679,184.311437960936,69.7159427622124,pobre,vivo
+"Dulles, Mr. William Crothers",male,39,"Philadelphia, PA",1828.27761270851,168.256967508768,64.443191381208,pobre,morto
+"Earnshaw, Mrs. Boulton (Olive Potter)",female,23,"Mt Airy, Philadelphia, PA",483.671248035505,149.911731143877,53.5212292309781,pobre,vivo
+"Endres, Miss. Caroline Louise",female,38,"New York, NY",2937.83047514409,162.784565500299,64.8409682669023,pobre,vivo
+"Eustis, Miss. Elizabeth Mussey",female,54,"Brookline, MA",630.351887376979,171.973512663998,77.8305148813363,pobre,vivo
+"Evans, Miss. Edith Corse",female,36,"New York, NY",2216.79743739311,145.766770182768,44.2835603592154,pobre,morto
+"Farthing, Mr. John",male,NA,NA,NA,NA,NA,pobre,morto
+"Flegenheim, Mrs. Alfred (Antoinette)",female,NA,"New York, NY",NA,NA,NA,pobre,vivo
+"Fleming, Miss. Margaret",female,NA,NA,NA,NA,NA,pobre,vivo
+"Flynn, Mr. John Irwin (""Irving"")",male,36,"Brooklyn, NY",356.856180109084,165.695245777347,61.3311099689369,pobre,vivo
+"Foreman, Mr. Benjamin Laventall",male,30,"New York, NY",868.746132787317,162.31217435446,57.9048416190709,pobre,morto
+"Fortune, Miss. Alice Elizabeth",female,24,"Winnipeg, MB",417.869998089038,148.180724064874,44.208720019755,pobre,vivo
+"Fortune, Miss. Ethel Flora",female,28,"Winnipeg, MB",693.900534857064,125.280482612777,38.8163714779211,pobre,vivo
+"Fortune, Miss. Mabel Helen",female,23,"Winnipeg, MB",2785.60612919088,153.667552888877,41.464416028698,pobre,vivo
+"Fortune, Mr. Charles Alexander",male,19,"Winnipeg, MB",72.8978486593813,169.352392284032,61.0726463422007,pobre,morto
+"Fortune, Mr. Mark",male,64,"Winnipeg, MB",148.592957368121,196.042374988224,92.1497799482232,pobre,morto
+"Fortune, Mrs. Mark (Mary McDougald)",female,60,"Winnipeg, MB",661.52661248669,128.772812833718,34.6519789255015,pobre,vivo
+"Francatelli, Miss. Laura Mabel",female,30,NA,2372.90261855721,131.600537254469,34.2458858007916,pobre,vivo
+"Franklin, Mr. Thomas Parham",male,NA,"Westcliff-on-Sea, Essex",NA,NA,NA,pobre,morto
+"Frauenthal, Dr. Henry William",male,50,"New York, NY",2941.58917411789,184.978931862286,74.5758109081579,pobre,vivo
+"Frauenthal, Mr. Isaac Gerald",male,43,"New York, NY",2815.90395262185,153.807772300574,47.3774447844487,pobre,vivo
+"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,NA,"New York, NY",NA,NA,NA,pobre,vivo
+"Frolicher, Miss. Hedwig Margaritha",female,22,"Zurich, Switzerland",2701.3851367794,142.473450068027,46.09028086082,pobre,vivo
+"Frolicher-Stehli, Mr. Maxmillian",male,60,"Zurich, Switzerland",1652.49664668459,160.210082229913,63.0349348694193,pobre,vivo
+"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",female,48,"Zurich, Switzerland",1195.77660137415,133.601728402279,42.7521608128599,pobre,vivo
+"Fry, Mr. Richard",male,NA,NA,NA,NA,NA,pobre,morto
+"Futrelle, Mr. Jacques Heath",male,37,"Scituate, MA",986.729061506689,168.299801339469,61.6104555674397,pobre,morto
+"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35,"Scituate, MA",1769.60332411341,139.359749187148,38.768506652698,pobre,vivo
+"Gee, Mr. Arthur H",male,47,"St Anne's-on-Sea, Lancashire",2432.3622756321,164.517934604096,63.9641176738488,pobre,morto
+"Geiger, Miss. Amalie",female,35,NA,2034.05483997893,166.564332985887,56.5588828930172,pobre,vivo
+"Gibson, Miss. Dorothy Winifred",female,22,"New York, NY",424.742322181351,172.834259159155,75.0567402687612,pobre,vivo
+"Gibson, Mrs. Leonard (Pauline C Boeson)",female,45,"New York, NY",2575.67595248111,162.12649735961,53.2267680205175,pobre,vivo
+"Giglio, Mr. Victor",male,24,NA,1085.48324168287,189.295332282881,75.7714241064226,pobre,morto
+"Goldenberg, Mr. Samuel L",male,49,"Paris, France / New York, NY",2934.41756106634,175.444466212828,66.2205210755013,pobre,vivo
+"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,NA,"Paris, France / New York, NY",NA,NA,NA,pobre,vivo
+"Goldschmidt, Mr. George B",male,71,"New York, NY",1953.36831543222,154.398120968832,58.9123868616759,pobre,morto
+"Gracie, Col. Archibald IV",male,53,"Washington, DC",569.095729331486,180.38394388181,66.8069734102701,pobre,vivo
+"Graham, Miss. Margaret Edith",female,19,"Greenwich, CT",29.8144788807258,152.155229087475,52.538832053934,pobre,vivo
+"Graham, Mr. George Edward",male,38,"Winnipeg, MB",1524.94888124987,168.13500835983,63.8814063718415,pobre,morto
+"Graham, Mrs. William Thompson (Edith Junkins)",female,58,"Greenwich, CT",2941.97398180794,146.579682967186,48.1849718722414,pobre,vivo
+"Greenfield, Mr. William Bertram",male,23,"New York, NY",2520.2535488354,153.242348256593,51.0725533008009,pobre,vivo
+"Greenfield, Mrs. Leo David (Blanche Strouse)",female,45,"New York, NY",326.798510860652,134.556240237123,40.4021209932436,pobre,vivo
+"Guggenheim, Mr. Benjamin",male,46,"New York, NY",65.6212936230004,173.884988326647,58.7841747257835,pobre,morto
+"Harder, Mr. George Achilles",male,25,"Brooklyn, NY",2520.90518931113,177.975921014994,60.0243179986081,pobre,vivo
+"Harder, Mrs. George Achilles (Dorothy Annan)",female,25,"Brooklyn, NY",687.235310576856,149.042853700475,51.9291389755648,pobre,vivo
+"Harper, Mr. Henry Sleeper",male,48,"New York, NY",391.730776087381,156.524957337717,52.7330261330517,pobre,vivo
+"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49,"New York, NY",1471.5940230852,159.659835516176,49.8450854362342,pobre,vivo
+"Harrington, Mr. Charles H",male,NA,NA,NA,NA,NA,pobre,morto
+"Harris, Mr. Henry Birkhardt",male,45,"New York, NY",2311.43032909837,196.557988675802,85.4907810346552,pobre,morto
+"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35,"New York, NY",2885.8764656866,169.308920925983,72.4460812757145,pobre,vivo
+"Harrison, Mr. William",male,40,NA,985.366575772874,185.55715169823,80.9243556337993,pobre,morto
+"Hassab, Mr. Hammad",male,27,NA,1674.31823843345,153.251506298487,44.6845476477883,pobre,vivo
+"Hawksford, Mr. Walter James",male,NA,"Kingston, Surrey",NA,NA,NA,pobre,vivo
+"Hays, Miss. Margaret Bechstein",female,24,"New York, NY",2855.4425688358,140.498498124588,40.3394600907537,pobre,vivo
+"Hays, Mr. Charles Melville",male,55,"Montreal, PQ",2853.7834116742,183.995342736555,80.5942224134416,pobre,morto
+"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52,"Montreal, PQ",1917.10607906431,134.96712126738,40.4168385517026,pobre,vivo
+"Head, Mr. Christopher",male,42,London / Middlesex,1584.03946212586,157.778772692094,49.0811502955641,pobre,morto
+"Hilliard, Mr. Herbert Henry",male,NA,"Brighton, MA",NA,NA,NA,pobre,morto
+"Hipkins, Mr. William Edward",male,55,London / Birmingham,2040.43618378602,182.046242808325,74.593911115929,pobre,morto
+"Hippach, Miss. Jean Gertrude",female,16,"Chicago, IL",448.976529704779,159.196275084456,50.2381376918716,pobre,vivo
+"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44,"Chicago, IL",602.111282128841,109.698888613906,31.4392531223935,pobre,vivo
+"Hogeboom, Mrs. John C (Anna Andrews)",female,51,"Hudson, NY",1347.2175105745,140.391357846943,40.8742357359893,pobre,vivo
+"Holverson, Mr. Alexander Oskar",male,42,"New York, NY",476.915195323527,171.623887574562,71.6741196568042,pobre,morto
+"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35,"New York, NY",1082.0227585109,175.563239097066,74.604851576577,pobre,vivo
+"Homer, Mr. Harry (""Mr E Haven"")",male,35,"Indianapolis, IN",1739.17754263803,172.665854986023,71.3184847319877,pobre,vivo
+"Hoyt, Mr. Frederick Maxfield",male,38,"New York, NY /  Stamford CT",417.369887477718,193.412406362072,83.5321612975568,pobre,vivo
+"Hoyt, Mr. William Fisher",male,NA,"New York, NY",NA,NA,NA,pobre,morto
+"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35,"New York, NY /  Stamford CT",1139.76109501719,184.664789520943,70.9748031482176,pobre,vivo
+"Icard, Miss. Amelie",female,38,NA,2760.77712200582,118.074886913459,30.4903265839807,pobre,vivo
+"Isham, Miss. Ann Elizabeth",female,50,"Paris, France New York, NY",845.098507692106,129.958841426978,35.3658984449865,pobre,morto
+"Ismay, Mr. Joseph Bruce",male,49,Liverpool,1826.87588737998,131.372750116432,37.2131810767406,pobre,vivo
+"Jones, Mr. Charles Cresson",male,46,"Bennington, VT",2334.77625246998,194.837112433208,71.6746641410954,pobre,morto
+"Julian, Mr. Henry Forbes",male,50,London,2701.28125092108,182.949358450463,76.3321052546107,pobre,morto
+"Keeping, Mr. Edwin",male,32.5,NA,2728.64362597559,194.63873259189,95.7510254494252,pobre,morto
+"Kent, Mr. Edward Austin",male,58,"Buffalo, NY",714.277105953544,143.884130083895,46.8006101690371,pobre,morto
+"Kenyon, Mr. Frederick R",male,41,"Southington / Noank, CT",1564.42433155049,153.43136903813,48.7746160043215,pobre,morto
+"Kenyon, Mrs. Frederick R (Marion)",female,NA,"Southington / Noank, CT",NA,NA,NA,pobre,vivo
+"Kimball, Mr. Edwin Nelson Jr",male,42,"Boston, MA",1715.8616197966,149.940795965839,49.0594329765949,pobre,vivo
+"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",female,45,"Boston, MA",717.709561184049,138.76142379176,38.1195882481276,pobre,vivo
+"Klaber, Mr. Herman",male,NA,"Portland, OR",NA,NA,NA,pobre,morto
+"Kreuchen, Miss. Emilie",female,39,NA,1886.08754599281,149.683903574785,50.3166929694649,pobre,vivo
+"Leader, Dr. Alice (Farnham)",female,49,"New York, NY",1675.09501373023,164.141469406498,60.3513240270247,pobre,vivo
+"LeRoy, Miss. Bertha",female,30,NA,1953.39802180231,150.813306308454,51.166272555919,pobre,vivo
+"Lesurer, Mr. Gustave J",male,35,NA,2222.76038484927,180.345480105484,64.4106178765005,pobre,vivo
+"Lewy, Mr. Ervin G",male,NA,"Chicago, IL",NA,NA,NA,pobre,morto
+"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",male,42,"Stockholm, Sweden",868.726157097146,189.762064222691,89.5390859000884,pobre,morto
+"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",female,55,"Stockholm, Sweden",2276.41630230937,156.957597030201,56.348603842137,pobre,vivo
+"Lines, Miss. Mary Conover",female,16,"Paris, France",413.064762694761,144.059585242918,44.8277199180926,pobre,vivo
+"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",female,51,"Paris, France",1496.18712862115,170.632025715646,60.113642384796,pobre,vivo
+"Long, Mr. Milton Clyde",male,29,"Springfield, MA",2488.6076840898,176.281564696965,59.832288497082,pobre,morto
+"Longley, Miss. Gretchen Fiske",female,21,"Hudson, NY",59.2355752363801,153.611652349001,57.5865465971901,pobre,vivo
+"Loring, Mr. Joseph Holland",male,30,"London / New York, NY",1229.88300308492,193.680102509398,87.2786784530304,pobre,morto
+"Lurette, Miss. Elise",female,58,NA,65.6176655860618,152.034223183637,51.5227272781169,pobre,vivo
+"Madill, Miss. Georgette Alexandra",female,15,"St Louis, MO",145.362559996918,166.331121009283,59.3121446530399,pobre,vivo
+"Maguire, Mr. John Edward",male,30,"Brockton, MA",444.391368496232,145.550467342342,48.4853264993506,pobre,morto
+"Maioni, Miss. Roberta",female,16,NA,505.061143989488,157.107081117034,47.2887729560165,pobre,vivo
+"Marechal, Mr. Pierre",male,NA,"Paris, France",NA,NA,NA,pobre,vivo
+"Marvin, Mr. Daniel Warner",male,19,"New York, NY",148.813501082361,171.479707972132,70.7860683424286,pobre,morto
+"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",female,18,"New York, NY",348.49047490675,140.169086837105,41.8960381421977,pobre,vivo
+"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24,"Belgium  Montreal, PQ",2551.30960110761,150.391473761502,48.481484581925,pobre,vivo
+"McCaffry, Mr. Thomas Francis",male,46,"Vancouver, BC",1350.67674467247,184.448270865852,77.032698331113,pobre,morto
+"McCarthy, Mr. Timothy J",male,54,"Dorchester, MA",2517.52899215464,166.438714065314,54.4551665547596,pobre,morto
+"McGough, Mr. James Robert",male,36,"Philadelphia, PA",1410.92684308626,173.529397020687,64.4964261279595,pobre,vivo
+"Meyer, Mr. Edgar Joseph",male,28,"New York, NY",452.517410203815,210.031643190279,81.2105719579085,pobre,morto
+"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,NA,"New York, NY",NA,NA,NA,pobre,vivo
+"Millet, Mr. Francis Davis",male,65,"East Bridgewater, MA",1050.53595161811,196.167738310472,81.8203378798991,pobre,morto
+"Minahan, Dr. William Edward",male,44,"Fond du Lac, WI",1320.44362286758,214.639115745222,111.761400722237,pobre,morto
+"Minahan, Miss. Daisy E",female,33,"Green Bay, WI",2578.22071990371,133.794843397594,43.406882530393,pobre,vivo
+"Minahan, Mrs. William Edward (Lillian E Thorpe)",female,37,"Fond du Lac, WI",482.63215192873,160.943889051921,56.2518230762329,pobre,vivo
+"Mock, Mr. Philipp Edmund",male,30,"New York, NY",2784.84753442649,203.759996626988,92.349102150363,pobre,vivo
+"Molson, Mr. Harry Markland",male,55,"Montreal, PQ",2457.60968119092,182.174205943388,67.585626450996,pobre,morto
+"Moore, Mr. Clarence Bloomfield",male,47,"Washington, DC",1944.47100377921,166.827035010514,64.5454507511446,pobre,morto
+"Natsch, Mr. Charles H",male,37,"Brooklyn, NY",2846.75896993931,182.725728709215,65.0496837719132,pobre,morto
+"Newell, Miss. Madeleine",female,31,"Lexington, MA",575.280801851302,156.346282349918,50.1633327771978,pobre,vivo
+"Newell, Miss. Marjorie",female,23,"Lexington, MA",597.441422919743,138.620280314213,46.0234552326441,pobre,vivo
+"Newell, Mr. Arthur Webster",male,58,"Lexington, MA",235.13030142244,156.985776099555,59.2101916149139,pobre,morto
+"Newsom, Miss. Helen Monypeny",female,19,"New York, NY",210.346723731793,173.621051654172,76.4786674494513,pobre,vivo
+"Nicholson, Mr. Arthur Ernest",male,64,"Isle of Wight, England",873.880701720715,171.262022595488,58.4390753837129,pobre,morto
+"Oliva y Ocana, Dona. Fermina",female,39,NA,2606.99499723036,118.514997935071,30.6902020358069,pobre,vivo
+"Omont, Mr. Alfred Fernand",male,NA,"Paris, France",NA,NA,NA,pobre,vivo
+"Ostby, Miss. Helene Ragnhild",female,22,"Providence, RI",1713.880266211,146.355839327206,47.7776104059363,pobre,vivo
+"Ostby, Mr. Engelhart Cornelius",male,65,"Providence, RI",153.997145458125,185.71290146856,71.6371741803692,pobre,morto
+"Ovies y Rodriguez, Mr. Servando",male,28.5,"?Havana, Cuba",2819.18411431275,169.09820649071,51.5081241566192,pobre,morto
+"Parr, Mr. William Henry Marsh",male,NA,Belfast,NA,NA,NA,pobre,morto
+"Partner, Mr. Austen",male,45.5,"Surbiton Hill, Surrey",1766.05447226018,147.788045999218,46.3439143930026,pobre,morto
+"Payne, Mr. Vivian Ponsonby",male,23,"Montreal, PQ",238.876097347587,133.552020743619,33.3868981357267,pobre,morto
+"Pears, Mr. Thomas Clinton",male,29,"Isleworth, England",2067.21631931327,189.742147202225,79.5168916970571,pobre,morto
+"Pears, Mrs. Thomas (Edith Wearne)",female,22,"Isleworth, England",808.372432454489,139.131398478177,44.1968160641202,pobre,vivo
+"Penasco y Castellana, Mr. Victor de Satode",male,18,"Madrid, Spain",322.986641289666,172.407328234222,62.4601116623661,pobre,morto
+"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17,"Madrid, Spain",216.256299978867,133.459564403699,42.0060326165664,pobre,vivo
+"Perreault, Miss. Anne",female,30,NA,25.9122614543885,126.923529387809,38.9169344089032,pobre,vivo
+"Peuchen, Major. Arthur Godfrey",male,52,"Toronto, ON",569.942741344683,172.8497137982,75.4043606678765,pobre,vivo
+"Porter, Mr. Walter Chamberlain",male,47,"Worcester, MA",1557.99476864096,173.652142431684,66.506599478797,pobre,morto
+"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56,"Mt Airy, Philadelphia, PA",2518.00509652868,183.339038943421,80.5733957072718,pobre,vivo
+"Reuchlin, Jonkheer. John George",male,38,"Rotterdam, Netherlands",2252.40810473543,135.060821176012,39.2356904594294,pobre,morto
+"Rheims, Mr. George Alexander Lucien",male,NA,"Paris /  New York, NY",NA,NA,NA,pobre,vivo
+"Ringhini, Mr. Sante",male,22,NA,422.758698223159,172.796146532574,65.7905764636627,pobre,morto
+"Robbins, Mr. Victor",male,NA,NA,NA,NA,NA,pobre,morto
+"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43,"St Louis, MO",2189.62482903711,144.1227568886,42.820428716129,pobre,vivo
+"Roebling, Mr. Washington Augustus II",male,31,"Trenton, NJ",1024.82018315792,155.034250966808,53.846407773992,pobre,morto
+"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45,"New York, NY",631.436601022258,159.190922096652,43.8555419569121,pobre,vivo
+"Rood, Mr. Hugh Roscoe",male,NA,"Seattle, WA",NA,NA,NA,pobre,morto
+"Rosenbaum, Miss. Edith Louise",female,33,"Paris, France",778.271701930091,136.511126175178,43.5265709476911,pobre,vivo
+"Rosenshine, Mr. George (""Mr George Thorne"")",male,46,"New York, NY",2544.94809556101,199.164731760943,92.2429154286788,pobre,morto
+"Ross, Mr. John Hugo",male,36,"Winnipeg, MB",2164.1614822587,158.046746290055,50.6733902951029,pobre,morto
+"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33,"London  Vancouver, BC",64.9228745643049,151.630993227204,50.4588868551769,pobre,vivo
+"Rothschild, Mr. Martin",male,55,"New York, NY",1621.34398483112,179.579471749374,87.5543833905977,pobre,morto
+"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54,"New York, NY",904.712294789962,150.400025750724,49.2420019985954,pobre,vivo
+"Rowe, Mr. Alfred G",male,33,London,1255.07026192546,175.128760990837,66.88518790543,pobre,morto
+"Ryerson, Master. John Borie",male,13,"Haverford, PA / Cooperstown, NY",75.0847642666195,164.596015589218,61.6310179362905,pobre,vivo
+"Ryerson, Miss. Emily Borie",female,18,"Haverford, PA / Cooperstown, NY",108.31272719074,163.739825211283,60.1836951651574,pobre,vivo
+"Ryerson, Miss. Susan Parker ""Suzette""",female,21,"Haverford, PA / Cooperstown, NY",900.085686908104,156.398990402802,52.2035073953985,pobre,vivo
+"Ryerson, Mr. Arthur Larned",male,61,"Haverford, PA / Cooperstown, NY",326.235596794635,157.034139060569,55.847151603018,pobre,morto
+"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",female,48,"Haverford, PA / Cooperstown, NY",3003.66103010438,160.167056115745,49.8097520779205,pobre,vivo
+"Saalfeld, Mr. Adolphe",male,NA,"Manchester, England",NA,NA,NA,pobre,vivo
+"Sagesser, Mlle. Emma",female,24,NA,448.462444983423,172.841703897706,56.6260968211122,pobre,vivo
+"Salomon, Mr. Abraham L",male,NA,"New York, NY",NA,NA,NA,pobre,vivo
+"Schabert, Mrs. Paul (Emma Mock)",female,35,"New York, NY",991.498083516955,162.479444168773,54.8861022091358,pobre,vivo
+"Serepeca, Miss. Augusta",female,30,NA,2156.79016239289,145.577354364161,52.5634584431855,pobre,vivo
+"Seward, Mr. Frederic Kimber",male,34,"New York, NY",2885.90655194689,147.506187408635,49.0077344271693,pobre,vivo
+"Shutes, Miss. Elizabeth W",female,40,"New York, NY / Greenwich CT",2185.58842300996,156.657161594949,48.4908325220456,pobre,vivo
+"Silverthorne, Mr. Spencer Victor",male,35,"St Louis, MO",1564.80179810151,162.182323197564,62.6492941725617,pobre,vivo
+"Silvey, Mr. William Baird",male,50,"Duluth, MN",1260.98447287548,173.287091216506,73.8354487783669,pobre,morto
+"Silvey, Mrs. William Baird (Alice Munger)",female,39,"Duluth, MN",2034.91826341208,137.457997417611,39.3716220029907,pobre,vivo
+"Simonius-Blumer, Col. Oberst Alfons",male,56,"Basel, Switzerland",565.904451194219,181.959538209948,77.2928084814143,pobre,vivo
+"Sloper, Mr. William Thompson",male,28,"New Britain, CT",597.854315914214,153.930139186336,54.3440857944058,pobre,vivo
+"Smart, Mr. John Montgomery",male,56,"New York, NY",2555.92462333851,155.045991725568,52.2590764546942,pobre,morto
+"Smith, Mr. James Clinch",male,56,"St James, Long Island, NY",1404.05074047949,183.529657868254,90.5715135644525,pobre,morto
+"Smith, Mr. Lucien Philip",male,24,"Huntington, WV",2936.22066354845,172.588472597714,61.0327910131647,pobre,morto
+"Smith, Mr. Richard William",male,NA,"Streatham, Surrey",NA,NA,NA,pobre,morto
+"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",female,18,"Huntington, WV",415.157298255153,131.183290273703,34.5693760002711,pobre,vivo
+"Snyder, Mr. John Pillsbury",male,24,"Minneapolis, MN",543.862199887633,169.330591750544,61.6728758363226,pobre,vivo
+"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",female,23,"Minneapolis, MN",2427.55798824783,141.379196783034,43.0459158036214,pobre,vivo
+"Spedden, Master. Robert Douglas",male,6,"Tuxedo Park, NY",18.0842172867618,113.559901149409,31.033479319769,pobre,vivo
+"Spedden, Mr. Frederic Oakley",male,45,"Tuxedo Park, NY",2794.1207283251,177.461410975871,60.1576538757301,pobre,vivo
+"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40,"Tuxedo Park, NY",2794.61612097267,179.833159278992,66.1866095717318,pobre,vivo
+"Spencer, Mr. William Augustus",male,57,"Paris, France",1829.12868890818,183.848551228015,75.1672862194094,pobre,morto
+"Spencer, Mrs. William Augustus (Marie Eugenie)",female,NA,"Paris, France",NA,NA,NA,pobre,vivo
+"Stahelin-Maeglin, Dr. Max",male,32,"Basel, Switzerland",752.745144956745,157.987812868481,54.6638345074396,pobre,vivo
+"Stead, Mr. William Thomas",male,62,"Wimbledon Park, London / Hayling Island, Hants",2460.19860705826,182.970849106053,80.1716945615154,pobre,morto
+"Stengel, Mr. Charles Emil Henry",male,54,"Newark, NJ",1799.2568073906,181.564533236661,61.8572555088235,pobre,vivo
+"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",female,43,"Newark, NJ",2702.28399705794,171.991866410452,67.7530313797952,pobre,vivo
+"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52,"Haverford, PA",31.7960785506293,135.050165711507,40.3337749497277,pobre,vivo
+"Stewart, Mr. Albert A",male,NA,"Gallipolis, Ohio / ? Paris / New York",NA,NA,NA,pobre,morto
+"Stone, Mrs. George Nelson (Martha Evelyn)",female,62,"Cincinatti, OH",1855.90240404289,144.854460684013,43.3201281622258,pobre,vivo
+"Straus, Mr. Isidor",male,67,"New York, NY",2641.40311049111,180.928379807629,75.4032500355229,pobre,morto
+"Straus, Mrs. Isidor (Rosalie Ida Blun)",female,63,"New York, NY",1468.14767132699,160.691790337288,51.1554901429514,pobre,morto
+"Sutton, Mr. Frederick",male,61,"Haddenfield, NJ",1294.42643710133,187.767956648835,88.6240256990323,pobre,morto
+"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48,"Brooklyn, NY",1528.89640407264,171.644421997806,65.6843232916745,pobre,vivo
+"Taussig, Miss. Ruth",female,18,"New York, NY",72.6063838005066,140.92195840843,44.4923366138221,pobre,vivo
+"Taussig, Mr. Emil",male,52,"New York, NY",2340.8186906185,162.850137495071,62.2363782978126,pobre,morto
+"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39,"New York, NY",2879.90266848542,151.604861353595,53.3202616225995,pobre,vivo
+"Taylor, Mr. Elmer Zebley",male,48,"London /  East Orange, NJ",1321.49698385037,161.523050630107,52.7360945746213,pobre,vivo
+"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,NA,"London /  East Orange, NJ",NA,NA,NA,pobre,vivo
+"Thayer, Mr. John Borland",male,49,"Haverford, PA",2455.52779514249,168.35732861086,65.2140741422086,pobre,morto
+"Thayer, Mr. John Borland Jr",male,17,"Haverford, PA",226.886134093255,152.191628880596,60.2328950565841,pobre,vivo
+"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39,"Haverford, PA",2372.89750886802,162.65257951199,67.1506187604686,pobre,vivo
+"Thorne, Mrs. Gertrude Maybelle",female,NA,"New York, NY",NA,NA,NA,pobre,vivo
+"Tucker, Mr. Gilbert Milligan Jr",male,31,"Albany, NY",2457.38269256707,169.865456837833,69.5010714707064,pobre,vivo
+"Uruchurtu, Don. Manuel E",male,40,"Mexico City, Mexico",1563.51580516342,168.946553185609,64.7018495111943,pobre,morto
+"Van der hoef, Mr. Wyckoff",male,61,"Brooklyn, NY",688.337507329881,201.596420038434,89.3923931344281,pobre,morto
+"Walker, Mr. William Anderson",male,47,"East Orange, NJ",1865.93800249323,177.599858739807,73.402080850527,pobre,morto
+"Ward, Miss. Anna",female,35,NA,124.866293717176,136.346547906651,42.8846756047264,pobre,vivo
+"Warren, Mr. Frank Manley",male,64,"Portland, OR",2544.69870922621,166.14897075893,61.1286727886359,pobre,morto
+"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60,"Portland, OR",1894.94091241155,142.052613152904,39.5040834354576,pobre,vivo
+"Weir, Col. John",male,60,"England Salt Lake City, Utah",2615.13887369726,143.763212342203,45.540989264196,pobre,morto
+"White, Mr. Percival Wayland",male,54,"Brunswick, ME",1440.89081419911,179.800888977592,58.3029486947544,pobre,morto
+"White, Mr. Richard Frasar",male,21,"Brunswick, ME",692.60619319696,183.871880552914,85.8636928810669,pobre,morto
+"White, Mrs. John Stuart (Ella Holmes)",female,55,"New York, NY / Briarcliff Manor NY",2724.2276437059,156.798499995015,49.6969839005282,pobre,vivo
+"Wick, Miss. Mary Natalie",female,31,"Youngstown, OH",2275.74707810115,136.209275742708,46.120819485454,pobre,vivo
+"Wick, Mr. George Dennick",male,57,"Youngstown, OH",1890.86801593378,166.492893426789,57.9960032755021,pobre,morto
+"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45,"Youngstown, OH",2795.68509640452,153.107758057327,45.6482817218776,pobre,vivo
+"Widener, Mr. George Dunton",male,50,"Elkins Park, PA",2854.97215762362,208.179213571947,81.863839214757,pobre,morto
+"Widener, Mr. Harry Elkins",male,27,"Elkins Park, PA",2853.58448268939,191.665181116288,81.1600080612842,pobre,morto
+"Widener, Mrs. George Dunton (Eleanor Elkins)",female,50,"Elkins Park, PA",1951.17112992704,146.50935571383,43.0058099628275,pobre,vivo
+"Willard, Miss. Constance",female,21,"Duluth, MN",2735.5392878959,159.901838433882,66.2378958391047,pobre,vivo
+"Williams, Mr. Charles Duane",male,51,"Geneva, Switzerland / Radnor, PA",2100.39486063179,182.910854622987,72.0661020812912,pobre,morto
+"Williams, Mr. Richard Norris II",male,21,"Geneva, Switzerland / Radnor, PA",542.029590681195,168.121971966105,59.6787505588876,pobre,vivo
+"Williams-Lambert, Mr. Fletcher Fellows",male,NA,"London, England",NA,NA,NA,pobre,morto
+"Wilson, Miss. Helen Alice",female,31,NA,294.672598410398,142.598187581758,46.7034039235617,pobre,vivo
+"Woolner, Mr. Hugh",male,NA,"London, England",NA,NA,NA,pobre,vivo
+"Wright, Mr. George",male,62,"Halifax, NS",2338.05182688497,189.131165914078,67.6292139779334,pobre,morto
+"Young, Miss. Marie Grice",female,36,"New York, NY / Washington, DC",2848.85278019775,166.470976508256,63.3724002091649,pobre,vivo
+"Abelson, Mr. Samuel",male,30,"Russia New York, NY",4023.46547817718,170.102241560075,63.124174325976,normal,morto
+"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28,"Russia New York, NY",1144.00756615028,178.562595284063,57.2373434365702,normal,vivo
+"Aldworth, Mr. Charles Augustus",male,30,"Bryn Mawr, PA, USA",2640.28510905616,147.458142055258,50.5914112275463,normal,morto
+"Andrew, Mr. Edgardo Samuel",male,18,"Buenos Aires, Argentina / New Jersey, NJ",455.238709465228,165.386367145543,62.9438707960491,normal,morto
+"Andrew, Mr. Frank Thomas",male,25,"Cornwall, England Houghton, MI",2155.4463057043,184.408686876867,85.5612595222327,normal,morto
+"Angle, Mr. William A",male,34,"Warwick, England",5336.54374566302,167.253751353865,64.3967280277412,normal,morto
+"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36,"Warwick, England",304.500837097876,157.851191935342,55.284533515557,normal,vivo
+"Ashby, Mr. John",male,57,"West Hoboken, NJ",2521.38905222621,158.900954674119,48.1459629655079,normal,morto
+"Bailey, Mr. Percy Andrew",male,18,"Penzance, Cornwall / Akron, OH",707.419601411372,174.139310177923,63.2504876469754,normal,morto
+"Baimbrigge, Mr. Charles Robert",male,23,Guernsey,5575.37558558118,166.213756354992,54.2269518682877,normal,morto
+"Ball, Mrs. (Ada E Hall)",female,36,"Bristol, Avon / Jacksonville, FL",5634.94950120617,153.264765224887,49.3560950373392,normal,vivo
+"Banfield, Mr. Frederick James",male,28,"Plymouth, Dorset / Houghton, MI",3177.00931465812,198.825084304735,87.0779361475365,normal,morto
+"Bateman, Rev. Robert James",male,51,"Jacksonville, FL",4443.32730775606,186.421973454914,67.8116771325481,normal,morto
+"Beane, Mr. Edward",male,32,"Norwich / New York, NY",5398.82014372945,165.943340597315,56.4584894812822,normal,vivo
+"Beane, Mrs. Edward (Ethel Clarke)",female,19,"Norwich / New York, NY",61.1443001914769,146.681109366622,44.2080327034958,normal,vivo
+"Beauchamp, Mr. Henry James",male,28,England,1614.6548761446,179.702876823548,76.1965070507852,normal,morto
+"Becker, Master. Richard F",male,1,"Guntur, India / Benton Harbour, MI",171.866643555742,94.354608308939,19.4492942622289,normal,vivo
+"Becker, Miss. Marion Louise",female,4,"Guntur, India / Benton Harbour, MI",151.860267108213,80.9537861318343,13.4975380649481,normal,vivo
+"Becker, Miss. Ruth Elizabeth",female,12,"Guntur, India / Benton Harbour, MI",281.784929952957,144.140345387649,45.7747682219045,normal,vivo
+"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",female,36,"Guntur, India / Benton Harbour, MI",4201.215403229,132.527080808041,40.4390052846912,normal,vivo
+"Beesley, Mr. Lawrence",male,34,London,3416.99778918363,194.215878154888,91.3926418057329,normal,vivo
+"Bentham, Miss. Lilian W",female,19,"Rochester, NY",144.249017826654,141.909534794144,41.2079488868971,normal,vivo
+"Berriman, Mr. William John",male,23,"St Ives, Cornwall / Calumet, MI",62.9825130030513,140.171902047359,42.1687637276826,normal,morto
+"Botsford, Mr. William Hull",male,26,"Elmira, NY / Orange, NJ",961.11349883303,167.382956681691,69.5083360757497,normal,morto
+"Bowenur, Mr. Solomon",male,42,London,961.249797111377,180.493044047847,62.3653505898891,normal,morto
+"Bracken, Mr. James H",male,27,"Lake Arthur, Chavez County, NM",3241.42132976465,179.213338974628,79.4640090825775,normal,morto
+"Brown, Miss. Amelia ""Mildred""",female,24,"London / Montreal, PQ",6001.97739533242,170.759842929584,61.5268254945244,normal,vivo
+"Brown, Miss. Edith Eileen",female,15,"Cape Town, South Africa / Seattle, WA",155.739599897666,132.375335286429,39.8728683038833,normal,vivo
+"Brown, Mr. Thomas William Solomon",male,60,"Cape Town, South Africa / Seattle, WA",182.854711627588,157.265048366768,54.9884465116868,normal,morto
+"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40,"Cape Town, South Africa / Seattle, WA",1804.26951042004,159.826047099402,63.0857162588262,normal,vivo
+"Bryhl, Miss. Dagmar Jenny Ingeborg",female,20,"Skara, Sweden / Rockford, IL",672.149947221391,162.630078483939,57.3262352471129,normal,vivo
+"Bryhl, Mr. Kurt Arnold Gottfrid",male,25,"Skara, Sweden / Rockford, IL",1683.44414112903,186.039288097374,83.6675860659118,normal,morto
+"Buss, Miss. Kate",female,36,"Sittingbourne, England / San Diego, CA",6004.86267188005,132.177604370099,37.4676465530904,normal,vivo
+"Butler, Mr. Reginald Fenton",male,25,"Southsea, Hants",3178.6183734918,172.565508008845,66.4694015432116,normal,morto
+"Byles, Rev. Thomas Roussel Davids",male,42,London,901.751078543253,186.25733188811,85.3906137997306,normal,morto
+"Bystrom, Mrs. (Karolina)",female,42,"New York, NY",3114.37918476854,164.655045041438,70.5397052616525,normal,vivo
+"Caldwell, Master. Alden Gates",male,0.8333,"Bangkok, Thailand / Roseville, IL",16.1184587213211,87.0982208463558,18.5493323815633,normal,vivo
+"Caldwell, Mr. Albert Francis",male,26,"Bangkok, Thailand / Roseville, IL",120.354051684961,150.306508089788,54.3153655359211,normal,vivo
+"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22,"Bangkok, Thailand / Roseville, IL",1562.52866541501,155.382003880667,52.8859582063659,normal,vivo
+"Cameron, Miss. Clear Annie",female,35,"Mamaroneck, NY",2042.99426250346,161.644271971485,64.4291614290575,normal,vivo
+"Campbell, Mr. William",male,NA,Belfast,NA,NA,NA,normal,morto
+"Carbines, Mr. William",male,19,"St Ives, Cornwall / Calumet, MI",756.834633901901,142.325688828498,51.2929381726947,normal,morto
+"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44,London,2524.28024433274,170.949550690989,73.9407839933174,normal,morto
+"Carter, Rev. Ernest Courtenay",male,54,London,2945.53176803514,183.826654293735,75.9451997474447,normal,morto
+"Chapman, Mr. Charles Henry",male,52,"Bronx, NY",3597.26196331903,182.472058058477,74.4512299563162,normal,morto
+"Chapman, Mr. John Henry",male,37,"Cornwall / Spokane, WA",5224.54469895735,162.498572531721,47.1124765093199,normal,morto
+"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",female,29,"Cornwall / Spokane, WA",5522.04569737706,159.825743682163,59.9537985581721,normal,morto
+"Christy, Miss. Julie Rachel",female,25,London,4143.46202490851,160.550201738987,52.3625357998148,normal,vivo
+"Christy, Mrs. (Alice Frances)",female,45,London,536.030859396793,163.889480838144,66.5798037091008,normal,vivo
+"Clarke, Mr. Charles Valentine",male,29,"England / San Francisco, CA",4496.95640869718,189.103595421911,78.6525438452934,normal,morto
+"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28,"England / San Francisco, CA",4194.99921507854,131.572227041467,33.788734592518,normal,vivo
+"Coleridge, Mr. Reginald Charles",male,29,"Hartford, Huntingdonshire",2154.7663511401,171.76433507202,67.4226776410042,normal,morto
+"Collander, Mr. Erik Gustaf",male,28,"Helsinki, Finland Ashtabula, Ohio",4265.75840679277,161.306475858353,57.5832228373909,normal,morto
+"Collett, Mr. Sidney C Stuart",male,24,"London / Fort Byron, NY",3300.41594146751,168.369113967982,66.3510568522035,normal,vivo
+"Collyer, Miss. Marjorie ""Lottie""",female,8,"Bishopstoke, Hants / Fayette Valley, ID",186.10914519811,161.91802015512,58.3700519494617,normal,vivo
+"Collyer, Mr. Harvey",male,31,"Bishopstoke, Hants / Fayette Valley, ID",114.963552919216,163.513556531163,61.7206955356278,normal,morto
+"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31,"Bishopstoke, Hants / Fayette Valley, ID",5215.81832922064,122.683655971165,39.4678942013291,normal,vivo
+"Cook, Mrs. (Selena Rogers)",female,22,Pennsylvania,4504.34056436084,159.701758818338,60.5068420212288,normal,vivo
+"Corbett, Mrs. Walter H (Irene Colvin)",female,30,"Provo, UT",898.060375909321,150.247153885268,60.9450024921713,normal,morto
+"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",female,NA,"Upper Burma, India Pittsburgh, PA",NA,NA,NA,normal,morto
+"Cotterill, Mr. Henry ""Harry""",male,21,"Penzance, Cornwall / Akron, OH",2396.33256094996,183.142595832424,73.9146041310866,normal,morto
+"Cunningham, Mr. Alfred Fleming",male,NA,Belfast,NA,NA,NA,normal,morto
+"Davies, Master. John Morgan Jr",male,8,"St Ives, Cornwall / Hancock, MI",102.171470448561,127.321876592374,38.503355783167,normal,vivo
+"Davies, Mr. Charles Henry",male,18,"Lyndhurst, England",935.169332436472,141.1224020218,50.1100309954745,normal,morto
+"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White)",female,48,"St Ives, Cornwall / Hancock, MI",2221.92014222592,123.090111567594,28.0100094680892,normal,vivo
+"Davis, Miss. Mary",female,28,"London / Staten Island, NY",3055.56047217082,150.004891139376,48.2399512786026,normal,vivo
+"de Brito, Mr. Jose Joaquim",male,32,"Portugal / Sau Paulo, Brazil",2340.04943514057,199.951626450974,91.0805579804685,normal,morto
+"Deacon, Mr. Percy William",male,17,NA,888.874697738886,176.036689477579,67.7257544763705,normal,morto
+"del Carlo, Mr. Sebastiano",male,29,"Lucca, Italy / California",5825.82670885138,168.948717172474,61.8409244409305,normal,morto
+"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",female,24,"Lucca, Italy / California",3361.80347415246,164.324522174314,62.1533568684443,normal,vivo
+"Denbury, Mr. Herbert",male,25,"Guernsey / Elizabeth, NJ",542.59189288225,172.785424902366,57.5714779882264,normal,morto
+"Dibden, Mr. William",male,18,"New Forest, England",839.737386037409,162.420341590324,73.1483627897341,normal,morto
+"Doling, Miss. Elsie",female,18,Southampton,792.752924434282,152.005090341547,53.0335608011909,normal,vivo
+"Doling, Mrs. John T (Ada Julia Bone)",female,34,Southampton,3003.44095911831,124.453594503798,34.6707574656721,normal,vivo
+"Downton, Mr. William James",male,54,"Holley, NY",1323.38114178926,187.007980522142,80.9034147482195,normal,morto
+"Drew, Master. Marshall Brines",male,8,"Greenport, NY",143.919663748983,122.079522777497,33.6756918747907,normal,vivo
+"Drew, Mr. James Vivian",male,42,"Greenport, NY",5816.04721779283,179.778138769057,71.3235533730724,normal,morto
+"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34,"Greenport, NY",354.558720884845,110.373169664492,25.7038672740571,normal,vivo
+"Duran y More, Miss. Asuncion",female,27,"Barcelona, Spain / Havana, Cuba",4558.46502097137,127.917213379493,44.5103099592761,normal,vivo
+"Duran y More, Miss. Florentina",female,30,"Barcelona, Spain / Havana, Cuba",594.118555739522,121.418836782159,29.3577265518513,normal,vivo
+"Eitemiller, Mr. George Floyd",male,23,"England / Detroit, MI",3176.97066722251,150.408503586628,49.0677306671872,normal,morto
+"Enander, Mr. Ingvar",male,21,"Goteborg, Sweden / Rockford, IL",4803.0684358282,153.328758717545,58.1344722976566,normal,morto
+"Fahlstrom, Mr. Arne Jonas",male,18,"Oslo, Norway Bayonne, NJ",504.382354253344,156.006748420933,64.1584561415827,normal,morto
+"Faunthorpe, Mr. Harry",male,40,"England / Philadelphia, PA",5280.96192054078,142.304799382569,50.1257682825456,normal,morto
+"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29,NA,594.119373835623,138.823735297169,48.5989830068711,normal,vivo
+"Fillbrook, Mr. Joseph Charles",male,18,"Cornwall / Houghton, MI",84.5238970147446,183.384818913358,72.1934576351472,normal,morto
+"Fox, Mr. Stanley Hubert",male,36,"Rochester, NY",1201.74592007697,193.973625322047,83.7681993927591,normal,morto
+"Frost, Mr. Anthony Wood ""Archie""",male,NA,Belfast,NA,NA,NA,normal,morto
+"Funk, Miss. Annie Clemmer",female,38,"Janjgir, India / Pennsylvania",4865.10154909082,152.334343803765,43.842545841509,normal,morto
+"Fynney, Mr. Joseph J",male,35,"Liverpool / Montreal, PQ",5635.40913298633,145.323778736655,49.6180984949733,normal,morto
+"Gale, Mr. Harry",male,38,"Cornwall / Clear Creek, CO",2877.94894443545,168.323026026575,67.604057932718,normal,morto
+"Gale, Mr. Shadrach",male,34,"Cornwall / Clear Creek, CO",304.992538922466,171.199802411334,52.3447046815591,normal,morto
+"Garside, Miss. Ethel",female,34,"Brooklyn, NY",2044.56902577449,116.27092597225,30.2146676338927,normal,vivo
+"Gaskell, Mr. Alfred",male,16,"Liverpool / Montreal, PQ",144.281033731811,155.731484232079,52.2157100029495,normal,morto
+"Gavey, Mr. Lawrence",male,26,"Guernsey / Elizabeth, NJ",1918.11619492806,167.799604516223,59.4473838380775,normal,morto
+"Gilbert, Mr. William",male,47,Cornwall,5040.09980340488,136.877518800579,42.5462920814507,normal,morto
+"Giles, Mr. Edgar",male,21,"Cornwall / Camden, NJ",119.896202836186,179.11469617694,66.3531928855417,normal,morto
+"Giles, Mr. Frederick Edward",male,21,"Cornwall / Camden, NJ",5042.32001341693,184.904195658979,82.7525474746066,normal,morto
+"Giles, Mr. Ralph",male,24,"West Kensington, London",1739.17011636402,177.483588474172,61.0308115682286,normal,morto
+"Gill, Mr. John William",male,24,"Clevedon, England",2217.91358414758,174.534301048842,66.1407797604373,normal,morto
+"Gillespie, Mr. William Henry",male,34,"Vancouver, BC",2284.20529753715,163.014400187676,54.7371076037631,normal,morto
+"Givard, Mr. Hans Kristensen",male,30,NA,5877.38930739183,167.335812166877,57.757353273103,normal,morto
+"Greenberg, Mr. Samuel",male,52,"Bronx, NY",5696.00822191872,144.718288185551,38.7603561133241,normal,morto
+"Hale, Mr. Reginald",male,30,"Auburn, NY",2218.29810226802,193.813492752907,78.2766558489182,normal,morto
+"Hamalainen, Master. Viljo",male,0.6667,"Detroit, MI",123.85291855894,71.5130365441975,11.3047105315803,normal,vivo
+"Hamalainen, Mrs. William (Anna)",female,24,"Detroit, MI",2759.68037348147,141.216893087098,36.0176149919634,normal,vivo
+"Harbeck, Mr. William H",male,44,"Seattle, WA / Toledo, OH",1499.64567559585,177.713609513263,63.827081046836,normal,morto
+"Harper, Miss. Annie Jessie ""Nina""",female,6,"Denmark Hill, Surrey / Chicago",104.127175398171,108.426551505253,31.3859902779276,normal,vivo
+"Harper, Rev. John",male,28,"Denmark Hill, Surrey / Chicago",775.203172098845,181.033466717547,73.0752942871164,normal,morto
+"Harris, Mr. George",male,62,London,655.376476141624,184.150432093181,62.530220271319,normal,vivo
+"Harris, Mr. Walter",male,30,"Walthamstow, England",3894.72630411666,149.335692451628,45.6761183495668,normal,morto
+"Hart, Miss. Eva Miriam",female,7,"Ilford, Essex / Winnipeg, MB",43.8126545581035,121.885970631662,32.5777600248985,normal,vivo
+"Hart, Mr. Benjamin",male,43,"Ilford, Essex / Winnipeg, MB",4082.92737019993,156.942443552248,57.8688185949976,normal,morto
+"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45,"Ilford, Essex / Winnipeg, MB",3782.32231906056,149.903238938806,50.4785811914767,normal,vivo
+"Herman, Miss. Alice",female,24,"Somerset / Bernardsville, NJ",3478.26688271854,138.309796147949,46.9601552361908,normal,vivo
+"Herman, Miss. Kate",female,24,"Somerset / Bernardsville, NJ",1857.74734155368,133.908296837112,39.2828160615189,normal,vivo
+"Herman, Mr. Samuel",male,49,"Somerset / Bernardsville, NJ",63.3804543977603,187.347455363444,84.3522693001052,normal,morto
+"Herman, Mrs. Samuel (Jane Laver)",female,48,"Somerset / Bernardsville, NJ",5701.30916422885,151.158637526941,50.7322961995938,normal,vivo
+"Hewlett, Mrs. (Mary D Kingcome)",female,55,"India / Rapid City, SD",4919.38949485961,141.162735425186,41.2359137382395,normal,vivo
+"Hickman, Mr. Leonard Mark",male,24,"West Hampstead, London / Neepawa, MB",1374.94582082424,144.070499533754,39.3974036715944,normal,morto
+"Hickman, Mr. Lewis",male,32,"West Hampstead, London / Neepawa, MB",5576.30195814371,177.071467891311,76.2484959904486,normal,morto
+"Hickman, Mr. Stanley George",male,21,"West Hampstead, London / Neepawa, MB",1441.89676637203,162.673714569985,57.086188378039,normal,morto
+"Hiltunen, Miss. Marta",female,18,"Kontiolahti, Finland / Detroit, MI",516.677480252087,157.548283706682,54.4307694830407,normal,morto
+"Hocking, Miss. Ellen ""Nellie""",female,20,"Cornwall / Akron, OH",612.231057253294,156.327176209579,56.8335707234093,normal,vivo
+"Hocking, Mr. Richard George",male,23,"Cornwall / Akron, OH",1318.84753697366,168.563880400618,54.4876224299163,normal,morto
+"Hocking, Mr. Samuel James Metcalfe",male,36,"Devonport, England",2158.24388869945,185.486450036429,76.6248684561573,normal,morto
+"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54,"Cornwall / Akron, OH",4134.50840708613,144.899232452577,46.8303871449353,normal,vivo
+"Hodges, Mr. Henry Price",male,50,Southampton,4316.02152089775,179.938134783085,64.1889323731334,normal,morto
+"Hold, Mr. Stephen",male,44,"England / Sacramento, CA",3954.70471596066,175.073844715237,72.3772269505865,normal,morto
+"Hold, Mrs. Stephen (Annie Margaret Hill)",female,29,"England / Sacramento, CA",4084.7501052618,147.992342034611,50.1492630314011,normal,vivo
+"Hood, Mr. Ambrose Jr",male,21,"New Forest, England",1079.81329172384,191.80108792652,89.7614673937769,normal,morto
+"Hosono, Mr. Masabumi",male,42,"Tokyo, Japan",4976.04647563118,147.29637677176,50.6892904070563,normal,vivo
+"Howard, Mr. Benjamin",male,63,"Swindon, England",4619.98541230056,163.70477449656,58.5918494492239,normal,morto
+"Howard, Mrs. Benjamin (Ellen Truelove Arman)",female,60,"Swindon, England",3538.40606250521,163.046154532087,53.2908683991689,normal,morto
+"Hunt, Mr. George Henry",male,33,"Philadelphia, PA",2095.08190452587,172.52080127186,61.768362234096,normal,morto
+"Ilett, Miss. Bertha",female,17,Guernsey,516.656703644246,129.482260304456,41.5001569809342,normal,vivo
+"Jacobsohn, Mr. Sidney Samuel",male,42,London,5037.35236898717,152.019670713456,53.1806895400417,normal,morto
+"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24,London,3718.54083414003,153.872389567104,53.2444978123819,normal,vivo
+"Jarvis, Mr. John Denzil",male,47,"North Evington, England",2525.33628796041,152.989086942164,46.2324849189904,normal,morto
+"Jefferys, Mr. Clifford Thomas",male,24,"Guernsey / Elizabeth, NJ",3120.14614777174,161.02924325719,51.0381676792433,normal,morto
+"Jefferys, Mr. Ernest Wilfred",male,22,"Guernsey / Elizabeth, NJ",4254.64777850825,168.037825214544,61.025139728528,normal,morto
+"Jenkin, Mr. Stephen Curnow",male,32,"St Ives, Cornwall / Houghton, MI",5156.50523085706,148.566337808479,50.9142251234998,normal,morto
+"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23,"New York, NY",5461.214890223,159.492224443514,58.270578420423,normal,vivo
+"Kantor, Mr. Sinai",male,34,"Moscow / Bronx, NY",3483.90986290667,185.903992496959,71.8186153158995,normal,morto
+"Kantor, Mrs. Sinai (Miriam Sternin)",female,24,"Moscow / Bronx, NY",361.345212288201,155.673275013399,51.0724784089116,normal,vivo
+"Karnes, Mrs. J Frank (Claire Bennett)",female,22,"India / Pittsburgh, PA",5514.29072838742,175.548128631772,64.6419691120304,normal,morto
+"Keane, Miss. Nora A",female,NA,"Harrisburg, PA",NA,NA,NA,normal,vivo
+"Keane, Mr. Daniel",male,35,NA,5694.26837946754,162.600679075214,62.0503056707911,normal,morto
+"Kelly, Mrs. Florence ""Fannie""",female,45,"London / New York, NY",2759.36517397407,155.061733063992,46.7495201078951,normal,vivo
+"Kirkland, Rev. Charles Leonard",male,57,"Glasgow / Bangor, ME",3415.75334817823,171.191136302734,65.3151394481978,normal,morto
+"Knight, Mr. Robert J",male,NA,Belfast,NA,NA,NA,normal,morto
+"Kvillner, Mr. Johan Henrik Johannesson",male,31,"Sweden / Arlington, NJ",4743.48829739727,188.29406935108,70.8001359283192,normal,morto
+"Lahtinen, Mrs. William (Anna Sylfven)",female,26,"Minneapolis, MN",1498.27845125087,151.10015782576,53.7406664878602,normal,morto
+"Lahtinen, Rev. William",male,30,"Minneapolis, MN",1914.40639922954,169.155283397971,66.9895567084303,normal,morto
+"Lamb, Mr. John Joseph",male,NA,NA,NA,NA,NA,normal,morto
+"Laroche, Miss. Louise",female,1,Paris / Haiti,37.8065943669528,77.2422155276619,14.5783409691976,normal,vivo
+"Laroche, Miss. Simonne Marie Anne Andree",female,3,Paris / Haiti,42.1847992372699,95.6633029833719,20.7480897035132,normal,vivo
+"Laroche, Mr. Joseph Philippe Lemercier",male,25,Paris / Haiti,5945.59570624307,159.533651595423,45.8298169787978,normal,morto
+"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22,Paris / Haiti,294.244781831279,152.204510946067,48.9231641512223,normal,vivo
+"Lehmann, Miss. Bertha",female,17,"Berne, Switzerland / Central City, IA",588.752420019172,131.361648607772,42.2480948988056,normal,vivo
+"Leitch, Miss. Jessie Wills",female,NA,"London / Chicago, IL",NA,NA,NA,normal,vivo
+"Lemore, Mrs. (Amelia Milley)",female,34,"Chicago, IL",1677.92426590249,136.872178196046,43.062336857963,normal,vivo
+"Levy, Mr. Rene Jacques",male,36,"Montreal, PQ",1314.83877941407,170.94441134914,59.9751199782754,normal,morto
+"Leyson, Mr. Robert William Norman",male,24,NA,1674.07020103745,180.001789245813,82.0877621931639,normal,morto
+"Lingane, Mr. John",male,61,NA,2640.1176356189,151.170926012835,54.1502465403714,normal,morto
+"Louch, Mr. Charles Alexander",male,50,"Weston-Super-Mare, Somerset",303.281522439793,179.388341016947,78.0688268642829,normal,morto
+"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42,"Weston-Super-Mare, Somerset",3183.25751359016,141.757972769574,50.5639413241977,normal,vivo
+"Mack, Mrs. (Mary)",female,57,"Southampton / New York, NY",4916.17975346278,161.405396189622,52.3870523743933,normal,morto
+"Malachard, Mr. Noel",male,NA,Paris,NA,NA,NA,normal,morto
+"Mallet, Master. Andre",male,1,"Paris / Montreal, PQ",192.131307426933,131.395431593193,37.7122729393337,normal,vivo
+"Mallet, Mr. Albert",male,31,"Paris / Montreal, PQ",2583.11280731857,171.572492204007,68.9366227628191,normal,morto
+"Mallet, Mrs. Albert (Antoinette Magnin)",female,24,"Paris / Montreal, PQ",1798.28333990369,142.208304835139,47.0476509776991,normal,vivo
+"Mangiavacchi, Mr. Serafino Emilio",male,NA,"New York, NY",NA,NA,NA,normal,morto
+"Matthews, Mr. William John",male,30,"St Austall, Cornwall",899.180202059448,176.393311876142,72.1567669028409,normal,morto
+"Maybery, Mr. Frank Hubert",male,40,"Weston-Super-Mare / Moose Jaw, SK",3594.63504560385,183.161371354767,82.9646648059399,normal,morto
+"McCrae, Mr. Arthur Gordon",male,32,"Sydney, Australia",4201.04103779141,172.237943869302,71.8596167072851,normal,morto
+"McCrie, Mr. James Matthew",male,30,"Sarnia, ON",1618.22009324748,194.491356943387,98.241025201774,normal,morto
+"McKane, Mr. Peter David",male,46,"Rochester, NY",5405.75981743913,190.263218345377,76.6517700009232,normal,morto
+"Mellinger, Miss. Madeleine Violet",female,13,"England / Bennington, VT",92.8682131583802,131.944446518036,35.1770212215651,normal,vivo
+"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41,"England / Bennington, VT",5460.72328982502,143.83229450257,43.2023781150488,normal,vivo
+"Mellors, Mr. William John",male,19,"Chelsea, London",1115.4067940684,163.877872231815,64.5367730762209,normal,vivo
+"Meyer, Mr. August",male,39,"Harrow-on-the-Hill, Middlesex",3594.53992764931,170.861250263474,69.1854452278789,normal,morto
+"Milling, Mr. Jacob Christian",male,48,"Copenhagen, Denmark",716.436634434387,141.316886968559,47.835444723007,normal,morto
+"Mitchell, Mr. Henry Michael",male,70,"Guernsey / Montclair, NJ and/or Toledo, Ohio",5277.35099663772,165.731553946153,65.6227628945387,normal,morto
+"Montvila, Rev. Juozas",male,27,"Worcester, MA",2104.74060058873,155.60848939745,54.8338138451546,normal,morto
+"Moraweck, Dr. Ernest",male,54,"Frankfort, KY",5936.91408827249,184.410207158397,79.2422315711206,normal,morto
+"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39,NA,5704.89977714047,183.038623285455,79.71994617118,normal,morto
+"Mudd, Mr. Thomas Charles",male,16,"Halesworth, England",610.966049824655,176.664205450884,81.1846227736598,normal,morto
+"Myles, Mr. Thomas Francis",male,62,"Cambridge, MA",3416.87839630991,180.796910224055,73.9823221949477,normal,morto
+"Nasser, Mr. Nicholas",male,32.5,"New York, NY",840.966064542532,169.467711578946,69.8718960327229,normal,morto
+"Nasser, Mrs. Nicholas (Adele Achem)",female,14,"New York, NY",239.711106640147,151.340226880114,51.4725524896375,normal,vivo
+"Navratil, Master. Edmond Roger",male,2,"Nice, France",129.990929554775,93.1185372577681,20.9015678408778,normal,vivo
+"Navratil, Master. Michel M",male,3,"Nice, France",52.1666982221417,120.131485692167,31.4168464124652,normal,vivo
+"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,"Nice, France",61.3877578480169,175.35092925397,64.2107899550718,normal,morto
+"Nesson, Mr. Israel",male,26,"Boston, MA",3124.84311644733,190.77567453928,87.6198566847568,normal,morto
+"Nicholls, Mr. Joseph Charles",male,19,"Cornwall / Hancock, MI",552.706549467333,190.55472103085,98.4719088447292,normal,morto
+"Norman, Mr. Robert Douglas",male,28,Glasgow,3663.30344876368,187.990601264587,69.4219742564565,normal,morto
+"Nourney, Mr. Alfred (""Baron von Drachstedt"")",male,20,"Cologne, Germany",216.222289441712,182.061669632457,82.2518328467511,normal,vivo
+"Nye, Mrs. (Elizabeth Ramell)",female,29,"Folkstone, Kent / New York, NY",2096.52045858465,139.127689241659,42.33077971413,normal,vivo
+"Otter, Mr. Richard",male,39,"Middleburg Heights, OH",664.376012074761,184.795257660381,62.507565632328,normal,morto
+"Oxenham, Mr. Percy Thomas",male,22,"Pondersend, England / New Durham, NJ",2284.34019063972,160.68196918406,63.0466594559622,normal,vivo
+"Padro y Manent, Mr. Julian",male,NA,"Spain / Havana, Cuba",NA,NA,NA,normal,vivo
+"Pain, Dr. Alfred",male,23,"Hamilton, ON",477.330282124691,198.027674621915,87.526794738936,normal,morto
+"Pallas y Castello, Mr. Emilio",male,29,"Spain / Havana, Cuba",4439.05766022205,172.494755068536,58.0094612121296,normal,vivo
+"Parker, Mr. Clifford Richard",male,28,"St Andrews, Guernsey",3894.75774770044,162.255782787331,60.0868295222608,normal,morto
+"Parkes, Mr. Francis ""Frank""",male,NA,Belfast,NA,NA,NA,normal,morto
+"Parrish, Mrs. (Lutie Davis)",female,50,"Woodford County, KY",4683.02270460874,171.9190619818,56.2811134109259,normal,vivo
+"Pengelly, Mr. Frederick William",male,19,"Gunnislake, England / Butte, MT",287.386979033612,151.035149443819,54.9475988538875,normal,morto
+"Pernot, Mr. Rene",male,NA,NA,NA,NA,NA,normal,morto
+"Peruschitz, Rev. Joseph Maria",male,41,NA,4805.77076491714,172.979136688557,65.2283733781082,normal,morto
+"Phillips, Miss. Alice Frances Louisa",female,21,"Ilfracombe, Devon",595.724985687062,157.625204996503,63.4484257183931,normal,vivo
+"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19,"Worcester, England",564.302048554458,137.112421192752,41.1359451829113,normal,vivo
+"Phillips, Mr. Escott Robert",male,43,"Ilfracombe, Devon",3836.63833782915,194.016016762054,94.3415074192901,normal,morto
+"Pinsky, Mrs. (Rosa)",female,32,Russia,5102.47985371761,132.015180012743,39.6844367197415,normal,vivo
+"Ponesell, Mr. Martin",male,34,"Denmark / New York, NY",5400.13410814013,155.806604594703,57.2740307134499,normal,morto
+"Portaluppi, Mr. Emilio Ilario Giuseppe",male,30,"Milford, NH",3964.34745726362,145.895877813106,45.2167136795553,normal,vivo
+"Pulbaum, Mr. Franz",male,27,Paris,4680.52435779758,195.968171613394,75.746785282258,normal,morto
+"Quick, Miss. Phyllis May",female,2,"Plymouth, Devon / Detroit, MI",119.96701944815,50.6177120232517,5.82250154143942,normal,vivo
+"Quick, Miss. Winifred Vera",female,8,"Plymouth, Devon / Detroit, MI",89.8051491056569,117.384396004664,33.0851539460164,normal,vivo
+"Quick, Mrs. Frederick Charles (Jane Richards)",female,33,"Plymouth, Devon / Detroit, MI",899.638966089115,127.382285548583,33.1756174093779,normal,vivo
+"Reeves, Mr. David",male,36,"Brighton, Sussex",4142.5575503502,179.08904748631,86.6014477192611,normal,morto
+"Renouf, Mr. Peter Henry",male,34,"Elizabeth, NJ",4742.76918139681,175.764500575648,69.6749963536253,normal,morto
+"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30,"Elizabeth, NJ",3955.13796797488,149.427903097466,47.2737951089609,normal,vivo
+"Reynaldo, Ms. Encarnacion",female,28,Spain,2699.80156588275,151.153086781615,45.5291549352089,normal,vivo
+"Richard, Mr. Emile",male,23,"Paris / Montreal, PQ",4204.21535434853,144.650630881484,42.4817273989123,normal,morto
+"Richards, Master. George Sibley",male,0.8333,"Cornwall / Akron, OH",129.995342929475,70.4718674919929,10.7832437339479,normal,vivo
+"Richards, Master. William Rowe",male,3,"Cornwall / Akron, OH",196.171717983298,80.6668073918043,14.8958889803332,normal,vivo
+"Richards, Mrs. Sidney (Emily Hocking)",female,24,"Cornwall / Akron, OH",1494.84994236287,118.624823942778,28.8986354956175,normal,vivo
+"Ridsdale, Miss. Lucy",female,50,"London, England / Marietta, Ohio and Milwaukee, WI",298.186724628322,151.284759329151,47.0427122035024,normal,vivo
+"Rogers, Mr. Reginald Harry",male,19,NA,1031.36957969405,161.013905694918,54.6391088461594,normal,morto
+"Rugg, Miss. Emily",female,21,"Guernsey / Wilmington, DE",663.561569619924,173.988843659197,71.9214322178135,normal,vivo
+"Schmidt, Mr. August",male,26,"Newark, NJ",534.664724752307,180.080073726542,69.6527814272621,normal,morto
+"Sedgwick, Mr. Charles Frederick Waddington",male,25,Liverpool,4685.12796017434,153.284915161015,46.7027720066285,normal,morto
+"Sharp, Mr. Percival James R",male,27,"Hornsey, England",1745.0815719394,181.747384817956,76.4580787560597,normal,morto
+"Shelley, Mrs. William (Imanita Parrish Hall)",female,25,"Deer Lodge, MT",185.551372082904,149.558052083823,45.7053255770333,normal,vivo
+"Silven, Miss. Lyyli Karoliina",female,18,"Finland / Minneapolis, MN",672.363484743051,136.959350588609,43.0148933984757,normal,vivo
+"Sincock, Miss. Maude",female,20,"Cornwall / Hancock, MI",240.763466602005,145.45273995807,47.0342537509159,normal,vivo
+"Sinkkonen, Miss. Anna",female,30,"Finland / Washington, DC",5936.57629599888,139.231960647873,39.049895285691,normal,vivo
+"Sjostedt, Mr. Ernst Adolf",male,59,"Sault St Marie, ON",1622.62190656923,138.472902716632,41.0290719037582,normal,morto
+"Slayter, Miss. Hilda Mary",female,30,"Halifax, NS",3000.14035363588,125.972428216371,28.5803262180437,normal,vivo
+"Slemen, Mr. Richard James",male,35,Cornwall,783.849870560691,172.518469613488,61.9505462387099,normal,morto
+"Smith, Miss. Marion Elsie",female,40,NA,4562.99291164242,150.960569478393,47.7846599013915,normal,vivo
+"Sobey, Mr. Samuel James Hayden",male,25,"Cornwall / Houghton, MI",4734.84018633049,171.170991874793,51.5547034569317,normal,morto
+"Stanton, Mr. Samuel Ward",male,41,"New York, NY",2763.25378677249,183.731318851123,77.0992528198198,normal,morto
+"Stokes, Mr. Philip Joseph",male,25,"Catford, Kent / Detroit, MI",5824.54135317262,172.221383558624,72.5509691789921,normal,morto
+"Swane, Mr. George",male,18.5,NA,780.45939336475,127.133965236591,37.8588804423185,normal,morto
+"Sweet, Mr. George Frederick",male,14,"Somerset / Bernardsville, NJ",33.2981178530026,158.325248046384,63.5660015386845,normal,morto
+"Toomey, Miss. Ellen",female,50,"Indianapolis, IN",5464.85289353225,137.070898820467,44.4929466908,normal,vivo
+"Troupiansky, Mr. Moses Aaron",male,23,NA,3658.54630586319,164.057993268805,57.0419130738481,normal,morto
+"Trout, Mrs. William H (Jessie L)",female,28,"Columbus, OH",1739.33603978623,153.12226149084,51.5687304390335,normal,vivo
+"Troutt, Miss. Edwina Celia ""Winnie""",female,27,"Bath, England / Massachusetts",1982.9982150346,155.511730332364,57.8637831137686,normal,vivo
+"Turpin, Mr. William John Robert",male,29,"Plymouth, England",2821.81166165136,168.949016808215,63.6100277828727,normal,morto
+"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27,"Plymouth, England",3899.62303727679,145.798842141132,39.5507489913036,normal,morto
+"Veal, Mr. James",male,40,"Barre, Co Washington, VT",5874.9248621352,180.153420267629,77.8323832271696,normal,morto
+"Walcroft, Miss. Nellie",female,31,"Mamaroneck, NY",4082.2380692549,152.865384248837,50.338717857057,normal,vivo
+"Ware, Mr. John James",male,30,"Bristol, England / New Britain, CT",1205.14957149792,188.497815380134,80.6335729178844,normal,morto
+"Ware, Mr. William Jeffery",male,23,NA,3298.79095687531,177.667509368534,69.4164060387118,normal,morto
+"Ware, Mrs. John James (Florence Louise Long)",female,31,"Bristol, England / New Britain, CT",844.304481960833,147.613949219036,50.0320139631133,normal,vivo
+"Watson, Mr. Ennis Hastings",male,NA,Belfast,NA,NA,NA,normal,morto
+"Watt, Miss. Bertha J",female,12,"Aberdeen / Portland, OR",222.208115447173,136.852985624873,46.8198459479583,normal,vivo
+"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40,"Aberdeen / Portland, OR",2577.49317587167,142.05568342568,50.7271999581916,normal,vivo
+"Webber, Miss. Susan",female,32.5,"England / Hartford, CT",5518.65954660717,169.674391472255,60.9543330173385,normal,vivo
+"Weisz, Mr. Leopold",male,27,"Bromsgrove, England / Montreal, PQ",4198.06307105161,190.24934875718,79.2567981704187,normal,morto
+"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29,"Bromsgrove, England / Montreal, PQ",4914.0565554332,133.489254796735,40.086442273411,normal,vivo
+"Wells, Master. Ralph Lester",male,2,"Cornwall / Akron, OH",191.863275322597,65.1731149431881,8.87698505242084,normal,vivo
+"Wells, Miss. Joan",female,4,"Cornwall / Akron, OH",145.895146191772,119.564849575014,27.426566457811,normal,vivo
+"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",female,29,"Cornwall / Akron, OH",1085.90316240303,141.582048303823,53.5952265844564,normal,vivo
+"West, Miss. Barbara J",female,0.9167,"Bournmouth, England",90.1163211566396,75.9565612844059,11.1686315435397,normal,vivo
+"West, Miss. Constance Mirium",female,5,"Bournmouth, England",151.849610227067,109.817612861977,33.455302715876,normal,vivo
+"West, Mr. Edwy Arthur",male,36,"Bournmouth, England",1744.91966242343,155.714520620304,57.0347080803107,normal,morto
+"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33,"Bournmouth, England",2459.26584804151,172.657963676037,69.2773385203827,normal,vivo
+"Wheadon, Mr. Edward H",male,66,"Guernsey, England / Edgewood, RI",1143.24330184981,168.131431806743,62.7299562162258,normal,morto
+"Wheeler, Mr. Edwin ""Frederick""",male,NA,NA,NA,NA,NA,normal,morto
+"Wilhelms, Mr. Charles",male,31,"London, England",1863.89395835996,178.407068565675,73.005121456123,normal,vivo
+"Williams, Mr. Charles Eugene",male,NA,"Harrow, England",NA,NA,NA,normal,vivo
+"Wright, Miss. Marion",female,26,"Yoevil, England / Cottage Grove, OR",481.296386123635,150.706009992676,52.5480898500948,normal,vivo
+"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24,Paris,4739.63002131321,162.40336098251,48.4048455106683,normal,morto
+"Abbing, Mr. Anthony",male,42,NA,3594.46438685898,191.707822056459,76.6464355886629,rico,morto
+"Abbott, Master. Eugene Joseph",male,13,"East Providence, RI",116.822054864606,164.482709289523,67.536801766114,rico,morto
+"Abbott, Mr. Rossmore Edward",male,16,"East Providence, RI",306.56812022198,156.921612943466,53.6477890850055,rico,morto
+"Abbott, Mrs. Stanton (Rosa Hunt)",female,35,"East Providence, RI",8374.11571791396,181.422796689608,77.4167378020209,rico,vivo
+"Abelseth, Miss. Karen Marie",female,16,"Norway Los Angeles, CA",1441.1037022613,155.065919917929,56.0466439289231,rico,vivo
+"Abelseth, Mr. Olaus Jorgensen",male,25,"Perkins County, SD",7555.26931873988,171.617632756221,58.2592678666525,rico,vivo
+"Abrahamsson, Mr. Abraham August Johannes",male,20,"Taalintehdas, Finland Hoboken, NJ",1710.32174071278,161.035251713096,58.5200804865852,rico,vivo
+"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",female,18,"Greensburg, PA",1116.3576988712,143.367806518861,54.1011419675714,rico,vivo
+"Adahl, Mr. Mauritz Nils Martin",male,30,"Asarum, Sweden Brooklyn, NY",8734.40374141373,192.739690175725,75.090958404118,rico,morto
+"Adams, Mr. John",male,26,"Bournemouth, England",5397.61090974044,152.633039746772,47.4211721198839,rico,morto
+"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40,"Sweden Akeley, MN",3871.95628252253,151.606032521357,45.2701189790892,rico,morto
+"Aks, Master. Philip Frank",male,0.8333,"London, England Norfolk, VA",44.9926672435366,97.012211486058,22.2380633658019,rico,vivo
+"Aks, Mrs. Sam (Leah Rosen)",female,18,"London, England Norfolk, VA",1510.88183990903,177.339623754122,71.1412059548669,rico,vivo
+"Albimona, Mr. Nassef Cassem",male,26,"Syria Fredericksburg, VA",1168.8576875953,159.145046107493,61.8861486772044,rico,vivo
+"Alexander, Mr. William",male,26,"England Albion, NY",89.5836371853948,171.025632897644,77.602236896946,rico,morto
+"Alhomaki, Mr. Ilmari Rudolf",male,20,"Salo, Finland Astoria, OR",612.784582273476,182.326329046802,77.4659797860088,rico,morto
+"Ali, Mr. Ahmed",male,24,NA,7293.96888320893,185.075130079232,78.3912403289281,rico,morto
+"Ali, Mr. William",male,25,Argentina,8554.36071264837,180.603827921254,76.7478487841053,rico,morto
+"Allen, Mr. William Henry",male,35,"Lower Clapton, Middlesex or Erdington, Birmingham",4774.2438738104,201.750362993653,80.8489859647951,rico,morto
+"Allum, Mr. Owen George",male,18,"Windsor, England New York, NY",809.090033609234,180.078538867614,64.2456645039719,rico,morto
+"Andersen, Mr. Albert Karvin",male,32,"Bergen, Norway",1890.53960001469,159.950848460711,50.7105058228135,rico,morto
+"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19,NA,504.791220578738,150.070920418607,50.2953662104994,rico,vivo
+"Andersson, Master. Sigvard Harald Elias",male,4,"Sweden Winnipeg, MN",221.884532702342,117.629667567155,30.4015849679916,rico,morto
+"Andersson, Miss. Ebba Iris Alfrida",female,6,"Sweden Winnipeg, MN",50.9164455089718,120.666252478436,27.6717581451333,rico,morto
+"Andersson, Miss. Ellis Anna Maria",female,2,"Sweden Winnipeg, MN",201.151586298738,57.7886875741655,7.59590925856954,rico,morto
+"Andersson, Miss. Erna Alexandra",female,17,"Ruotsinphyhtaa, Finland New York, NY",179.599793920666,143.218831119766,44.1533196943163,rico,vivo
+"Andersson, Miss. Ida Augusta Margareta",female,38,"Vadsbro, Sweden Ministee, MI",8729.80718628131,145.319325445863,37.9088166055504,rico,morto
+"Andersson, Miss. Ingeborg Constanzia",female,9,"Sweden Winnipeg, MN",80.997858277522,159.238435133008,45.5304888839377,rico,morto
+"Andersson, Miss. Sigrid Elisabeth",female,11,"Sweden Winnipeg, MN",4.77646320350468,138.068173558254,37.9733605420747,rico,morto
+"Andersson, Mr. Anders Johan",male,39,"Sweden Winnipeg, MN",4055.00031762477,171.410270063854,72.040444696234,rico,morto
+"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27,NA,6842.46491606813,181.465164350262,77.3819072909499,rico,vivo
+"Andersson, Mr. Johan Samuel",male,26,"Hartford, CT",1802.22076692805,175.869092541709,81.3895806292326,rico,morto
+"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39,"Sweden Winnipeg, MN",3776.44737146515,161.438745888718,55.2505034564373,rico,morto
+"Andreasson, Mr. Paul Edvin",male,20,"Sweden Chicago, IL",1348.8871455146,167.400689061452,59.0657432067343,rico,morto
+"Angheloff, Mr. Minko",male,26,"Bulgaria Chicago, IL",2703.8516684901,147.998384904159,47.9123842665541,rico,morto
+"Arnold-Franchi, Mr. Josef",male,25,"Altdorf, Switzerland",6385.21784014162,191.566724381395,88.6277610975909,rico,morto
+"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18,"Altdorf, Switzerland",991.132991798222,143.869502281675,43.8660448398341,rico,morto
+"Aronsson, Mr. Ernst Axel Algot",male,24,"Sweden Joliet, IL",2874.08860088233,180.019078286171,74.066766633963,rico,morto
+"Asim, Mr. Adola",male,35,NA,5134.31259047985,195.657249494464,92.4138139628608,rico,morto
+"Asplund, Master. Carl Edgar",male,5,"Sweden  Worcester, MA",18.1711480664089,95.014222492188,19.5279544657878,rico,morto
+"Asplund, Master. Clarence Gustaf Hugo",male,9,"Sweden Worcester, MA",240.003845494054,128.246018226804,28.0445559223394,rico,morto
+"Asplund, Master. Edvin Rojj Felix",male,3,"Sweden Worcester, MA",152.983698275965,126.191159523499,33.8818409813981,rico,vivo
+"Asplund, Master. Filip Oscar",male,13,"Sweden Worcester, MA",305.916184790432,191.394816355786,77.0276226119764,rico,morto
+"Asplund, Miss. Lillian Gertrud",female,5,"Sweden Worcester, MA",242.998627577163,84.2159942586603,14.1889419118675,rico,vivo
+"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",male,40,"Sweden  Worcester, MA",4495.72030396666,176.160002649187,76.7258072389692,rico,morto
+"Asplund, Mr. Johan Charles",male,23,"Oskarshamn, Sweden Minneapolis, MN",2158.0298959678,166.170874557681,55.1358540675934,rico,vivo
+"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38,"Sweden  Worcester, MA",1349.84517188184,120.150723227176,33.0318179267608,rico,vivo
+"Assaf Khalil, Mrs. Mariana (""Miriam"")",female,45,"Ottawa, ON",2516.66154358629,144.658348241264,46.8790028598985,rico,vivo
+"Assaf, Mr. Gerios",male,21,"Ottawa, ON",3063.95682250243,160.479743365714,57.2461224309096,rico,morto
+"Assam, Mr. Ali",male,23,NA,2792.60959124286,183.344762572381,67.0347301915904,rico,morto
+"Attalah, Miss. Malake",female,17,NA,1780.8010566406,142.176579906816,44.7725144247329,rico,morto
+"Attalah, Mr. Sleiman",male,30,"Ottawa, ON",2880.56225075573,178.78015500527,75.9208913879247,rico,morto
+"Augustsson, Mr. Albert",male,23,"Krakoryd, Sweden Bloomington, IL",633.982626814395,166.292897117983,62.5880962596952,rico,morto
+"Ayoub, Miss. Banoura",female,13,"Syria Youngstown, OH",238.22710777279,159.566409324076,56.483420702023,rico,vivo
+"Baccos, Mr. Raffull",male,20,NA,720.063250582851,170.219591313401,76.9716870548925,rico,morto
+"Backstrom, Mr. Karl Alfred",male,32,"Ruotsinphytaa, Finland New York, NY",1617.68698011059,166.13536465964,46.3950835254758,rico,morto
+"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33,"Ruotsinphytaa, Finland New York, NY",6389.21121266484,174.676146039983,68.4811838027945,rico,vivo
+"Baclini, Miss. Eugenie",female,0.75,"Syria New York, NY",299.95035902923,96.8712790530331,19.6275871695099,rico,vivo
+"Baclini, Miss. Helene Barbara",female,0.75,"Syria New York, NY",90.054390316084,61.6572830687738,7.97942924393349,rico,vivo
+"Baclini, Miss. Marie Catherine",female,5,"Syria New York, NY",144.191766086873,106.235218776251,25.8930089616814,rico,vivo
+"Baclini, Mrs. Solomon (Latifa Qurban)",female,24,"Syria New York, NY",4404.00737776514,143.311330187963,44.110772645879,rico,vivo
+"Badman, Miss. Emily Louisa",female,18,"London Skanteales, NY",1602.93440158814,134.666461373255,36.1837129321802,rico,vivo
+"Badt, Mr. Mohamed",male,40,NA,4676.85657317843,201.203567551193,102.73542946819,rico,morto
+"Balkic, Mr. Cerin",male,26,NA,6027.79446215741,156.186946272969,49.0013123437015,rico,morto
+"Barah, Mr. Hanna Assi",male,20,NA,1440.46000139806,173.097354076967,72.5488807433775,rico,vivo
+"Barbara, Miss. Saiide",female,18,"Syria Ottawa, ON",304.81063092649,136.636288296953,39.713105408775,rico,morto
+"Barbara, Mrs. (Catherine David)",female,45,"Syria Ottawa, ON",7110.974286885,152.905288153863,57.3007755199817,rico,morto
+"Barry, Miss. Julia",female,27,"New York, NY",2427.01249114238,125.622654523196,33.4276467159314,rico,morto
+"Barton, Mr. David John",male,22,"England New York, NY",5314.26437776443,177.525131391847,70.4165878459262,rico,morto
+"Beavan, Mr. William Thomas",male,19,England,1296.33055410571,188.541381258288,78.7606829462029,rico,morto
+"Bengtsson, Mr. John Viktor",male,26,"Krakudden, Sweden Moune, IL",2155.26112269703,161.946420291524,53.48554608935,rico,morto
+"Berglund, Mr. Karl Ivar Sven",male,22,"Tranvik, Finland New York",3416.08969495073,164.122089537128,62.060377452522,rico,morto
+"Betros, Master. Seman",male,NA,NA,NA,NA,NA,rico,morto
+"Betros, Mr. Tannous",male,20,Syria,827.087391294166,190.307445367009,79.8891185875344,rico,morto
+"Bing, Mr. Lee",male,32,"Hong Kong New York, NY",716.95710370224,148.18083049052,54.3291315292234,rico,vivo
+"Birkeland, Mr. Hans Martin Monsen",male,21,"Brennes, Norway New York",6755.30891755968,190.195951546291,92.7438528027042,rico,morto
+"Bjorklund, Mr. Ernst Herbert",male,18,"Stockholm, Sweden New York",1332.58448997159,163.930367059723,56.0550728355072,rico,morto
+"Bostandyeff, Mr. Guentcho",male,26,"Bulgaria Chicago, IL",6836.98131405562,175.00766877724,69.7383122057858,rico,morto
+"Boulos, Master. Akar",male,6,"Syria Kent, ON",287.828936425317,126.993836886552,31.6454478743528,rico,morto
+"Boulos, Miss. Nourelain",female,9,"Syria Kent, ON",168.053537229262,105.589715347648,21.0200734840377,rico,morto
+"Boulos, Mr. Hanna",male,NA,Syria,NA,NA,NA,rico,morto
+"Boulos, Mrs. Joseph (Sultana)",female,NA,"Syria Kent, ON",NA,NA,NA,rico,morto
+"Bourke, Miss. Mary",female,NA,"Ireland Chicago, IL",NA,NA,NA,rico,morto
+"Bourke, Mr. John",male,40,"Ireland Chicago, IL",5674.78133327141,143.62190230155,36.7029420629675,rico,morto
+"Bourke, Mrs. John (Catherine)",female,32,"Ireland Chicago, IL",6655.04790362902,151.04126270043,55.5543605346843,rico,morto
+"Bowen, Mr. David John ""Dai""",male,21,"Treherbert, Cardiff, Wales",4683.7032673806,143.193854411256,53.464305474934,rico,morto
+"Bradley, Miss. Bridget Delia",female,22,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY",2427.11232945509,154.55598726603,54.3092646858679,rico,vivo
+"Braf, Miss. Elin Ester Maria",female,20,"Medeltorp, Sweden Chicago, IL",1583.25993358456,155.027161857555,52.9004210634283,rico,morto
+"Braund, Mr. Lewis Richard",male,29,"Bridgerule, Devon",2793.80985983927,173.142403544403,65.0979895475472,rico,morto
+"Braund, Mr. Owen Harris",male,22,"Bridgerule, Devon",6210.8255816102,177.064030599674,65.8223085700088,rico,morto
+"Brobeck, Mr. Karl Rudolf",male,22,"Sweden Worcester, MA",7828.30491673294,199.426052377652,94.0155817963421,rico,morto
+"Brocklebank, Mr. William Alfred",male,35,"Broomfield, Chelmsford, England",6384.04930804018,182.262982758706,71.345855521781,rico,morto
+"Buckley, Miss. Katherine",female,18.5,"Co Cork, Ireland Roxbury, MA",990.431000516564,125.896696919183,37.5737444227968,rico,morto
+"Buckley, Mr. Daniel",male,21,"Kingwilliamstown, Co Cork, Ireland New York, NY",3692.50556188356,168.479860446499,69.5771211860901,rico,vivo
+"Burke, Mr. Jeremiah",male,19,"Co Cork, Ireland Charlestown, MA",629.734716000035,171.530821062503,66.1190221462247,rico,morto
+"Burns, Miss. Mary Delia",female,18,"Co Sligo, Ireland New York, NY",521.976024860144,138.796684264829,49.871881682174,rico,morto
+"Cacic, Miss. Manda",female,21,NA,2161.48789158929,148.410785127143,52.9532202264285,rico,morto
+"Cacic, Miss. Marija",female,30,NA,5936.39005719591,132.770447657414,38.2480559222995,rico,morto
+"Cacic, Mr. Jego Grga",male,18,NA,791.852352629229,156.071673573306,57.5031222955468,rico,morto
+"Cacic, Mr. Luka",male,38,Croatia,7650.41355056874,160.190514414933,48.6257905586684,rico,morto
+"Calic, Mr. Jovo",male,17,NA,1313.17025304716,152.157270743306,57.5147980964758,rico,morto
+"Calic, Mr. Petar",male,17,NA,1152.03333406728,166.53110895972,74.4922011577168,rico,morto
+"Canavan, Miss. Mary",female,21,NA,4679.67938260362,158.449050358683,40.6164176835915,rico,morto
+"Canavan, Mr. Patrick",male,21,"Ireland Philadelphia, PA",3958.80644468218,185.4672596912,94.556999723431,rico,morto
+"Cann, Mr. Ernest Charles",male,21,NA,3868.06170213036,157.276933472726,58.1709442647787,rico,morto
+"Caram, Mr. Joseph",male,NA,"Ottawa, ON",NA,NA,NA,rico,morto
+"Caram, Mrs. Joseph (Maria Elias)",female,NA,"Ottawa, ON",NA,NA,NA,rico,morto
+"Carlsson, Mr. August Sigfrid",male,28,"Dagsas, Sweden Fower, MN",5762.3272679653,172.998058561926,59.770109150758,rico,morto
+"Carlsson, Mr. Carl Robert",male,24,"Goteborg, Sweden Huntley, IL",2525.66340396646,154.493751841752,63.8832083603042,rico,morto
+"Carr, Miss. Helen ""Ellen""",female,16,"Co Longford, Ireland New York, NY",863.261122685485,159.285085550296,63.1740132934943,rico,vivo
+"Carr, Miss. Jeannie",female,37,"Co Sligo, Ireland Hartford, CT",354.426027277485,126.985237786091,35.1755940967801,rico,morto
+"Carver, Mr. Alfred John",male,28,"St Denys, Southampton, Hants",7559.0908757709,173.259035663753,62.5293775194344,rico,morto
+"Celotti, Mr. Francesco",male,24,London,6029.40829981305,171.082845945869,54.9977987137255,rico,morto
+"Charters, Mr. David",male,21,"Ireland New York, NY",6480.81947661191,140.773866567791,40.4582271107723,rico,morto
+"Chip, Mr. Chang",male,32,"Hong Kong New York, NY",4315.63677833509,167.110395162003,60.7753276433143,rico,vivo
+"Christmann, Mr. Emil",male,29,NA,7023.72569679748,178.764664184206,58.8790505265415,rico,morto
+"Chronopoulos, Mr. Apostolos",male,26,Greece,628.005062676966,184.982338908848,73.5143502971009,rico,morto
+"Chronopoulos, Mr. Demetrios",male,18,Greece,198.348936138488,184.113152087245,75.467711312915,rico,morto
+"Coelho, Mr. Domingos Fernandeo",male,20,Portugal,1368.15540040489,165.506969744061,59.5787187059695,rico,morto
+"Cohen, Mr. Gurshon ""Gus""",male,18,"London Brooklyn, NY",847.105190348625,157.946024016579,57.3298849452098,rico,vivo
+"Colbert, Mr. Patrick",male,24,"Co Limerick, Ireland Sherbrooke, PQ",2429.5327940695,179.871994042675,64.0186882615514,rico,morto
+"Coleff, Mr. Peju",male,36,"Bulgaria Chicago, IL",6123.96893028449,173.090923325863,68.6091798225009,rico,morto
+"Coleff, Mr. Satio",male,24,NA,8013.75898080692,145.645390491446,49.1354528660057,rico,morto
+"Conlon, Mr. Thomas Henry",male,31,"Philadelphia, PA",2874.3109992072,165.701453297552,69.7852373782845,rico,morto
+"Connaghton, Mr. Michael",male,31,"Ireland Brooklyn, NY",5943.5898431316,165.615372531639,64.6425847840312,rico,morto
+"Connolly, Miss. Kate",female,22,Ireland,1705.14476317819,133.444435582839,39.2502079546543,rico,vivo
+"Connolly, Miss. Kate",female,30,Ireland,5124.56002774369,155.645477924507,58.9599837388952,rico,morto
+"Connors, Mr. Patrick",male,70.5,NA,7024.59120768774,177.039182674533,74.5594133910569,rico,morto
+"Cook, Mr. Jacob",male,43,NA,1983.76165303588,190.712896804085,87.9636970740191,rico,morto
+"Cor, Mr. Bartol",male,35,Austria,2699.1066773124,176.406262160667,63.7117152536288,rico,morto
+"Cor, Mr. Ivan",male,27,Austria,538.344789309427,186.879369186524,87.8238149217023,rico,morto
+"Cor, Mr. Liudevit",male,19,Austria,1171.1768895233,176.419235819661,71.7656278127666,rico,morto
+"Corn, Mr. Harry",male,30,London,5225.74000630528,132.928239397993,44.4901261581567,rico,morto
+"Coutts, Master. Eden Leslie ""Neville""",male,9,"England Brooklyn, NY",108.072609739378,112.986106322829,27.5661261269282,rico,vivo
+"Coutts, Master. William Loch ""William""",male,3,"England Brooklyn, NY",240.158610994183,100.352135484537,20.7281991995275,rico,vivo
+"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",female,36,"England Brooklyn, NY",3238.46043752879,130.732609911864,34.4831507196796,rico,vivo
+"Coxon, Mr. Daniel",male,59,"Merrill, WI",6305.09474665113,152.769835089748,47.6882106644547,rico,morto
+"Crease, Mr. Ernest James",male,19,"Bristol, England Cleveland, OH",216.213247971609,181.9840642103,72.8838485699216,rico,morto
+"Cribb, Miss. Laura Alice",female,17,"Bournemouth, England Newark, NJ",1403.7566630898,151.182208374326,57.9625427793415,rico,vivo
+"Cribb, Mr. John Hatfield",male,44,"Bournemouth, England Newark, NJ",2964.28027658444,174.831272256221,58.2813104143683,rico,morto
+"Culumovic, Mr. Jeso",male,17,Austria-Hungary,664.806471408159,149.743175287569,47.6442714982297,rico,morto
+"Daher, Mr. Shedid",male,22.5,NA,5037.11935747415,195.744383160058,67.3693430971725,rico,morto
+"Dahl, Mr. Karl Edwart",male,45,"Australia Fingal, ND",1435.18808824103,181.17703809817,66.9193529747407,rico,vivo
+"Dahlberg, Miss. Gerda Ulrika",female,22,"Norrlot, Sweden Chicago, IL",6124.73270863574,156.474834917543,51.0981213066145,rico,morto
+"Dakic, Mr. Branko",male,19,Austria,1385.25137287695,154.33991117482,48.295607986633,rico,morto
+"Daly, Miss. Margaret Marcella ""Maggie""",female,30,"Co Athlone, Ireland New York, NY",3331.35182304494,143.68542541947,46.8915092165716,rico,vivo
+"Daly, Mr. Eugene Patrick",male,29,"Co Athlone, Ireland New York, NY",6929.46540355962,158.057746069798,58.267824905904,rico,vivo
+"Danbom, Master. Gilbert Sigvard Emanuel",male,0.3333,"Stanton, IA",29.8396304067224,73.9214692556109,12.5727932303692,rico,morto
+"Danbom, Mr. Ernst Gilbert",male,34,"Stanton, IA",2427.69206593931,159.918460737107,49.1518569267654,rico,morto
+"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28,"Stanton, IA",3785.04092372674,170.280317105134,71.0189016582269,rico,morto
+"Danoff, Mr. Yoto",male,27,"Bulgaria Chicago, IL",1524.02262277063,180.025994300598,68.791842514467,rico,morto
+"Dantcheff, Mr. Ristiu",male,25,"Bulgaria Chicago, IL",6662.03818288632,166.697004670328,61.4111288388425,rico,morto
+"Davies, Mr. Alfred J",male,24,"West Bromwich, England Pontiac, MI",1081.07810058072,189.930079735079,68.4830550413718,rico,morto
+"Davies, Mr. Evan",male,22,NA,7827.15539680235,174.280281364741,65.1708423557678,rico,morto
+"Davies, Mr. John Samuel",male,21,"West Bromwich, England Pontiac, MI",8192.97938753664,163.745529569216,57.6784896172505,rico,morto
+"Davies, Mr. Joseph",male,17,"West Bromwich, England Pontiac, MI",341.332605213672,149.820885516596,49.3585318257578,rico,morto
+"Davison, Mr. Thomas Henry",male,NA,"Liverpool, England Bedford, OH",NA,NA,NA,rico,morto
+"Davison, Mrs. Thomas Henry (Mary E Finck)",female,NA,"Liverpool, England Bedford, OH",NA,NA,NA,rico,vivo
+"de Messemaeker, Mr. Guillaume Joseph",male,36.5,"Tampico, MT",5937.10622670036,181.049937825931,60.6398221309856,rico,vivo
+"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36,"Tampico, MT",3782.29620121513,135.992843101108,43.204493655234,rico,vivo
+"de Mulder, Mr. Theodore",male,30,"Belgium Detroit, MI",6928.42212749831,153.878596181765,58.7801494559845,rico,vivo
+"de Pelsmaeker, Mr. Alfons",male,16,NA,432.674509018846,175.115205326879,63.3011452586141,rico,morto
+"Dean, Master. Bertram Vere",male,1,"Devon, England Wichita, KS",273.044863566197,62.9687835292632,9.03990648094322,rico,vivo
+"Dean, Miss. Elizabeth Gladys ""Millvina""",female,0.1667,"Devon, England Wichita, KS",20.9746440854855,80.8950683079767,15.2764435528526,rico,vivo
+"Dean, Mr. Bertram Frank",male,26,"Devon, England Wichita, KS",6839.74911497254,157.152402574446,62.3494503554453,rico,morto
+"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33,"Devon, England Wichita, KS",6929.16056897119,145.264318607778,45.0548139705955,rico,vivo
+"Delalic, Mr. Redjo",male,25,NA,4947.37762822397,145.154557238751,50.2428909860733,rico,morto
+"Demetri, Mr. Marinko",male,NA,NA,NA,NA,NA,rico,morto
+"Denkoff, Mr. Mitto",male,NA,"Bulgaria Coon Rapids, IA",NA,NA,NA,rico,morto
+"Dennis, Mr. Samuel",male,22,NA,3686.10248389095,189.265840720977,75.1485755670815,rico,morto
+"Dennis, Mr. William",male,36,NA,5487.48229943309,183.320385551949,74.8657885362515,rico,morto
+"Devaney, Miss. Margaret Delia",female,19,"Kilmacowen, Co Sligo, Ireland New York, NY",739.039000416175,158.461997911577,48.9064013090286,rico,vivo
+"Dika, Mr. Mirko",male,17,NA,539.815754010715,144.217499418511,45.6724013414261,rico,morto
+"Dimic, Mr. Jovan",male,42,NA,4495.72558391746,169.376024027952,61.1726810773853,rico,morto
+"Dintcheff, Mr. Valtcho",male,43,NA,7655.47680123802,188.412280325002,73.5250528314345,rico,morto
+"Doharr, Mr. Tannous",male,NA,NA,NA,NA,NA,rico,morto
+"Dooley, Mr. Patrick",male,32,"Ireland New York, NY",7018.80027098022,180.24785016065,74.4242047644267,rico,morto
+"Dorking, Mr. Edward Arthur",male,19,"England Oglesby, IL",1367.47815477569,171.39052531972,61.4361703753716,rico,vivo
+"Dowdell, Miss. Elizabeth",female,30,"Union Hill, NJ",3603.36857415922,157.471748308951,41.4827134248165,rico,vivo
+"Doyle, Miss. Elizabeth",female,24,"Ireland New York, NY",6031.05933622923,184.528670324758,90.9843098080991,rico,morto
+"Drapkin, Miss. Jennie",female,23,"London New York, NY",5401.66134009976,146.247956403006,47.928602139747,rico,vivo
+"Drazenoic, Mr. Jozef",male,33,"Austria Niagara Falls, NY",2426.48972628638,136.147360830241,39.1111576806643,rico,morto
+"Duane, Mr. Frank",male,65,NA,6294.35753782745,196.279257485632,72.781352720145,rico,morto
+"Duquemin, Mr. Joseph",male,24,"England Albion, NY",3963.5259277951,168.473475338985,63.1315340516092,rico,vivo
+"Dyker, Mr. Adolf Fredrik",male,23,"West Haven, CT",5850.93166022748,152.481413697045,55.4996044165911,rico,morto
+"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",female,22,"West Haven, CT",4145.12244332023,144.125873858911,51.8769389332085,rico,vivo
+"Edvardsson, Mr. Gustaf Hjalmar",male,18,"Tofta, Sweden Joliet, IL",450.339685428701,154.723320051372,58.2966861833261,rico,morto
+"Eklund, Mr. Hans Linus",male,16,"Karberg, Sweden Jerome Junction, AZ",665.169724110514,164.285117117772,47.4009562617816,rico,morto
+"Ekstrom, Mr. Johan",male,45,"Effington Rut, SD",5939.77155289147,161.357567605875,62.9164987839833,rico,morto
+"Elias, Mr. Dibo",male,NA,NA,NA,NA,NA,rico,morto
+"Elias, Mr. Joseph",male,39,"Syria Ottawa, ON",8730.95125844982,203.080306931198,72.9368691270058,rico,morto
+"Elias, Mr. Joseph Jr",male,17,NA,1637.00170951132,171.896588551807,60.3224447810463,rico,morto
+"Elias, Mr. Tannous",male,15,Syria,431.915345765417,149.283109098295,56.9347697798742,rico,morto
+"Elsbury, Mr. William James",male,47,"Illinois, USA",3955.92076893244,173.355779240049,61.7394255588029,rico,morto
+"Emanuel, Miss. Virginia Ethel",female,5,"New York, NY",183.020709534921,114.928581458437,34.1303626024303,rico,vivo
+"Emir, Mr. Farred Chehab",male,NA,NA,NA,NA,NA,rico,morto
+"Everett, Mr. Thomas James",male,40.5,NA,3872.76292302087,128.985225956829,38.0419223959746,rico,morto
+"Farrell, Mr. James",male,40.5,"Aughnacliff, Co Longford, Ireland New York, NY",7833.42932610679,172.479207675743,56.1435264430915,rico,morto
+"Finoli, Mr. Luigi",male,NA,"Italy Philadelphia, PA",NA,NA,NA,rico,vivo
+"Fischer, Mr. Eberhard Thelander",male,18,NA,1744.82016635332,161.314882917018,52.1430366162072,rico,morto
+"Fleming, Miss. Honora",female,NA,NA,NA,NA,NA,rico,morto
+"Flynn, Mr. James",male,NA,NA,NA,NA,NA,rico,morto
+"Flynn, Mr. John",male,NA,NA,NA,NA,NA,rico,morto
+"Foley, Mr. Joseph",male,26,"Ireland Chicago, IL",4404.81522271782,165.197850885301,66.038533699309,rico,morto
+"Foley, Mr. William",male,NA,Ireland,NA,NA,NA,rico,morto
+"Foo, Mr. Choong",male,NA,"Hong Kong New York, NY",NA,NA,NA,rico,vivo
+"Ford, Miss. Doolina Margaret ""Daisy""",female,21,"Rotherfield, Sussex, England Essex Co, MA",3871.70217141509,170.812937182227,67.4798140914226,rico,morto
+"Ford, Miss. Robina Maggie ""Ruby""",female,9,"Rotherfield, Sussex, England Essex Co, MA",113.804779293668,123.928928037577,37.1138908095395,rico,morto
+"Ford, Mr. Arthur",male,NA,"Bridgwater, Somerset, England",NA,NA,NA,rico,morto
+"Ford, Mr. Edward Watson",male,18,"Rotherfield, Sussex, England Essex Co, MA",664.852967325412,171.033562752623,63.3020092388362,rico,morto
+"Ford, Mr. William Neal",male,16,"Rotherfield, Sussex, England Essex Co, MA",233.07834525872,199.255017135877,80.2270985889664,rico,morto
+"Ford, Mrs. Edward (Margaret Ann Watson)",female,48,"Rotherfield, Sussex, England Essex Co, MA",178.447778346017,146.81292841121,53.4606359672406,rico,morto
+"Fox, Mr. Patrick",male,NA,"Ireland New York, NY",NA,NA,NA,rico,morto
+"Franklin, Mr. Charles (Charles Fardon)",male,NA,NA,NA,NA,NA,rico,morto
+"Gallagher, Mr. Martin",male,25,"New York, NY",5310.5722195711,154.854209048146,62.5150933653589,rico,morto
+"Garfirth, Mr. John",male,NA,NA,NA,NA,NA,rico,morto
+"Gheorgheff, Mr. Stanio",male,NA,NA,NA,NA,NA,rico,morto
+"Gilinski, Mr. Eliezer",male,22,NA,5575.6260246383,156.163944539054,51.4776857790333,rico,morto
+"Gilnagh, Miss. Katherine ""Katie""",female,16,"Co Longford, Ireland New York, NY",37.1065878108144,152.223182597412,58.1902634464191,rico,vivo
+"Glynn, Miss. Mary Agatha",female,NA,"Co Clare, Ireland Washington, DC",NA,NA,NA,rico,vivo
+"Goldsmith, Master. Frank John William ""Frankie""",male,9,"Strood, Kent, England Detroit, MI",228.021494551375,127.904650904877,38.2095558465516,rico,vivo
+"Goldsmith, Mr. Frank John",male,33,"Strood, Kent, England Detroit, MI",8369.07586937305,211.152012443371,95.6821579925017,rico,morto
+"Goldsmith, Mr. Nathan",male,41,"Philadelphia, PA",6841.74228483718,168.522120064048,59.5724572228909,rico,morto
+"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31,"Strood, Kent, England Detroit, MI",7284.92943177279,168.894763519787,62.8683029348411,rico,vivo
+"Goncalves, Mr. Manuel Estanslas",male,38,Portugal,7825.50394213758,158.005445795815,55.3958445222651,rico,morto
+"Goodwin, Master. Harold Victor",male,9,"Wiltshire, England Niagara Falls, NY",68.9714225315489,114.87593739822,26.8206638109562,rico,morto
+"Goodwin, Master. Sidney Leonard",male,1,"Wiltshire, England Niagara Falls, NY",74.923365003895,45.659999943619,4.29869746126327,rico,morto
+"Goodwin, Master. William Frederick",male,11,"Wiltshire, England Niagara Falls, NY",328.579444607953,145.904693694139,46.1902375266432,rico,morto
+"Goodwin, Miss. Jessie Allis",female,10,"Wiltshire, England Niagara Falls, NY",141.153816151805,86.4668106600525,16.1984289728805,rico,morto
+"Goodwin, Miss. Lillian Amy",female,16,"Wiltshire, England Niagara Falls, NY",269.546898372285,155.106428008719,53.2964616060319,rico,morto
+"Goodwin, Mr. Charles Edward",male,14,"Wiltshire, England Niagara Falls, NY",112.656151073053,149.580979970303,55.5784302891327,rico,morto
+"Goodwin, Mr. Charles Frederick",male,40,"Wiltshire, England Niagara Falls, NY",3243.30115698092,156.964329051356,64.0109262770551,rico,morto
+"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43,"Wiltshire, England Niagara Falls, NY",1081.98142302968,140.709264273911,41.6308514760232,rico,morto
+"Green, Mr. George Henry",male,51,"Dorking, Surrey, England",2425.27328942623,166.366546035918,57.1855896896995,rico,morto
+"Gronnestad, Mr. Daniel Danielsen",male,32,"Foresvik, Norway Portland, ND",8370.04758404475,169.418086679069,67.3951369283264,rico,morto
+"Guest, Mr. Robert",male,NA,NA,NA,NA,NA,rico,morto
+"Gustafsson, Mr. Alfred Ossian",male,20,"Waukegan, Chicago, IL",953.879054496065,163.256009948394,61.6777968148434,rico,morto
+"Gustafsson, Mr. Anders Vilhelm",male,37,"Ruotsinphytaa, Finland New York, NY",7923.05878209136,178.305037124429,67.9024401275605,rico,morto
+"Gustafsson, Mr. Johan Birger",male,28,"Ruotsinphytaa, Finland New York, NY",3149.04332751688,161.34909970447,48.5445252970633,rico,morto
+"Gustafsson, Mr. Karl Gideon",male,19,"Myren, Sweden New York, NY",1386.2324891042,172.789064532294,65.1544519415,rico,morto
+"Haas, Miss. Aloisia",female,24,NA,6568.55061050132,161.162544301404,48.61881453591,rico,morto
+"Hagardon, Miss. Kate",female,17,NA,630.610058624111,159.784471060628,50.7494132126735,rico,morto
+"Hagland, Mr. Ingvald Olai Olsen",male,NA,NA,NA,NA,NA,rico,morto
+"Hagland, Mr. Konrad Mathias Reiersen",male,NA,NA,NA,NA,NA,rico,morto
+"Hakkarainen, Mr. Pekka Pietari",male,28,NA,3954.35356526636,140.652657760669,35.6428005823153,rico,morto
+"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24,NA,3153.72141253296,131.752949351898,30.0242848066148,rico,vivo
+"Hampe, Mr. Leon",male,20,NA,1367.15989650171,158.963937070908,62.6410531279452,rico,morto
+"Hanna, Mr. Mansour",male,23.5,NA,1979.19618384819,150.381812883165,43.529752645237,rico,morto
+"Hansen, Mr. Claus Peter",male,41,NA,4674.36724538729,181.646253467042,73.5204793600352,rico,morto
+"Hansen, Mr. Henrik Juul",male,26,NA,8461.49083203636,190.751624351652,78.1190655750981,rico,morto
+"Hansen, Mr. Henry Damsgaard",male,21,NA,7293.19135179464,191.390838023077,73.9584348992268,rico,morto
+"Hansen, Mrs. Claus Peter (Jennie L Howard)",female,45,NA,176.974952501245,147.374690448593,43.6461751305151,rico,vivo
+"Harknett, Miss. Alice Phoebe",female,NA,NA,NA,NA,NA,rico,morto
+"Harmer, Mr. Abraham (David Lishin)",male,25,NA,8012.27435002662,182.610521573315,79.1000278371798,rico,morto
+"Hart, Mr. Henry",male,NA,NA,NA,NA,NA,rico,morto
+"Hassan, Mr. Houssein G N",male,11,NA,175.620947327139,164.043795544619,55.8570315901888,rico,morto
+"Healy, Miss. Hanora ""Nora""",female,NA,NA,NA,NA,NA,rico,vivo
+"Hedman, Mr. Oskar Arvid",male,27,NA,993.059868779965,170.639322106366,60.3174621250237,rico,vivo
+"Hee, Mr. Ling",male,NA,NA,NA,NA,NA,rico,vivo
+"Hegarty, Miss. Hanora ""Nora""",female,18,NA,828.921178161912,157.051015726062,55.5645100096304,rico,morto
+"Heikkinen, Miss. Laina",female,26,NA,8734.04051844031,145.93922563226,41.3341703689302,rico,vivo
+"Heininen, Miss. Wendla Maria",female,23,NA,178.772485029884,133.013429409507,41.6726873368985,rico,morto
+"Hellstrom, Miss. Hilda Maria",female,22,NA,4054.60286918655,137.22207112657,42.4105022813098,rico,vivo
+"Hendekovic, Mr. Ignjac",male,28,NA,7744.42788838875,171.70862324415,63.0796025637315,rico,morto
+"Henriksson, Miss. Jenny Lovisa",female,28,NA,2523.14250366949,135.70954324587,43.8688892047025,rico,morto
+"Henry, Miss. Delia",female,NA,NA,NA,NA,NA,rico,morto
+"Hirvonen, Miss. Hildur E",female,2,NA,126.040776337404,74.122876386081,12.1613392771076,rico,vivo
+"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",female,22,NA,2246.91742016841,182.074998221701,79.028359425857,rico,vivo
+"Holm, Mr. John Fredrik Alexander",male,43,NA,5849.45304826554,172.298909152947,66.6791032034838,rico,morto
+"Holthen, Mr. Johan Martin",male,28,NA,8544.10299200099,161.138467612817,46.7120877681022,rico,morto
+"Honkanen, Miss. Eliina",female,27,NA,7469.45571594313,149.93344176836,46.0587392970375,rico,vivo
+"Horgan, Mr. John",male,NA,NA,NA,NA,NA,rico,morto
+"Howard, Miss. May Elizabeth",female,NA,NA,NA,NA,NA,rico,vivo
+"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42,NA,2342.34467541799,188.57066088229,80.4307239932822,rico,morto
+"Hyman, Mr. Abraham",male,NA,NA,NA,NA,NA,rico,vivo
+"Ibrahim Shawah, Mr. Yousseff",male,30,NA,2337.47764676996,182.181376473741,76.2326195507074,rico,morto
+"Ilieff, Mr. Ylio",male,NA,NA,NA,NA,NA,rico,morto
+"Ilmakangas, Miss. Ida Livija",female,27,NA,4859.20678349119,168.892977085539,65.6854638123132,rico,morto
+"Ilmakangas, Miss. Pieta Sofia",female,25,NA,8462.27222577296,172.814192257092,64.1551434108289,rico,morto
+"Ivanoff, Mr. Kanio",male,NA,NA,NA,NA,NA,rico,morto
+"Jalsevac, Mr. Ivan",male,29,NA,6927.64573175646,195.866235440218,84.5120894613532,rico,vivo
+"Jansson, Mr. Carl Olof",male,21,NA,1440.14826009236,174.560546632745,66.3212119414212,rico,vivo
+"Jardin, Mr. Jose Neto",male,NA,NA,NA,NA,NA,rico,morto
+"Jensen, Mr. Hans Peder",male,20,NA,396.740173999965,170.687763113007,64.4468834667135,rico,morto
+"Jensen, Mr. Niels Peder",male,48,NA,3152.72801158112,183.298583595023,77.0529372719513,rico,morto
+"Jensen, Mr. Svend Lauritz",male,17,NA,737.227429193258,165.055113167107,66.3473315240376,rico,morto
+"Jermyn, Miss. Annie",female,NA,NA,NA,NA,NA,rico,vivo
+"Johannesen-Bratthammer, Mr. Bernt",male,NA,NA,NA,NA,NA,rico,vivo
+"Johanson, Mr. Jakob Alfred",male,34,NA,5218.99171717186,159.000305742082,53.2686092467214,rico,morto
+"Johansson Palmquist, Mr. Oskar Leander",male,26,NA,5309.76918884274,191.137000465318,83.5821921884683,rico,vivo
+"Johansson, Mr. Erik",male,22,NA,6206.01005413849,168.808209414534,57.4400625796919,rico,morto
+"Johansson, Mr. Gustaf Joel",male,33,NA,5582.37093240302,170.455653687002,66.1689460954402,rico,morto
+"Johansson, Mr. Karl Johan",male,31,NA,1710.85067260824,179.65705577727,67.4763439797851,rico,morto
+"Johansson, Mr. Nils",male,29,NA,4050.94470962975,164.110270988822,58.0756439612299,rico,morto
+"Johnson, Master. Harold Theodor",male,4,NA,275.873964864202,102.820784593512,25.6901684003209,rico,vivo
+"Johnson, Miss. Eleanor Ileen",female,1,NA,191.942519270349,84.8797591659857,14.020159736348,rico,vivo
+"Johnson, Mr. Alfred",male,49,NA,6571.49625881575,160.638895142036,55.8723002374453,rico,morto
+"Johnson, Mr. Malkolm Joackim",male,33,NA,5131.75561820716,181.520656077902,64.0845769957407,rico,morto
+"Johnson, Mr. William Cahoone Jr",male,19,NA,1474.83943063281,178.318439864171,66.5199407324232,rico,morto
+"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27,NA,7284.50852677412,138.891826781341,39.9963733470409,rico,vivo
+"Johnston, Master. William Arthur ""Willie""",male,NA,NA,NA,NA,NA,rico,morto
+"Johnston, Miss. Catherine Helen ""Carrie""",female,NA,NA,NA,NA,NA,rico,morto
+"Johnston, Mr. Andrew G",male,NA,NA,NA,NA,NA,rico,morto
+"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)",female,NA,NA,NA,NA,NA,rico,morto
+"Jonkoff, Mr. Lalio",male,23,NA,6386.35228331666,182.165480048648,60.3711539473711,rico,morto
+"Jonsson, Mr. Carl",male,32,NA,7917.54157985654,179.91880588958,70.346696887328,rico,vivo
+"Jonsson, Mr. Nils Hilding",male,27,NA,3061.18129224144,189.33211046155,72.0191338189859,rico,morto
+"Jussila, Miss. Katriina",female,20,NA,1188.28578600939,141.383635979105,42.7213854821848,rico,morto
+"Jussila, Miss. Mari Aina",female,21,NA,5397.39033898897,150.711856470358,52.7489763466649,rico,morto
+"Jussila, Mr. Eiriik",male,32,NA,6122.65630016942,187.254434672336,83.2247201952172,rico,vivo
+"Kallio, Mr. Nikolai Erland",male,17,NA,1079.69986718595,171.604214534031,60.6524968549362,rico,morto
+"Kalvik, Mr. Johannes Halvorsen",male,21,NA,182.429455948994,155.875994340752,49.1670762947416,rico,morto
+"Karaic, Mr. Milan",male,30,NA,8280.42189363018,189.786799257598,80.5602103361887,rico,morto
+"Karlsson, Mr. Einar Gervasius",male,21,NA,2968.315402315,179.875695337789,69.4975145757988,rico,vivo
+"Karlsson, Mr. Julius Konrad Eugen",male,33,NA,4229.98941551708,185.595502232214,76.0191299882543,rico,morto
+"Karlsson, Mr. Nils August",male,22,NA,3961.76658680476,165.867418112904,60.5970991192107,rico,morto
+"Karun, Miss. Manca",female,4,NA,149.929710842017,117.160620059086,29.1209413745365,rico,vivo
+"Karun, Mr. Franz",male,39,NA,7378.08497199509,166.968581786567,57.0998111650968,rico,vivo
+"Kassem, Mr. Fared",male,NA,NA,NA,NA,NA,rico,morto
+"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",male,18.5,NA,251.519596624374,153.686518679725,54.7835467954875,rico,morto
+"Keane, Mr. Andrew ""Andy""",male,NA,NA,NA,NA,NA,rico,morto
+"Keefe, Mr. Arthur",male,NA,NA,NA,NA,NA,rico,morto
+"Kelly, Miss. Anna Katherine ""Annie Kate""",female,NA,NA,NA,NA,NA,rico,vivo
+"Kelly, Miss. Mary",female,NA,NA,NA,NA,NA,rico,vivo
+"Kelly, Mr. James",male,34.5,NA,1353.74404326081,160.544877136462,60.9311260107163,rico,morto
+"Kelly, Mr. James",male,44,NA,2163.73574408703,155.681845030761,55.7507811111613,rico,morto
+"Kennedy, Mr. John",male,NA,NA,NA,NA,NA,rico,vivo
+"Khalil, Mr. Betros",male,NA,NA,NA,NA,NA,rico,morto
+"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)",female,NA,NA,NA,NA,NA,rico,morto
+"Kiernan, Mr. John",male,NA,NA,NA,NA,NA,rico,morto
+"Kiernan, Mr. Philip",male,NA,NA,NA,NA,NA,rico,morto
+"Kilgannon, Mr. Thomas J",male,NA,NA,NA,NA,NA,rico,morto
+"Kink, Miss. Maria",female,22,NA,93.8008678397164,143.725760611366,54.254052619895,rico,morto
+"Kink, Mr. Vincenz",male,26,NA,7474.23883479182,174.146280899887,62.8696596587895,rico,morto
+"Kink-Heilmann, Miss. Luise Gretchen",female,4,NA,149.917839199863,111.534226032221,25.9989840967147,rico,vivo
+"Kink-Heilmann, Mr. Anton",male,29,NA,6662.05572684109,150.928173406869,47.5042524082781,rico,vivo
+"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",female,26,NA,1704.91884478088,133.621308055069,36.2201769498467,rico,vivo
+"Klasen, Miss. Gertrud Emilia",female,1,NA,209.821193357557,80.3846272174177,14.1970301429861,rico,morto
+"Klasen, Mr. Klas Albin",male,18,NA,340.895113846846,179.282294491762,69.1685663672981,rico,morto
+"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",female,36,NA,4234.90357840899,157.367873002019,56.4090523496683,rico,morto
+"Kraeff, Mr. Theodor",male,NA,NA,NA,NA,NA,rico,morto
+"Krekorian, Mr. Neshan",male,25,NA,84.3095354977995,182.522462460921,72.5590143328917,rico,vivo
+"Lahoud, Mr. Sarkis",male,NA,NA,NA,NA,NA,rico,morto
+"Laitinen, Miss. Kristina Sofia",female,37,NA,4314.96753443219,142.222742839613,46.9782526617095,rico,morto
+"Laleff, Mr. Kristo",male,NA,NA,NA,NA,NA,rico,morto
+"Lam, Mr. Ali",male,NA,NA,NA,NA,NA,rico,vivo
+"Lam, Mr. Len",male,NA,NA,NA,NA,NA,rico,morto
+"Landergren, Miss. Aurora Adelia",female,22,NA,986.009940912947,132.899201222056,28.8515606862803,rico,vivo
+"Lane, Mr. Patrick",male,NA,NA,NA,NA,NA,rico,morto
+"Lang, Mr. Fang",male,26,NA,2880.12136824802,181.683680568911,84.4695917131451,rico,vivo
+"Larsson, Mr. August Viktor",male,29,NA,4323.20565011725,172.209415011708,71.2630437572422,rico,morto
+"Larsson, Mr. Bengt Edvin",male,29,NA,5574.18931068107,171.315083939991,61.8992906497653,rico,morto
+"Larsson-Rondberg, Mr. Edvard A",male,22,NA,4684.02251379378,192.170855257674,65.8202173780731,rico,morto
+"Leeni, Mr. Fahim (""Philip Zenni"")",male,22,NA,1801.15032023471,190.454509252209,84.4967360738672,rico,vivo
+"Lefebre, Master. Henry Forbes",male,NA,NA,NA,NA,NA,rico,morto
+"Lefebre, Miss. Ida",female,NA,NA,NA,NA,NA,rico,morto
+"Lefebre, Miss. Jeannie",female,NA,NA,NA,NA,NA,rico,morto
+"Lefebre, Miss. Mathilde",female,NA,NA,NA,NA,NA,rico,morto
+"Lefebre, Mrs. Frank (Frances)",female,NA,NA,NA,NA,NA,rico,morto
+"Leinonen, Mr. Antti Gustaf",male,32,NA,1345.62832843792,175.820273184649,57.6489244286502,rico,morto
+"Lemberopolous, Mr. Peter L",male,34.5,NA,4595.3582571689,201.537649101317,88.4717774251963,rico,morto
+"Lennon, Miss. Mary",female,NA,NA,NA,NA,NA,rico,morto
+"Lennon, Mr. Denis",male,NA,NA,NA,NA,NA,rico,morto
+"Leonard, Mr. Lionel",male,36,NA,1440.50168971717,190.990750025231,78.3659067981045,rico,morto
+"Lester, Mr. James",male,39,NA,8725.12014305871,171.896573652913,72.7955286975911,rico,morto
+"Lievens, Mr. Rene Aime",male,24,NA,2791.95625292882,191.578455193871,72.7904916596284,rico,morto
+"Lindahl, Miss. Agda Thorilda Viktoria",female,25,NA,4227.69423304405,145.063327999807,43.1679167296649,rico,morto
+"Lindblom, Miss. Augusta Charlotta",female,45,NA,8101.58563421387,165.69243648997,52.5549283101495,rico,morto
+"Lindell, Mr. Edvard Bengtsson",male,36,NA,2518.77613237314,173.19295220463,62.29871592607,rico,morto
+"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",female,30,NA,8555.65013719071,150.097637349173,45.636105850886,rico,morto
+"Lindqvist, Mr. Eino William",male,20,NA,1349.00362798311,147.384782926147,43.127880159748,rico,vivo
+"Linehan, Mr. Michael",male,NA,NA,NA,NA,NA,rico,morto
+"Ling, Mr. Lee",male,28,NA,6752.87002274953,181.73815221332,61.2330954930509,rico,morto
+"Lithman, Mr. Simon",male,NA,NA,NA,NA,NA,rico,morto
+"Lobb, Mr. William Arthur",male,30,NA,3146.71182976663,178.239301018908,65.7536668043551,rico,morto
+"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26,NA,5850.26676641777,164.798403379585,60.3978044620815,rico,morto
+"Lockyer, Mr. Edward",male,NA,NA,NA,NA,NA,rico,morto
+"Lovell, Mr. John Hall (""Henry"")",male,20.5,NA,5306.90209830087,169.106507814012,57.8193085690289,rico,morto
+"Lulic, Mr. Nikola",male,27,NA,8458.8581676716,169.202824743079,68.98141123078,rico,vivo
+"Lundahl, Mr. Johan Svensson",male,51,NA,5664.97471178602,180.758483596251,77.7722791271344,rico,morto
+"Lundin, Miss. Olga Elida",female,23,NA,7110.67624229472,170.513017770238,62.9918150380724,rico,vivo
+"Lundstrom, Mr. Thure Edvin",male,32,NA,1262.82479997352,170.730696745981,61.0461938757693,rico,vivo
+"Lyntakoff, Mr. Stanko",male,NA,NA,NA,NA,NA,rico,morto
+"MacKay, Mr. George William",male,NA,NA,NA,NA,NA,rico,morto
+"Madigan, Miss. Margaret ""Maggie""",female,NA,NA,NA,NA,NA,rico,vivo
+"Madsen, Mr. Fridtjof Arne",male,24,NA,8555.76144421007,178.040631859369,69.6957018277691,rico,vivo
+"Maenpaa, Mr. Matti Alexanteri",male,22,NA,4494.58347989526,156.084125981128,52.9093031628204,rico,morto
+"Mahon, Miss. Bridget Delia",female,NA,NA,NA,NA,NA,rico,morto
+"Mahon, Mr. John",male,NA,NA,NA,NA,NA,rico,morto
+"Maisner, Mr. Simon",male,NA,NA,NA,NA,NA,rico,morto
+"Makinen, Mr. Kalle Edvard",male,29,NA,7920.07999496441,145.213548383797,41.800027756355,rico,morto
+"Mamee, Mr. Hanna",male,NA,NA,NA,NA,NA,rico,vivo
+"Mangan, Miss. Mary",female,30.5,NA,94.3195155411959,161.56669634826,64.5384745940558,rico,morto
+"Mannion, Miss. Margareth",female,NA,NA,NA,NA,NA,rico,vivo
+"Mardirosian, Mr. Sarkis",male,NA,NA,NA,NA,NA,rico,morto
+"Markoff, Mr. Marin",male,35,NA,4948.00786542054,168.637696789572,60.14691296796,rico,morto
+"Markun, Mr. Johann",male,33,NA,6751.59758781083,175.350975114914,68.7545952725923,rico,morto
+"Masselmani, Mrs. Fatima",female,NA,NA,NA,NA,NA,rico,vivo
+"Matinoff, Mr. Nicola",male,NA,NA,NA,NA,NA,rico,morto
+"McCarthy, Miss. Catherine ""Katie""",female,NA,NA,NA,NA,NA,rico,vivo
+"McCormack, Mr. Thomas Joseph",male,NA,NA,NA,NA,NA,rico,vivo
+"McCoy, Miss. Agnes",female,NA,NA,NA,NA,NA,rico,vivo
+"McCoy, Miss. Alicia",female,NA,NA,NA,NA,NA,rico,vivo
+"McCoy, Mr. Bernard",male,NA,NA,NA,NA,NA,rico,vivo
+"McDermott, Miss. Brigdet Delia",female,NA,NA,NA,NA,NA,rico,vivo
+"McEvoy, Mr. Michael",male,NA,NA,NA,NA,NA,rico,morto
+"McGovern, Miss. Mary",female,NA,NA,NA,NA,NA,rico,vivo
+"McGowan, Miss. Anna ""Annie""",female,15,NA,229.523651757091,146.232563158437,41.2952545132519,rico,vivo
+"McGowan, Miss. Katherine",female,35,NA,6214.98616521154,148.586238334819,48.6580297081269,rico,morto
+"McMahon, Mr. Martin",male,NA,NA,NA,NA,NA,rico,morto
+"McNamee, Mr. Neal",male,24,NA,8911.9201299632,203.325764143524,88.9595307345876,rico,morto
+"McNamee, Mrs. Neal (Eileen O'Leary)",female,19,NA,1243.09778286181,126.67259436006,32.0543388529798,rico,morto
+"McNeill, Miss. Bridget",female,NA,NA,NA,NA,NA,rico,morto
+"Meanwell, Miss. (Marion Ogden)",female,NA,NA,NA,NA,NA,rico,morto
+"Meek, Mrs. Thomas (Annie Louise Rowley)",female,NA,NA,NA,NA,NA,rico,morto
+"Meo, Mr. Alfonzo",male,55.5,NA,2341.43317289092,166.913527799431,64.9212049211752,rico,morto
+"Mernagh, Mr. Robert",male,NA,NA,NA,NA,NA,rico,morto
+"Midtsjo, Mr. Karl Albert",male,21,NA,1264.30920718331,156.309587111149,56.2905041366267,rico,vivo
+"Miles, Mr. Frank",male,NA,NA,NA,NA,NA,rico,morto
+"Mineff, Mr. Ivan",male,24,NA,8824.9079654105,177.853267461838,68.8872169693906,rico,morto
+"Minkoff, Mr. Lazar",male,21,NA,3595.21857955121,169.889541733282,59.6723058873051,rico,morto
+"Mionoff, Mr. Stoytcho",male,28,NA,8105.2109687794,197.990662770785,83.322036197524,rico,morto
+"Mitkoff, Mr. Mito",male,NA,NA,NA,NA,NA,rico,morto
+"Mockler, Miss. Helen Mary ""Ellie""",female,NA,NA,NA,NA,NA,rico,vivo
+"Moen, Mr. Sigurd Hansen",male,25,NA,7194.86172256339,168.946272853203,62.6290177399237,rico,morto
+"Moor, Master. Meier",male,6,NA,143.994414035231,137.496843835052,39.9218691575192,rico,vivo
+"Moor, Mrs. (Beila)",female,27,NA,8818.36770596635,148.12925957015,47.5046629040052,rico,vivo
+"Moore, Mr. Leonard Charles",male,NA,NA,NA,NA,NA,rico,morto
+"Moran, Miss. Bertha",female,NA,NA,NA,NA,NA,rico,vivo
+"Moran, Mr. Daniel J",male,NA,NA,NA,NA,NA,rico,morto
+"Moran, Mr. James",male,NA,NA,NA,NA,NA,rico,morto
+"Morley, Mr. William",male,34,NA,3326.17725950852,184.579742639884,67.602698610203,rico,morto
+"Morrow, Mr. Thomas Rowan",male,NA,NA,NA,NA,NA,rico,morto
+"Moss, Mr. Albert Johan",male,NA,NA,NA,NA,NA,rico,vivo
+"Moubarek, Master. Gerios",male,NA,NA,NA,NA,NA,rico,vivo
+"Moubarek, Master. Halim Gonios (""William George"")",male,NA,NA,NA,NA,NA,rico,vivo
+"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",female,NA,NA,NA,NA,NA,rico,vivo
+"Moussa, Mrs. (Mantoura Boulos)",female,NA,NA,NA,NA,NA,rico,vivo
+"Moutal, Mr. Rahamin Haim",male,NA,NA,NA,NA,NA,rico,morto
+"Mullens, Miss. Katherine ""Katie""",female,NA,NA,NA,NA,NA,rico,vivo
+"Mulvihill, Miss. Bertha E",female,24,NA,4050.102934191,151.464454709088,48.6335979016551,rico,vivo
+"Murdlin, Mr. Joseph",male,NA,NA,NA,NA,NA,rico,morto
+"Murphy, Miss. Katherine ""Kate""",female,NA,NA,NA,NA,NA,rico,vivo
+"Murphy, Miss. Margaret Jane",female,NA,NA,NA,NA,NA,rico,vivo
+"Murphy, Miss. Nora",female,NA,NA,NA,NA,NA,rico,vivo
+"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18,NA,1494.99023400452,143.129763890915,44.9311506340141,rico,morto
+"Naidenoff, Mr. Penko",male,22,NA,2251.41794256493,179.628328807866,66.9980238115715,rico,morto
+"Najib, Miss. Adele Kiamie ""Jane""",female,15,NA,431.812390228081,113.663874759559,24.3335103215991,rico,vivo
+"Nakid, Miss. Maria (""Mary"")",female,1,NA,147.175484387577,50.1531721853917,6.13859341356755,rico,vivo
+"Nakid, Mr. Sahid",male,20,NA,1476.21271874607,168.104632576802,66.0863642576475,rico,vivo
+"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",female,19,NA,1241.90553877149,162.24236808388,69.516357224854,rico,vivo
+"Nancarrow, Mr. William Henry",male,33,NA,897.373544664122,181.402235483348,67.5740224695059,rico,morto
+"Nankoff, Mr. Minko",male,NA,NA,NA,NA,NA,rico,morto
+"Nasr, Mr. Mustafa",male,NA,NA,NA,NA,NA,rico,morto
+"Naughton, Miss. Hannah",female,NA,NA,NA,NA,NA,rico,morto
+"Nenkoff, Mr. Christo",male,NA,NA,NA,NA,NA,rico,morto
+"Nicola-Yarred, Master. Elias",male,12,NA,139.501013078447,192.446326694381,67.3298795580467,rico,vivo
+"Nicola-Yarred, Miss. Jamila",female,14,NA,242.860934718931,121.762629644639,33.0341863262841,rico,vivo
+"Nieminen, Miss. Manta Josefina",female,29,NA,2335.86206305213,154.108771552387,47.2827580785758,rico,morto
+"Niklasson, Mr. Samuel",male,28,NA,5135.71542802826,186.161058736873,77.9076453876752,rico,morto
+"Nilsson, Miss. Berta Olivia",female,18,NA,251.900410778448,148.694320515581,46.3027485747503,rico,vivo
+"Nilsson, Miss. Helmina Josefina",female,26,NA,7295.42731958907,126.560584367106,34.3711734921846,rico,vivo
+"Nilsson, Mr. August Ferdinand",male,21,NA,7467.26706710178,175.618950014881,78.0109747716123,rico,morto
+"Nirva, Mr. Iisakki Antino Aijo",male,41,"Finland Sudbury, ON",2611.27703850064,163.195050781197,57.421709715025,rico,morto
+"Niskanen, Mr. Juha",male,39,NA,8374.89867678937,149.426542709342,46.736059388084,rico,vivo
+"Nosworthy, Mr. Richard Cater",male,21,NA,5675.37263669539,191.262317732463,69.7579160785666,rico,morto
+"Novel, Mr. Mansouer",male,28.5,NA,984.164497872815,195.977464554252,68.975340407662,rico,morto
+"Nysten, Miss. Anna Sofia",female,22,NA,4589.25614268892,154.424454782992,42.0352527812436,rico,vivo
+"Nysveen, Mr. Johan Hansen",male,61,NA,89.4172284593806,175.341700109686,63.1097136361681,rico,morto
+"O'Brien, Mr. Thomas",male,NA,NA,NA,NA,NA,rico,morto
+"O'Brien, Mr. Timothy",male,NA,NA,NA,NA,NA,rico,morto
+"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,NA,NA,NA,NA,NA,rico,vivo
+"O'Connell, Mr. Patrick D",male,NA,NA,NA,NA,NA,rico,morto
+"O'Connor, Mr. Maurice",male,NA,NA,NA,NA,NA,rico,morto
+"O'Connor, Mr. Patrick",male,NA,NA,NA,NA,NA,rico,morto
+"Odahl, Mr. Nils Martin",male,23,NA,4496.39021582063,154.072712143206,46.7567033275817,rico,morto
+"O'Donoghue, Ms. Bridget",female,NA,NA,NA,NA,NA,rico,morto
+"O'Driscoll, Miss. Bridget",female,NA,NA,NA,NA,NA,rico,vivo
+"O'Dwyer, Miss. Ellen ""Nellie""",female,NA,NA,NA,NA,NA,rico,vivo
+"Ohman, Miss. Velin",female,22,NA,6477.64421861898,144.325749836187,46.1184821230069,rico,vivo
+"O'Keefe, Mr. Patrick",male,NA,NA,NA,NA,NA,rico,vivo
+"O'Leary, Miss. Hanora ""Norah""",female,NA,NA,NA,NA,NA,rico,vivo
+"Olsen, Master. Artur Karl",male,9,NA,188.906651011389,115.939721900452,27.2236581270787,rico,vivo
+"Olsen, Mr. Henry Margido",male,28,NA,5400.07529515307,148.426576108915,43.9104572798351,rico,morto
+"Olsen, Mr. Karl Siegwart Andreas",male,42,NA,3603.47829191666,162.736505894937,58.029853532838,rico,morto
+"Olsen, Mr. Ole Martin",male,NA,NA,NA,NA,NA,rico,morto
+"Olsson, Miss. Elina",female,31,NA,8915.01133398525,169.727789830206,67.3605724697124,rico,morto
+"Olsson, Mr. Nils Johan Goransson",male,28,NA,4863.15651676152,154.735146181361,54.2861442502343,rico,morto
+"Olsson, Mr. Oscar Wilhelm",male,32,NA,266.224723666906,177.716673895682,72.1836910224451,rico,vivo
+"Olsvigen, Mr. Thor Anderson",male,20,"Oslo, Norway Cameron, WI",36.2959517307579,170.164907282758,69.0848108558575,rico,morto
+"Oreskovic, Miss. Jelka",female,23,NA,5310.96285084262,136.000848384057,48.0042603300306,rico,morto
+"Oreskovic, Miss. Marija",female,20,NA,989.197279407084,155.552973147882,48.5746162514278,rico,morto
+"Oreskovic, Mr. Luka",male,20,NA,448.941355597973,137.303404177534,38.2190146210681,rico,morto
+"Osen, Mr. Olaf Elon",male,16,NA,270.108142128959,148.44213500825,46.1431944069132,rico,morto
+"Osman, Mrs. Mara",female,31,NA,1081.32581673469,135.885704260293,43.2928928128428,rico,vivo
+"O'Sullivan, Miss. Bridget Mary",female,NA,NA,NA,NA,NA,rico,morto
+"Palsson, Master. Gosta Leonard",male,2,NA,290.824638758507,74.6387243402027,10.4826741208962,rico,morto
+"Palsson, Master. Paul Folke",male,6,NA,18.1748004318215,120.448293730637,30.76640395356,rico,morto
+"Palsson, Miss. Stina Viola",female,3,NA,206.912677227519,106.231118380753,24.5413696615212,rico,morto
+"Palsson, Miss. Torborg Danira",female,8,NA,159.121290751826,121.50604495878,32.7654868489992,rico,morto
+"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29,NA,2154.9575778963,161.739819993373,47.9669898380835,rico,morto
+"Panula, Master. Eino Viljami",male,1,NA,293.825138180703,83.8204536431962,15.5813039966746,rico,morto
+"Panula, Master. Juha Niilo",male,7,NA,270.150375157129,128.856491925548,32.0622686778943,rico,morto
+"Panula, Master. Urho Abraham",male,2,NA,162.054768469091,70.0310287534458,11.8886016825377,rico,morto
+"Panula, Mr. Ernesti Arvid",male,16,NA,1421.57901920937,189.583442092584,64.1431077266604,rico,morto
+"Panula, Mr. Jaako Arnold",male,14,NA,229.42921290365,177.454043194093,70.5520587267196,rico,morto
+"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41,NA,1351.57420638297,154.35605691271,52.3876313605607,rico,morto
+"Pasic, Mr. Jakob",male,21,NA,1708.82973222435,181.650205332894,72.7560968076985,rico,morto
+"Patchett, Mr. George",male,19,NA,1134.82063539829,154.579165103988,49.5975908231538,rico,morto
+"Paulner, Mr. Uscher",male,NA,NA,NA,NA,NA,rico,morto
+"Pavlovic, Mr. Stefo",male,32,NA,5758.2721554134,187.837742006235,84.655268705202,rico,morto
+"Peacock, Master. Alfred Edward",male,0.75,NA,222.045304665714,111.368093998071,25.7706665625191,rico,morto
+"Peacock, Miss. Treasteall",female,3,NA,191.830396799929,123.207479998984,38.433483733411,rico,morto
+"Peacock, Mrs. Benjamin (Edith Nile)",female,26,NA,6570.89397158101,136.776584597582,34.5616431841611,rico,morto
+"Pearce, Mr. Ernest",male,NA,NA,NA,NA,NA,rico,morto
+"Pedersen, Mr. Olaf",male,NA,NA,NA,NA,NA,rico,morto
+"Peduzzi, Mr. Joseph",male,NA,NA,NA,NA,NA,rico,morto
+"Pekoniemi, Mr. Edvard",male,21,NA,2164.50506816804,177.685891332875,68.2608512436112,rico,morto
+"Peltomaki, Mr. Nikolai Johannes",male,25,NA,6926.17412649561,177.323400155137,69.5609951366745,rico,morto
+"Perkin, Mr. John Henry",male,22,NA,3063.96007934958,151.277847022271,50.3453561537653,rico,morto
+"Persson, Mr. Ernst Ulrik",male,25,NA,2795.57464869227,182.307409190619,73.6191107131871,rico,vivo
+"Peter, Master. Michael J",male,NA,NA,NA,NA,NA,rico,vivo
+"Peter, Miss. Anna",female,NA,NA,NA,NA,NA,rico,vivo
+"Peter, Mrs. Catherine (Catherine Rizk)",female,NA,NA,NA,NA,NA,rico,vivo
+"Peters, Miss. Katie",female,NA,NA,NA,NA,NA,rico,morto
+"Petersen, Mr. Marius",male,24,NA,4324.16969164275,184.198755196409,63.3877351684507,rico,morto
+"Petranec, Miss. Matilda",female,28,NA,6477.7735653799,143.833390538181,42.6386741481949,rico,morto
+"Petroff, Mr. Nedelio",male,19,NA,306.388587883674,181.271444856571,67.5583107779733,rico,morto
+"Petroff, Mr. Pastcho (""Pentcho"")",male,NA,NA,NA,NA,NA,rico,morto
+"Petterson, Mr. Johan Emil",male,25,NA,3056.63800804876,187.200477044826,74.954568592615,rico,morto
+"Pettersson, Miss. Ellen Natalia",female,18,NA,1115.5294598138,143.817638286346,48.9505182092231,rico,morto
+"Pickard, Mr. Berk (Berk Trembisky)",male,32,NA,2791.68903810438,160.090924099066,52.6163256737551,rico,vivo
+"Plotcharsky, Mr. Vasil",male,NA,NA,NA,NA,NA,rico,morto
+"Pokrnic, Mr. Mate",male,17,NA,287.390572890267,129.958363785688,42.1481131458883,rico,morto
+"Pokrnic, Mr. Tome",male,24,NA,4590.86026469897,143.13268283634,45.2554350244319,rico,morto
+"Radeff, Mr. Alexander",male,NA,NA,NA,NA,NA,rico,morto
+"Rasmussen, Mrs. (Lena Jacobsen Solvang)",female,NA,NA,NA,NA,NA,rico,morto
+"Razi, Mr. Raihed",male,NA,NA,NA,NA,NA,rico,morto
+"Reed, Mr. James George",male,NA,NA,NA,NA,NA,rico,morto
+"Rekic, Mr. Tido",male,38,NA,2524.43100775871,164.223941637406,55.0052430759341,rico,morto
+"Reynolds, Mr. Harold J",male,21,NA,1344.79870431405,187.202177668872,75.1296919301162,rico,morto
+"Rice, Master. Albert",male,10,NA,249.093518271111,116.727088470654,28.8015125940174,rico,morto
+"Rice, Master. Arthur",male,4,NA,33.1588942968287,137.600770022928,38.9813029644251,rico,morto
+"Rice, Master. Eric",male,7,NA,50.9831172305159,128.930108889444,37.5863613017213,rico,morto
+"Rice, Master. Eugene",male,2,NA,147.161972685251,78.4204434393739,13.6094428376658,rico,morto
+"Rice, Master. George Hugh",male,8,NA,273.172623304278,122.528451541769,31.4472548659202,rico,morto
+"Rice, Mrs. William (Margaret Norton)",female,39,NA,6933.48432817496,161.912776533391,62.8791483105939,rico,morto
+"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",female,22,NA,6209.94827565271,153.089093805,52.6762779287246,rico,morto
+"Rintamaki, Mr. Matti",male,35,NA,8097.78258529957,164.774015401259,59.3167689375582,rico,morto
+"Riordan, Miss. Johanna ""Hannah""",female,NA,NA,NA,NA,NA,rico,vivo
+"Risien, Mr. Samuel Beard",male,NA,NA,NA,NA,NA,rico,morto
+"Risien, Mrs. Samuel (Emma)",female,NA,NA,NA,NA,NA,rico,morto
+"Robins, Mr. Alexander A",male,50,NA,3234.0213554576,172.727194335254,74.662456968043,rico,morto
+"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47,NA,2605.99852433614,121.944528783107,33.1606303712756,rico,morto
+"Rogers, Mr. William John",male,NA,NA,NA,NA,NA,rico,morto
+"Rommetvedt, Mr. Knud Paust",male,NA,NA,NA,NA,NA,rico,morto
+"Rosblom, Miss. Salli Helena",female,2,NA,5.98954751286656,85.4663465723945,17.4737032840717,rico,morto
+"Rosblom, Mr. Viktor Richard",male,18,NA,989.175413312763,166.22970244876,54.9464742585067,rico,morto
+"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41,NA,3685.6679597944,157.371632086697,58.1282015245048,rico,morto
+"Roth, Miss. Sarah A",female,NA,NA,NA,NA,NA,rico,vivo
+"Rouse, Mr. Richard Henry",male,50,NA,7377.81402604468,156.379873977146,56.8181875139707,rico,morto
+"Rush, Mr. Alfred George John",male,16,NA,702.800986178219,154.998999362227,54.3369606911906,rico,morto
+"Ryan, Mr. Edward",male,NA,NA,NA,NA,NA,rico,vivo
+"Ryan, Mr. Patrick",male,NA,NA,NA,NA,NA,rico,morto
+"Saad, Mr. Amin",male,NA,NA,NA,NA,NA,rico,morto
+"Saad, Mr. Khalil",male,25,NA,2253.49563277233,153.771262094871,44.7034349625974,rico,morto
+"Saade, Mr. Jean Nassr",male,NA,NA,NA,NA,NA,rico,morto
+"Sadlier, Mr. Matthew",male,NA,NA,NA,NA,NA,rico,morto
+"Sadowitz, Mr. Harry",male,NA,NA,NA,NA,NA,rico,morto
+"Saether, Mr. Simon Sivertsen",male,38.5,NA,718.929473089054,170.702825921384,73.1513606439549,rico,morto
+"Sage, Master. Thomas Henry",male,NA,NA,NA,NA,NA,rico,morto
+"Sage, Master. William Henry",male,14.5,NA,193.743110973621,173.644148423841,64.6094046942397,rico,morto
+"Sage, Miss. Ada",female,NA,NA,NA,NA,NA,rico,morto
+"Sage, Miss. Constance Gladys",female,NA,NA,NA,NA,NA,rico,morto
+"Sage, Miss. Dorothy Edith ""Dolly""",female,NA,NA,NA,NA,NA,rico,morto
+"Sage, Miss. Stella Anna",female,NA,NA,NA,NA,NA,rico,morto
+"Sage, Mr. Douglas Bullen",male,NA,NA,NA,NA,NA,rico,morto
+"Sage, Mr. Frederick",male,NA,NA,NA,NA,NA,rico,morto
+"Sage, Mr. George John Jr",male,NA,NA,NA,NA,NA,rico,morto
+"Sage, Mr. John George",male,NA,NA,NA,NA,NA,rico,morto
+"Sage, Mrs. John (Annie Bullen)",female,NA,NA,NA,NA,NA,rico,morto
+"Salander, Mr. Karl Johan",male,24,NA,3239.33122279309,168.340269703192,72.0844805363773,rico,morto
+"Salkjelsvik, Miss. Anna Kristine",female,21,NA,5941.61271970533,150.593888433328,41.424468343243,rico,vivo
+"Salonen, Mr. Johan Werner",male,39,NA,3425.16497174185,165.372681286678,64.3315632514272,rico,morto
+"Samaan, Mr. Elias",male,NA,NA,NA,NA,NA,rico,morto
+"Samaan, Mr. Hanna",male,NA,NA,NA,NA,NA,rico,morto
+"Samaan, Mr. Youssef",male,NA,NA,NA,NA,NA,rico,morto
+"Sandstrom, Miss. Beatrice Irene",female,1,NA,264.139266108535,68.0693068799753,11.1242805040737,rico,vivo
+"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24,NA,5129.64170636237,157.759935392505,51.5670621365746,rico,vivo
+"Sandstrom, Miss. Marguerite Rut",female,4,NA,114.113988658506,109.396159922049,26.6780932587231,rico,vivo
+"Sap, Mr. Julius",male,25,NA,6393.46222070139,167.271133248056,64.3275746354852,rico,vivo
+"Saundercock, Mr. William Henry",male,20,NA,576.003483902849,176.118661380549,78.7466704013,rico,morto
+"Sawyer, Mr. Frederick Charles",male,24.5,NA,6481.07073177025,188.541625260184,86.0136624286642,rico,morto
+"Scanlan, Mr. James",male,NA,NA,NA,NA,NA,rico,morto
+"Sdycoff, Mr. Todor",male,NA,NA,NA,NA,NA,rico,morto
+"Shaughnessy, Mr. Patrick",male,NA,NA,NA,NA,NA,rico,morto
+"Sheerlinck, Mr. Jan Baptist",male,29,NA,94.2541281664744,152.644329173118,49.4288502067664,rico,vivo
+"Shellard, Mr. Frederick William",male,NA,NA,NA,NA,NA,rico,morto
+"Shine, Miss. Ellen Natalia",female,NA,NA,NA,NA,NA,rico,vivo
+"Shorney, Mr. Charles Joseph",male,NA,NA,NA,NA,NA,rico,morto
+"Simmons, Mr. John",male,NA,NA,NA,NA,NA,rico,morto
+"Sirayanian, Mr. Orsen",male,22,NA,1075.81377523206,183.28887447234,76.281758548018,rico,morto
+"Sirota, Mr. Maurice",male,NA,NA,NA,NA,NA,rico,morto
+"Sivic, Mr. Husein",male,40,NA,183.458494512364,170.724518936385,57.7913253772273,rico,morto
+"Sivola, Mr. Antti Wilhelm",male,21,NA,3237.01291236654,194.449487112553,84.9151173259491,rico,morto
+"Sjoblom, Miss. Anna Sofia",female,18,NA,1258.93869827036,130.454174550106,40.8482303880326,rico,vivo
+"Skoog, Master. Harald",male,4,NA,255.195471598953,115.766674956458,27.5799747212197,rico,morto
+"Skoog, Master. Karl Thorsten",male,10,NA,36.0260466214269,135.839725322309,43.7225123324145,rico,morto
+"Skoog, Miss. Mabel",female,9,NA,6.07432313440368,118.786769256284,31.2835247696465,rico,morto
+"Skoog, Miss. Margit Elizabeth",female,2,NA,84.0181140342727,75.2820175565119,13.9199252974299,rico,morto
+"Skoog, Mr. Wilhelm",male,40,NA,1077.29419738892,139.617979887202,39.1338750523825,rico,morto
+"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45,NA,7834.14912193827,138.564708850798,45.618422722947,rico,morto
+"Slabenoff, Mr. Petco",male,NA,NA,NA,NA,NA,rico,morto
+"Slocovski, Mr. Selman Francis",male,NA,NA,NA,NA,NA,rico,morto
+"Smiljanic, Mr. Mile",male,NA,NA,NA,NA,NA,rico,morto
+"Smith, Mr. Thomas",male,NA,NA,NA,NA,NA,rico,morto
+"Smyth, Miss. Julia",female,NA,NA,NA,NA,NA,rico,vivo
+"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19,NA,35.9315567387268,175.926957830166,69.1761866824128,rico,morto
+"Somerton, Mr. Francis William",male,30,NA,8194.36910960544,160.451272379637,61.7896421769142,rico,morto
+"Spector, Mr. Woolf",male,NA,NA,NA,NA,NA,rico,morto
+"Spinner, Mr. Henry John",male,32,NA,6478.46077381074,190.677281177798,68.1002860231529,rico,morto
+"Staneff, Mr. Ivan",male,NA,NA,NA,NA,NA,rico,morto
+"Stankovic, Mr. Ivan",male,33,NA,182.817966515198,178.596760061773,73.3599783012459,rico,morto
+"Stanley, Miss. Amy Zillah Elsie",female,23,NA,273.694105703384,131.916697904931,45.1241766657764,rico,vivo
+"Stanley, Mr. Edward Roland",male,21,NA,4137.73273372091,199.054147014472,99.3259063484753,rico,morto
+"Storey, Mr. Thomas",male,60.5,NA,1983.48850606475,171.195449859845,71.163493351454,rico,morto
+"Stoytcheff, Mr. Ilia",male,19,NA,1547.89811859727,160.061482504486,65.1571216764796,rico,morto
+"Strandberg, Miss. Ida Sofia",female,22,NA,5219.50623102486,158.382326745263,47.1153455782455,rico,morto
+"Stranden, Mr. Juho",male,31,NA,5397.2599961143,156.307105698945,50.9129019680496,rico,vivo
+"Strilic, Mr. Ivan",male,27,NA,4593.91451268084,169.702406471877,60.8303724771177,rico,morto
+"Strom, Miss. Telma Matilda",female,2,NA,237.02438715538,60.9342545481975,10.4618358823907,rico,morto
+"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29,NA,2515.89119517524,142.194207990465,51.3609565208901,rico,morto
+"Sunderland, Mr. Victor Francis",male,16,NA,1763.95001366939,190.349367493107,77.3609924475151,rico,vivo
+"Sundman, Mr. Johan Julian",male,44,NA,2432.46307932492,161.531856695339,51.9657285967755,rico,vivo
+"Sutehall, Mr. Henry Jr",male,25,NA,86.7441221885383,150.945594650646,51.2801507051517,rico,morto
+"Svensson, Mr. Johan",male,74,NA,6395.28413245641,162.74402395522,58.1879417599698,rico,morto
+"Svensson, Mr. Johan Cervin",male,14,NA,314.884806309594,172.309741087787,74.0526884369094,rico,vivo
+"Svensson, Mr. Olof",male,24,NA,3684.05638581142,161.42472250451,64.199200662621,rico,morto
+"Tenglin, Mr. Gunnar Isidor",male,25,NA,6654.8590228809,149.966506250854,51.8379654390799,rico,vivo
+"Theobald, Mr. Thomas Leonard",male,34,NA,445.676680024713,114.42016476302,38.9501518642928,rico,morto
+"Thomas, Master. Assad Alexander",male,0.4167,NA,39.1250945189036,63.9022948222635,8.7341693460007,rico,vivo
+"Thomas, Mr. Charles P",male,NA,NA,NA,NA,NA,rico,morto
+"Thomas, Mr. John",male,NA,NA,NA,NA,NA,rico,morto
+"Thomas, Mr. Tannous",male,NA,NA,NA,NA,NA,rico,morto
+"Thomas, Mrs. Alexander (Thamine ""Thelma"")",female,16,NA,54.34780667983,182.178102027122,62.9917598097602,rico,vivo
+"Thomson, Mr. Alexander Morrison",male,NA,NA,NA,NA,NA,rico,morto
+"Thorneycroft, Mr. Percival",male,NA,NA,NA,NA,NA,rico,morto
+"Thorneycroft, Mrs. Percival (Florence Kate White)",female,NA,NA,NA,NA,NA,rico,vivo
+"Tikkanen, Mr. Juho",male,32,NA,6295.30585609004,180.662726159563,67.5319799319667,rico,morto
+"Tobin, Mr. Roger",male,NA,NA,NA,NA,NA,rico,morto
+"Todoroff, Mr. Lalio",male,NA,NA,NA,NA,NA,rico,morto
+"Tomlin, Mr. Ernest Portage",male,30.5,NA,2787.19268123154,161.511765516994,58.4701174918309,rico,morto
+"Torber, Mr. Ernst William",male,44,NA,8458.59122232255,148.467093989352,51.9940412935843,rico,morto
+"Torfa, Mr. Assad",male,NA,NA,NA,NA,NA,rico,morto
+"Tornquist, Mr. William Henry",male,25,NA,2971.53408118989,169.890309978827,60.490542213602,rico,vivo
+"Toufik, Mr. Nakli",male,NA,NA,NA,NA,NA,rico,morto
+"Touma, Master. Georges Youssef",male,7,NA,227.804151587002,99.1256271164256,22.5106816706404,rico,vivo
+"Touma, Miss. Maria Youssef",female,9,NA,66.134141402971,102.697168072044,27.2649902433588,rico,vivo
+"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29,NA,8906.66979900654,138.936559038279,38.2910094359702,rico,vivo
+"Turcin, Mr. Stjepan",male,36,NA,1170.9329378251,120.846653052172,30.7922378073038,rico,morto
+"Turja, Miss. Anna Sofia",female,18,NA,1674.04167485721,138.66569931635,41.7345519158268,rico,vivo
+"Turkula, Mrs. (Hedwig)",female,63,NA,7824.29255356081,148.796926786249,52.7903042396059,rico,vivo
+"van Billiard, Master. James William",male,NA,NA,NA,NA,NA,rico,morto
+"van Billiard, Master. Walter John",male,11.5,NA,94.2056660464034,173.60602318792,74.8231232731675,rico,morto
+"van Billiard, Mr. Austin Blyler",male,40.5,NA,8554.46333713084,174.731664447891,80.9904436424741,rico,morto
+"Van Impe, Miss. Catharina",female,10,NA,267.148518191837,113.849602772343,29.846863695875,rico,morto
+"Van Impe, Mr. Jean Baptiste",male,36,NA,5045.62228474673,169.151910773839,60.1455341600622,rico,morto
+"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30,NA,3961.07547151856,126.446361350518,36.0990249514109,rico,morto
+"van Melkebeke, Mr. Philemon",male,NA,NA,NA,NA,NA,rico,morto
+"Vande Velde, Mr. Johannes Joseph",male,33,NA,3504.67917835247,174.263740260798,66.3071971585146,rico,morto
+"Vande Walle, Mr. Nestor Cyriel",male,28,NA,6755.68073384743,138.414521252385,47.6076995703534,rico,morto
+"Vanden Steen, Mr. Leo Peter",male,28,NA,8998.24359518196,140.150047838658,37.3792013831219,rico,morto
+"Vander Cruyssen, Mr. Victor",male,47,NA,6746.55184941273,186.393122703914,80.8116336762216,rico,morto
+"Vander Planke, Miss. Augusta Maria",female,18,NA,558.621958569624,141.769915912496,44.161312224898,rico,morto
+"Vander Planke, Mr. Julius",male,31,NA,1083.84191927221,179.790393685674,75.0403053555618,rico,morto
+"Vander Planke, Mr. Leo Edmondus",male,16,NA,449.391632238776,157.1122653215,46.7374672809573,rico,morto
+"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31,NA,1705.87188836373,147.197990652403,43.4327925664327,rico,morto
+"Vartanian, Mr. David",male,22,NA,5853.5000429051,157.753010781815,56.3862507363929,rico,vivo
+"Vendel, Mr. Olof Edvin",male,20,NA,1711.19395219982,173.272884138677,71.5442449819271,rico,morto
+"Vestrom, Miss. Hulda Amanda Adolfina",female,14,NA,395.783162193792,127.910884814418,37.4321345963795,rico,morto
+"Vovk, Mr. Janko",male,22,NA,6035.31678755209,134.361854909383,39.5888094176154,rico,morto
+"Waelens, Mr. Achille",male,22,"Antwerp, Belgium / Stanton, OH",6029.90371264983,158.207342584669,48.6978350435104,rico,morto
+"Ware, Mr. Frederick",male,NA,NA,NA,NA,NA,rico,morto
+"Warren, Mr. Charles William",male,NA,NA,NA,NA,NA,rico,morto
+"Webber, Mr. James",male,NA,NA,NA,NA,NA,rico,morto
+"Wenzel, Mr. Linhart",male,32.5,NA,3061.49111113418,181.96016370727,64.894940802607,rico,morto
+"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",female,38,NA,6297.15779110137,125.729037204505,33.654114431084,rico,vivo
+"Widegren, Mr. Carl/Charles Peter",male,51,NA,4865.32254575193,183.883634689222,71.9740475498881,rico,morto
+"Wiklund, Mr. Jakob Alfred",male,18,NA,827.680924506113,189.946850377637,72.5110632516267,rico,morto
+"Wiklund, Mr. Karl Johan",male,21,NA,1084.98578547221,183.034978645674,77.1917524476414,rico,morto
+"Wilkes, Mrs. James (Ellen Needs)",female,47,NA,6754.73141151387,195.367870215124,76.711972980747,rico,vivo
+"Willer, Mr. Aaron (""Abi Weller"")",male,NA,NA,NA,NA,NA,rico,morto
+"Willey, Mr. Edward",male,NA,NA,NA,NA,NA,rico,morto
+"Williams, Mr. Howard Hugh ""Harry""",male,NA,NA,NA,NA,NA,rico,morto
+"Williams, Mr. Leslie",male,28.5,NA,7021.93831242621,167.432600391952,59.4638388105475,rico,morto
+"Windelov, Mr. Einar",male,21,NA,7201.0575101506,166.481284173093,53.8215903869283,rico,morto
+"Wirz, Mr. Albert",male,27,NA,1983.30110313278,174.90369450669,65.1350178366624,rico,morto
+"Wiseman, Mr. Phillippe",male,NA,NA,NA,NA,NA,rico,morto
+"Wittevrongel, Mr. Camille",male,36,NA,2334.62449047714,149.146177831471,46.7836892522689,rico,morto
+"Yasbeck, Mr. Antoni",male,27,NA,993.772653982043,161.45666363123,58.9229392072309,rico,morto
+"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15,NA,323.756856336538,106.260389681998,24.7819965343305,rico,vivo
+"Youseff, Mr. Gerious",male,45.5,NA,3508.7404542407,169.140512251793,56.0238038674037,rico,morto
+"Yousif, Mr. Wazli",male,NA,NA,NA,NA,NA,rico,morto
+"Yousseff, Mr. Gerious",male,NA,NA,NA,NA,NA,rico,morto
+"Zabour, Miss. Hileni",female,14.5,NA,63.0138692457229,124.510079401815,31.4265845015024,rico,morto
+"Zabour, Miss. Thamine",female,NA,NA,NA,NA,NA,rico,morto
+"Zakarian, Mr. Mapriededer",male,26.5,NA,453.778783564456,162.929044474869,55.6264555837385,rico,morto
+"Zakarian, Mr. Ortin",male,27,NA,6751.97703743074,170.589774685457,68.0221662281474,rico,morto
+"Zimmerman, Mr. Leo",male,29,NA,7471.53033131361,152.814417205032,42.7796508535018,rico,morto
