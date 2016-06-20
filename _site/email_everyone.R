@@ -32,22 +32,22 @@ for (i in 1:nrow(people)){
     content <- 
       paste0('\n\n',
              person, ',\n\n',
-             'Nós estamos a enviar este email para você porque ',
+             'Estamos a enviar este email para você porque ',
              'assinou ao primeiro módulo (de 5) da ',
              'introdução a R para principiantes no Cism.\n\n',
              
              'Aqui fica a agenda das próximas aulas de ',
-             'introdução a R no CISM: http://cismr.com/calendario/. ',
+             'introdução ao R no CISM: http://cismr.com/calendario/. ',
              'Por favor, estejem cientes de que os dias e as horas ',
-             'podem mudar; si há alterações, vamos atualizar a web.\n\n',
-             'No final dos cinco módulos (29 de junho), havera um segundo ',
-             'inquerito que sera para medir o nivel de', 
+             'podem mudar; si há alterações, vamos atualizar na web.\n\n',
+             'No final dos cinco módulos (29 de junho), haverá um segundo ',
+             'inquérito que sera para medir o nivel dos ', 
              'conhecimentos adquiridos.\n\n',
              
-             'O curso de nivel intermediário (para os graduados ',
+             'O curso de nível intermediário (para os graduados ',
              'destes 5 módulos) terá lugar em setembro a volta a ',
              'Manhiça de Joe Brew e Lucía Fernández.\n\n',
-             'Cordias saudaçoes,\n\n',
+             'Cordiais saudaçoes,\n\n',
              'Joe Brew e Lucía Fernández')
     
     send.mail(from = "joebrew@gmail.com",
