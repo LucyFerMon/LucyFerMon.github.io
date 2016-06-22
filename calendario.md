@@ -23,7 +23,7 @@ Módulo 2
 
 ## 2016-06-22
 
-13:00-15:00, Biblioteca
+13:30-15:00, Biblioteca
 
 Módulo 3
 
