@@ -5,8 +5,8 @@
     <description>aprendizagem de R no CISM para iniciantes</description>
     <link>lucyfermon.github.io/</link>
     <atom:link href="lucyfermon.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 26 Jun 2016 14:13:36 +0200</pubDate>
-    <lastBuildDate>Sun, 26 Jun 2016 14:13:36 +0200</lastBuildDate>
+    <pubDate>Sun, 26 Jun 2016 14:36:00 +0200</pubDate>
+    <lastBuildDate>Sun, 26 Jun 2016 14:36:00 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -289,21 +289,59 @@ install.packages('raster')
         <title>Módulo 5</title>
         <description>&lt;p&gt;2016-06-29 13:00-15:00&lt;/p&gt;
 
-&lt;h1 id=&quot;putting-it-all-together&quot;&gt;Putting it all together&lt;/h1&gt;
+&lt;h1 id=&quot;evaluation-and-final-class&quot;&gt;Evaluation and final class&lt;/h1&gt;
 
-&lt;p&gt;Today is your final evaluation. But before we get there, here are some more resources for future learning in R.&lt;/p&gt;
+&lt;p&gt;Here is your final evaluation. It is a “creative” assignment.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Use Excel to create a spreadsheet. Save it as “mydata.csv”. Make sure to use the “csv” format (not Microsoft’s Excel format).&lt;/li&gt;
+  &lt;li&gt;Think of 3 questions to ask your colleagues.
+    &lt;ul&gt;
+      &lt;li&gt;Question 1 must have a numeric answer (for example, “How old are you?” or “How tall are you?”)&lt;/li&gt;
+      &lt;li&gt;Question 2 must have a categorical answer (for example, “What is your sex?” or “Are you Mozambican?” or “Do you prefer Barcelona Football Club or Real Madrid?”)&lt;/li&gt;
+      &lt;li&gt;Question 3 can be anything you want&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;On the top row of your spreadsheet, create cells for “name”, “q1”, “q2”, “q3”.&lt;/li&gt;
+  &lt;li&gt;Ask &lt;em&gt;at least&lt;/em&gt; 10 colleagues your 3 questions. Save the responses in your spreadsheet&lt;/li&gt;
+  &lt;li&gt;Create an R script called “mycode.csv”. In this R script, read in your data (“mydata.csv”) and perform an analysis. This analysis can be anything you want, but should reflect the things you’ve learned in the class.&lt;/li&gt;
+  &lt;li&gt;When you’re finished, email the following 3 things to joebrew@gmail.com
+    &lt;ul&gt;
+      &lt;li&gt;Your 3 questions&lt;/li&gt;
+      &lt;li&gt;mydata.csv&lt;/li&gt;
+      &lt;li&gt;mycode.R&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;other-details&quot;&gt;Other details&lt;/h1&gt;
+
+&lt;p&gt;Congratulations! You have made it to the end of the “Introduction to R” class.&lt;/p&gt;
 
 &lt;h2 id=&quot;books&quot;&gt;Books&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;R in Action&quot;&gt;http://cismr.com/rinaction.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here are some great books for continuing your learning of R&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cismr.com/rinaction.pdf&quot;&gt;R in Action&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cismr.com/rforspatialanalysis.pdf&quot;&gt;R for spatial analysis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cismr.com/openintrostats.pdf&quot;&gt;Open introduction to statistics with R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;advanced-packages&quot;&gt;Advanced packages&lt;/h2&gt;
 
+&lt;p&gt;Here are some great packages for continuing with R&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;dplyr, leaflet, pplotly, rcharts, shiny&lt;/li&gt;
+  &lt;li&gt;dplyr, ggplot2, leaflet, pplotly, rcharts, shiny&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;evaluation&quot;&gt;Evaluation&lt;/h1&gt;
+&lt;h2 id=&quot;advanced-class&quot;&gt;Advanced class&lt;/h2&gt;
+
+&lt;p&gt;Beginning in September, we will have an “advanced” R class at CISM. However, in order to qualify for this class, you first need to submit the exercise from &lt;a href=&quot;http://cismr.com/2016/modulo-4&quot;&gt;Modulo 4&lt;/a&gt; and complete the evaluation (below).&lt;/p&gt;
+
+&lt;p&gt;Please email your evaluation to joebrew@gmail.com before July 1, 2016.&lt;/p&gt;
+
 </description>
         <pubDate>Tue, 14 Jun 2016 21:00:00 +0200</pubDate>
         <link>lucyfermon.github.io/2016/modulo-5</link>
