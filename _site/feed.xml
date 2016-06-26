@@ -5,8 +5,8 @@
     <description>aprendizagem de R no CISM para iniciantes</description>
     <link>lucyfermon.github.io/</link>
     <atom:link href="lucyfermon.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Jun 2016 10:19:18 +0200</pubDate>
-    <lastBuildDate>Wed, 22 Jun 2016 10:19:18 +0200</lastBuildDate>
+    <pubDate>Sun, 26 Jun 2016 13:59:56 +0200</pubDate>
+    <lastBuildDate>Sun, 26 Jun 2016 13:59:56 +0200</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -252,25 +252,23 @@ install.packages('raster')
         <title>Módulo 4</title>
         <description>&lt;p&gt;2016-06-28 13:00-15:00&lt;/p&gt;
 
-&lt;h1 id=&quot;visualizing-data&quot;&gt;Visualizing data&lt;/h1&gt;
+&lt;h1 id=&quot;performing-an-entire-analysis-from-a-to-z&quot;&gt;Performing an entire analysis from A to Z&lt;/h1&gt;
 
-&lt;p&gt;Some tools for making beautiful charts following the “grammar of graphics”&lt;/p&gt;
+&lt;p&gt;For this class, YOU are the teacher.&lt;/p&gt;
 
-&lt;h2 id=&quot;ggplot2-and-the-grammar-of-graphics&quot;&gt;ggplot2 and the grammar of graphics&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;barplots&lt;/li&gt;
-  &lt;li&gt;scatterplots&lt;/li&gt;
-  &lt;li&gt;histograms&lt;/li&gt;
-  &lt;li&gt;stacking&lt;/li&gt;
-  &lt;li&gt;aesthetics and grouping&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ggmap&quot;&gt;ggmap&lt;/h2&gt;
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;How to make information-rich and beautiful maps&lt;/li&gt;
+  &lt;li&gt;Please download the following R script.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cismr.com/modulo4activity.R&quot;&gt;http://cismr.com/modulo4activity.R&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Please install the following package if you have not already: gapminder&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;activity&quot;&gt;Activity&lt;/h2&gt;
 </description>
         <pubDate>Tue, 14 Jun 2016 22:00:00 +0200</pubDate>
         <link>lucyfermon.github.io/2016/modulo-4</link>
