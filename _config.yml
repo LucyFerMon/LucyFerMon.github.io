@@ -1,15 +1,27 @@
 # Site settings
-title:        "R no CISM"
-description:  "aprendizagem de R no CISM para iniciantes"
-baseurl:      "" # the subpath of your site, e.g. /blog/
-url:          "lucyfermon.github.io" # the base hostname & protocol for your site
-permalink:    /:year/:title
-github:       "https://github.com/LucyFerMon/"
-twitter:      “LucyFerMon”
-email:        “lucia.fmontoya@gmail.com"
-disqus-id:    "" #leave blank if you dont want comments.
+title: data is beautiful
+email: joebrew@gmail.com
+url: http://cismr.com
+baseurl: 
+description: "science is amazing. presentations and papers should not be boring."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: data is beautiful
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: youtube
+    url: https://www.youtube.com/
+  - title: twitter
+    url: https://twitter.com/bcndata
+  - title: facebook
+    url: https://www.facebook.com/krijn.paaijmans
 
 # Build settings
-markdown:     kramdown
-sass:
-    style: :compressed
+markdown: kramdown
+permalink: pretty
