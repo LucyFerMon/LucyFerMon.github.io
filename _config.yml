@@ -1,9 +1,9 @@
 # Site settings
-title: data is beautiful
-email: joebrew@gmail.com
+title: BETTER WORK APP
+email: asanchezrodelgo@ifc.org
 url: http://cismr.com
 baseurl: 
-description: "science is amazing. presentations and papers should not be boring."
+description: "A collaboration between Better Work, Tufts University, and the World Bank"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -11,16 +11,16 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: data is beautiful
+footer: work better
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: youtube
-    url: https://www.youtube.com/
-  - title: twitter
-    url: https://twitter.com/bcndata
-  - title: facebook
-    url: https://www.facebook.com/krijn.paaijmans
+# social:
+#   - title: youtube
+#     url: https://www.youtube.com/
+#   - title: twitter
+#     url: https://twitter.com/bcndata
+#   - title: facebook
+#     url: https://www.facebook.com/krijn.paaijmans
 
 # Build settings
 markdown: kramdown
